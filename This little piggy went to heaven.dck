@@ -9,7 +9,6 @@ Name=This little piggy went to heaven
 1 Austere Command|IMA|1
 1 Avacyn, Angel of Hope|IMA|1
 1 Baneslayer Angel|M21|1
-1 Battle Angels of Tyr|CLB|1
 1 Beast Within|DDL|1
 1 Boseiju, Who Endures|NEO|1
 1 Bountiful Promenade|CLB|1
@@ -44,6 +43,7 @@ Name=This little piggy went to heaven
 1 Linvala, Keeper of Silence|MM3|1
 1 Lion Sash|NEO|1
 1 Lyra Dawnbringer|DMR|1
+1 Master of Ceremonies|NCC|2
 1 Nature's Lore|DMR|1
 1 Overgrown Farmland|MID|1
 1 Path to Exile|2X2|1
@@ -83,5 +83,3 @@ Name=This little piggy went to heaven
 1 Wilt|IKO|1
 1 Wooded Bastion|2XM|1
 1 Zenith Chronicler|ONE|1
-[Sideboard]
-
