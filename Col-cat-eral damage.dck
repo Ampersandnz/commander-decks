@@ -11,6 +11,7 @@ Name=Col-cat-eral damage
 1 Blood Crypt|RNA|1
 1 Bloodghast|PLIST|1
 1 Bloodstained Mire|KTK|1
+1 Bonehoard Dracosaur|LCI|1
 1 Boseiju, Who Endures|NEO|1
 1 Braids, Arisen Nightmare|DMU|1
 1 Chatterfang, Squirrel General|J21|1
@@ -18,7 +19,6 @@ Name=Col-cat-eral damage
 1 City of Traitors|TPR|1
 1 Command Tower|ELD|1
 1 Corrupted Conviction|MOM|1
-1 Costly Plunder|2XM|1
 1 Deadly Dispute|AFR|1
 1 Deathcap Glade|VOW|1
 1 Defense of the Heart|J16|1
@@ -26,7 +26,6 @@ Name=Col-cat-eral damage
 1 Dockside Extortionist|2X2|1
 1 Dragon Broodmother|ARB|1
 1 Dragonlair Spider|PCA|1
-1 Drivnod, Carnage Dominus|ONE|1
 1 Elves of Deep Shadow|DDJ|1
 1 Emergence Zone|WAR|1
 1 Exotic Orchard|CFX|1
@@ -42,7 +41,6 @@ Name=Col-cat-eral damage
 1 Haywire Mite|BRO|1
 1 Ignoble Hierarch|MH2|1
 1 Infernal Grasp|MID|1
-1 Kinzu of the Bleak Coven|ONE|1
 1 Korvold, Fae-Cursed King|PLIST|1
 1 Lord Windgrace|C18|1
 1 Lotus Field|M20|1
@@ -57,16 +55,18 @@ Name=Col-cat-eral damage
 1 Nadier's Nightblade|CMR|1
 1 Nature's Lore|DMR|1
 1 Nesting Dragon|C18|1
+1 Orcish Bowmasters|LTR|1
 1 Overgrown Tomb|GRN|1
 1 Parallel Lives|ISD|1
 1 Pawn of Ulamog|ROE|1
 1 Phyrexian Altar|2X2|1
 1 Phyrexian Tower|UMA|1
+1 Pile On|MOM|2
 1 Pitiless Plunderer|PLIST|1
 1 Plaguecrafter|GRN|1
 1 Poison-Tip Archer|M19|1
 1 Prowling Geistcatcher|MIC|1
-1 Reckoner's Bargain|NEO|1
+1 Redcap Gutter-Dweller|WOE|2
 1 Riveteers Overlook|SNC|1
 1 Rockfall Vale|MID|1
 1 Scute Swarm|ZNR|1
@@ -92,5 +92,3 @@ Name=Col-cat-eral damage
 1 Wooded Foothills|KTK|1
 1 Ziatora's Proving Ground|SNC|1
 1 Zulaport Cutthroat|C20|1
-[Sideboard]
-

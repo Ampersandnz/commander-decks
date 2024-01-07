@@ -12,11 +12,12 @@ Name=Ur, ackshually
 1 Blood Crypt|RNA|1
 1 Bloodstained Mire|KTK|1
 1 Bloom Tender|2X2|1
+1 Bonehoard Dracosaur|LCI|1
 1 Boseiju, Who Endures|NEO|1
 1 Breeding Pool|RNA|1
 1 Carnelian Orb of Dragonkind|HBG|1
+1 Cavern of Souls|LCI|1
 1 Command Tower|ELD|1
-1 Crucible of Fire|IMA|1
 1 Crux of Fate|FRF|1
 1 Defense of the Heart|J16|1
 1 Despark|WAR|1
@@ -34,7 +35,7 @@ Name=Ur, ackshually
 1 Flooded Strand|KTK|1
 3 Forest|DMU|4
 1 Garruk's Uprising|M21|1
-1 Generous Gift|MOC|1
+1 Get Lost|LCI|1
 1 Godless Shrine|RNA|1
 1 Hallowed Fountain|RNA|1
 1 Hellkite Courser|CMR|1
@@ -55,7 +56,6 @@ Name=Ur, ackshually
 1 Morophon, the Boundless|PLIST|1
 4 Mountain|DMU|4
 1 Nature's Lore|DMR|1
-1 Orb of Dragonkind|AFR|1
 1 Overgrown Tomb|GRN|1
 1 Plains|DMU|4
 1 Plaza of Heroes|DMU|1
@@ -63,6 +63,7 @@ Name=Ur, ackshually
 1 Protection Racket|NCC|1
 1 Ranger's Path|M13|1
 1 Rivaz of the Claw|DMU|1
+1 Roaming Throne|LCI|1
 1 Sacred Foundry|GRN|1
 1 Sarkhan, Soul Aflame|MAT|1
 1 Scalding Tarn|MM3|1
@@ -77,6 +78,7 @@ Name=Ur, ackshually
 1 Sol Ring|MIC|1
 1 Steam Vents|GRN|1
 1 Stomping Ground|RNA|1
+1 Stroke of Midnight|WOE|1
 1 Sunscorch Regent|DTK|1
 1 Swamp|DMU|4
 1 Swords to Plowshares|DMR|1
@@ -89,13 +91,9 @@ Name=Ur, ackshually
 1 Two-Headed Hellkite|DMC|1
 1 Unclaimed Territory|XLN|1
 1 Utvara Hellkite|RTR|1
-1 Vaevictis Asmadi, the Dire|PLIST|1
 1 Vanishing Verse|STX|1
 1 Verdant Catacombs|MM3|1
-1 Void Rend|SNC|1
 1 Watery Grave|GRN|1
 1 Windswept Heath|KTK|1
 1 Wooded Foothills|KTK|1
 1 Wrathful Red Dragon|HBG|1
-[Sideboard]
-

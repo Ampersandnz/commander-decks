@@ -24,16 +24,14 @@ Name=That Familiar Feeling
 1 Destroy Evil|DMU|1
 1 Disdainful Stroke|SNC|1
 1 Dolmen Gate|LRW|1
-1 Dovin's Veto|WAR|1
 1 Dream Trawler|THB|1
 1 Eiganjo Castle|PLIST|1
 1 Eiganjo, Seat of the Empire|NEO|1
 1 Fellwar Stone|PLIST|1
 1 Feywild Visitor|CLB|1
-1 Firemane Commando|MOC|1
 1 Flaming Fist|CLB|1
 1 Flooded Strand|KTK|1
-1 Generous Gift|MOC|1
+1 Get Lost|LCI|1
 1 Glacial Floodplain|KHM|1
 1 Glacial Fortress|XLN|1
 1 Gold-Forged Thopteryx|MAT|1
@@ -48,6 +46,8 @@ Name=That Familiar Feeling
 1 Ledger Shredder|SNC|1
 1 Lofty Denial|M21|1
 1 Loyal Drake|C18|1
+1 Malcolm, Alluring Scoundrel|LCI|2
+1 Malleable Impostor|WOC|2
 1 Mox Amber|DOM|1
 1 Negate|MOM|1
 1 Nimbus Maze|IMA|1
@@ -72,10 +72,10 @@ Name=That Familiar Feeling
 1 Sol Ring|MIC|1
 1 Staggering Insight|THB|1
 1 Steel Seraph|BRO|1
+1 Stroke of Midnight|WOE|1
 1 Stubborn Denial|KTK|1
 1 Submerge|NMS|1
 1 Sunscorch Regent|DTK|1
-1 Sword Coast Sailor|CLB|1
 1 Swords to Plowshares|DMR|1
 1 Talisman of Progress|MRD|1
 1 Thought Vessel|PLIST|1
@@ -84,5 +84,3 @@ Name=That Familiar Feeling
 1 Valorous Stance|VOW|1
 1 Windreader Sphinx|M19|1
 1 Wingspan Mentor|IKO|1
-[Sideboard]
-
