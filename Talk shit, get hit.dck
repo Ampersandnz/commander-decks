@@ -48,7 +48,7 @@ Name=Talk shit, get hit
 1 Mana Geyser|PLIST|1
 1 Mind Stone|DMR|1
 1 Moonveil Regent|MID|1
-30 Mountain|DMU|4
+31 Mountain|THB|1
 1 Price of Progress|EMA|1
 1 Professional Face-Breaker|SNC|1
 1 Quest for Pure Flame|ZEN|1
@@ -72,3 +72,5 @@ Name=Talk shit, get hit
 1 Wheel of Fortune|VMA|1
 1 Wheel of Misfortune|CMR|1
 1 Witch's Mark|WOE|1
+[Sideboard]
+
