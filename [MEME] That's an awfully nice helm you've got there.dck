@@ -1,7 +1,7 @@
 [metadata]
 Name=[MEME] That's an awfully nice helm you've got there
 [Commander]
-1 Zurgo Helmsmasher|SLD|1
+1 Zurgo Helmsmasher|KTK|1
 [Main]
 1 All That Glitters|ELD|1
 1 Ambition's Cost|MOC|1
@@ -9,10 +9,10 @@ Name=[MEME] That's an awfully nice helm you've got there
 1 Anguished Unmaking|SIR|1
 1 Arcane Signet|MOC|1
 1 Arid Mesa|MH2|1
-1 Assault Suit|40K|1
+1 Assault Suit|CMA|1
 1 Axgard Armory|KHM|1
 1 Blasphemous Act|SCD|1
-1 Blood Crypt|UNF|1
+1 Blood Crypt|RNA|1
 1 Bloodstained Mire|ZNE|1
 1 Boros Charm|ONC|1
 1 Boros Signet|ONC|1
@@ -21,11 +21,11 @@ Name=[MEME] That's an awfully nice helm you've got there
 1 Command Tower|MOC|1
 1 Commander's Plate|CMR|1
 1 Commander's Sphere|MOC|1
-1 Cranial Plating|BRC|1
+1 Cranial Plating|C16|1
 1 Crawlspace|DMR|1
 1 Damn|MH2|1
 1 Damnation|2X2|1
-1 Day of Judgment|STA|1
+1 Day of Judgment|M12|1
 1 Deflecting Swat|C20|1
 1 Despark|MOC|1
 1 Dragonskull Summit|DMC|1
@@ -37,9 +37,9 @@ Name=[MEME] That's an awfully nice helm you've got there
 1 Fumigate|ONC|1
 1 Generous Gift|MOC|1
 1 Gift of Immortality|THS|1
-1 Godless Shrine|UNF|1
+1 Godless Shrine|RNA|1
 1 Hammer of Nazahn|2XM|1
-1 Helm of the Host|BRR|1
+1 Helm of the Host|DOM|1
 1 Homeward Path|J17|1
 1 Inquisitor's Flail|ISD|1
 1 Inventors' Fair|KLR|1
@@ -63,7 +63,7 @@ Name=[MEME] That's an awfully nice helm you've got there
 1 Rakdos Signet|SCD|1
 1 Rebuff the Wicked|TSR|1
 1 Rogue's Passage|MOC|1
-1 Sacred Foundry|UNF|1
+1 Sacred Foundry|GRN|1
 1 Savai Triome|IKO|1
 1 Sejiri Shelter|ZNR|1
 1 Shadowspear|THB|1
@@ -71,16 +71,16 @@ Name=[MEME] That's an awfully nice helm you've got there
 1 Sigarda's Aid|SIR|1
 1 Skyclave Relic|MOC|1
 1 Smoke|30A|1
-1 Sol Ring|LTC|1
+1 Sol Ring|MIC|1
 1 Spectator Seating|CMR|1
 1 Sunforger|CMR|1
 2 Swamp|DMU|4
-1 Swiftfoot Boots|PL23|1
+1 Swiftfoot Boots|KHC|1
 1 Sword of Feast and Famine|PLIST|1
 1 Sword of Fire and Ice|2XM|1
 1 Sword of Forge and Frontier|ONE|1
 1 Sword of the Animist|AFC|1
-1 Sword of Truth and Justice|H1R|1
+1 Sword of Truth and Justice|MH1|1
 1 Talisman of Conviction|ONC|1
 1 Talisman of Hierarchy|MOC|1
 1 Talisman of Indulgence|SCD|1
@@ -88,7 +88,7 @@ Name=[MEME] That's an awfully nice helm you've got there
 1 Tenza, Godo's Maul|DMC|1
 1 Urza's Saga|MH2|1
 1 Vanishing Verse|STX|1
-1 Vanquish the Horde|DBL|1
+1 Vanquish the Horde|MID|1
 1 Vault of Champions|CMR|1
 1 Wear // Tear|MOC|1
 1 Worldslayer|M12|1
