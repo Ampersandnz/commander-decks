@@ -5,12 +5,12 @@ Name=Episode 9: The Rise of Planeswalker
 [Main]
 1 Apprentice Necromancer|UMA|1
 1 Arcane Signet|MOC|1
-1 Ashnod's Altar|BRR|1
+1 Ashnod's Altar|EMA|1
 1 Benthic Biomancer|RNA|1
 1 Blasphemous Act|SCD|1
-1 Blood Crypt|UNF|1
+1 Blood Crypt|RNA|1
 1 Bloodline Necromancer|VOC|1
-1 Bloodstained Mire|ZNE|1
+1 Bloodstained Mire|KTK|1
 1 Bloodtracker|J22|1
 1 By Force|AKR|1
 1 Cloudkin Seer|ANB|1
@@ -21,8 +21,8 @@ Name=Episode 9: The Rise of Planeswalker
 1 Dictate of Erebos|MB1|1
 1 Doom Cannon|ONS|1
 1 Exotic Orchard|MOC|1
-1 Fabled Passage|PW21|1
-1 Fatal Push|SLP|1
+1 Fabled Passage|ELD|1
+1 Fatal Push|KLR|1
 1 Feed the Swarm|SCD|1
 1 Feign Death|AFR|1
 1 Fellwar Stone|MOC|1
@@ -32,34 +32,34 @@ Name=Episode 9: The Rise of Planeswalker
 1 Grim Haruspex|CLB|1
 1 Harmonic Prodigy|J21|1
 1 Harness by Force|JOU|1
-1 Haunted Ridge|DBL|1
+1 Haunted Ridge|MID|1
 1 Heirloom Blade|J22|1
 1 Hero's Downfall|DMC|1
 1 Infernal Grasp|PSVC|1
 7 Island|THB|1
 1 Lifeline|USG|1
-1 Lightning Bolt|30A|1
-1 Luxury Suite|CLB|1
+1 Lightning Bolt|MB1|1
+1 Luxury Suite|BBD|1
 1 Metallic Mimic|KLR|1
-1 Morphic Pool|CLB|1
+1 Morphic Pool|BBD|1
 1 Mountain|THB|1
-1 Opal Palace|40K|1
+1 Opal Palace|CMR|1
 1 Phyrexian Altar|2X2|1
-1 Phyrexian Tower|PLIST|1
-1 Polluted Delta|ZNE|1
+1 Phyrexian Tower|JMP|1
+1 Polluted Delta|KTK|1
 1 Reflections of Littjara|CLB|1
 1 Sage of Fables|MOR|1
 1 Scalding Tarn|MH2|1
 1 Sea Gate Oracle|GN3|1
 1 Shadowmage Infiltrator|NCC|1
-1 Shipwreck Marsh|DBL|1
+1 Shipwreck Marsh|MID|1
 1 Siren Stormtamer|CMR|1
-1 Skullclamp|MOC|1
+1 Skullclamp|CLB|1
 1 Sneak Attack|DMR|1
-1 Sol Ring|LTC|1
+1 Sol Ring|MIC|1
 1 Spark Double|WAR|1
-1 Steam Vents|UNF|1
-1 Stormcarved Coast|DBL|1
+1 Steam Vents|GRN|1
+1 Stormcarved Coast|VOW|1
 10 Swamp|THB|1
 1 Sword of Feast and Famine|PLIST|1
 1 Sword of Fire and Ice|2XM|1
@@ -67,25 +67,23 @@ Name=Episode 9: The Rise of Planeswalker
 1 Sword of Hours|AFC|1
 1 Sword of Light and Shadow|2XM|1
 1 Sword of the Animist|AFC|1
-1 Sword of Truth and Justice|H1R|1
-1 Talisman of Creativity|40K|1
+1 Sword of Truth and Justice|MH1|1
+1 Talisman of Creativity|C21|1
 1 Talisman of Dominance|SCD|1
 1 Talisman of Indulgence|SCD|1
 1 Taurean Mauler|NEC|1
 1 Teferi's Time Twist|WAR|1
 1 Thalakos Deceiver|STH|1
 1 The Ozolith|IKO|1
-1 Tragic Slip|SIS|1
+1 Tragic Slip|J22|2
 1 Training Center|CMR|1
-1 Tribute Mage|H1R|1
+1 Tribute Mage|MH1|1
 1 Trophy Mage|KLR|1
-1 Unclaimed Territory|40K|1
+1 Unclaimed Territory|C20|1
 1 Unspeakable Symbol|SCG|1
 1 Vindictive Lich|SLD|1
 1 Viscera Seer|CMR|1
 1 Watcher for Tomorrow|MH1|1
-1 Watery Grave|UNF|1
+1 Watery Grave|GRN|1
 1 Wizard's Lightning|DOM|1
 1 Youthful Scholar|MB1|1
-[Sideboard]
-

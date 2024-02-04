@@ -22,30 +22,30 @@ Name=Goatbusters
 1 Decoy Gambit|C20|1
 1 Deep Analysis|DMR|1
 1 Delay|TSR|1
-1 Deserted Beach|DBL|1
+1 Deserted Beach|MID|1
 1 Disorder in the Court|VOC|1
 1 Distorting Wake|C14|1
 1 Dragon's Rage Channeler|J21|1
 1 Exotic Orchard|MOC|1
-1 Expressive Iteration|BRC|1
+1 Expressive Iteration|STX|1
 1 Fact or Fiction|DMR|1
-1 Faithful Mending|DBL|1
+1 Faithful Mending|MID|1
 1 Faithless Looting|SIS|1
 1 Fellwar Stone|MOC|1
-1 Flooded Strand|ZNE|1
+1 Flooded Strand|KTK|1
 1 Generous Gift|MOC|1
 1 Goblin Electromancer|NCC|1
 1 Guttersnipe|SCD|1
-1 Hallowed Fountain|UNF|1
+1 Hallowed Fountain|RNA|1
 1 Heliod's Intervention|THB|1
 11 Island|THB|1
 1 Izzet Signet|MOC|1
 1 Keep Safe|IKO|1
 1 Kykar, Wind's Fury|MOC|1
-1 Lier, Disciple of the Drowned|DBL|1
+1 Lier, Disciple of the Drowned|MID|1
 1 Magma Opus|STX|1
 1 Mass Manipulation|RNA|1
-1 Memory Deluge|SCH|1
+1 Memory Deluge|MID|2
 1 Mind Stone|MOC|1
 6 Mountain|THB|1
 1 Murmuring Mystic|GN3|1
@@ -58,26 +58,26 @@ Name=Goatbusters
 1 Ral, Izzet Viceroy|MPS_GRN|1
 1 Raugrin Triome|IKO|1
 1 Reality Shift|MOC|1
-1 Reliquary Tower|BRC|1
+1 Reliquary Tower|CMM|1
 1 Return to Dust|MOC|1
 1 Roiling Waters|OGW|1
-1 Sacred Foundry|UNF|1
+1 Sacred Foundry|SLD|1
 1 Saw It Coming|KHM|1
 1 Scalding Tarn|MH2|1
 1 Sea of Clouds|CLB|1
 1 Smoke Spirits' Aid|NEC|1
-1 Sol Ring|LTC|1
+1 Sol Ring|MIC|1
 1 Soulfire Eruption|CMR|1
 1 Spectator Seating|CMR|1
-1 Steam Vents|UNF|1
+1 Steam Vents|GRN|1
 1 Storm-Kiln Artist|J21|1
-1 Stormcarved Coast|DBL|1
+1 Stormcarved Coast|VOW|1
 1 Sublime Epiphany|M21|1
 1 Sulfur Falls|DMR|1
-1 Sundown Pass|DBL|1
+1 Sundown Pass|VOW|1
 1 Swords to Plowshares|MOC|1
 1 Talisman of Conviction|ONC|1
-1 Talisman of Creativity|40K|1
+1 Talisman of Creativity|C21|1
 1 Talisman of Progress|SCD|1
 1 Talrand, Sky Summoner|2X2|1
 1 Thought Vessel|SCD|1
@@ -87,5 +87,3 @@ Name=Goatbusters
 1 Volcanic Offering|CM2|1
 1 Whirlwind of Thought|MOC|1
 1 Young Pyromancer|J22|1
-[Sideboard]
-
