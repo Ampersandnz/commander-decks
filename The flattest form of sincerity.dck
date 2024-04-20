@@ -1,7 +1,7 @@
 [metadata]
 Name=The flattest form of sincerity
 [Commander]
-1 Braids, Conjurer Adept|CMM|76
+1 Braids, Conjurer Adept|CMM|1
 [Main]
 1 Akroma's Memorial|TSR|1
 1 Ancient Silver Dragon|CLB|1
@@ -27,14 +27,14 @@ Name=The flattest form of sincerity
 1 Flood of Tears|VOC|1
 1 Followed Footsteps|RAV|1
 1 Gigantoplasm|C15|1
-1 Glasspool Mimic // Glasspool Shore|ZNR|1
+1 Glasspool Mimic|ZNR|2
 1 Helm of the Host|DOM|1
 1 Hullbreaker Horror|VOW|1
-25 Island|UND|1
+25 Island|THB|1
 1 Kaldra Compleat|CMM|1
 1 Lonely Sandbar|CM2|1
 1 Midnight Clock|ELD|1
-1 Mirrorhall Mimic // Ghastly Mimicry|VOW|1
+1 Mirrorhall Mimic|VOW|2
 1 Mocking Doppelganger|CLB|1
 1 Mystic Sanctuary|ELD|1
 1 Otawara, Soaring City|NEO|1
@@ -63,7 +63,7 @@ Name=The flattest form of sincerity
 1 Star Compass|IMA|1
 1 Strip Mine|VMA|1
 1 Stunt Double|CLU|1
-1 Submerge|NEM|1
+1 Submerge|NMS|1
 1 The Immortal Sun|RIX|1
 1 The Magic Mirror|ELD|1
 1 Thespian's Stage|2XM|1
@@ -73,8 +73,8 @@ Name=The flattest form of sincerity
 1 Undercover Operative|SNC|1
 1 Unsummon|M20|1
 1 Vesuva|TSR|1
-1 Vesuvan Doppelganger|ME1|1
+1 Vesuvan Doppelganger|2ED|1
 1 Vesuvan Shapeshifter|C19|1
 1 Vizier of Many Faces|AKH|1
-1 Wandering Archaic // Explore the Vastlands|STX|1
-1 Wondrous Crucible|BRC|1
+1 Wandering Archaic|STX|2
+1 Wondrous Crucible|BRC|2
