@@ -5,24 +5,25 @@ Name=Let's just call this one a draw
 [Main]
 1 Alandra, Sky Dreamer|J22|1
 1 An Offer You Can't Refuse|SNC|1
+1 Arcane Denial|OTC|1
 1 Arcane Signet|ELD|1
 1 Blasphemous Act|2XM|1
 1 Blood Crypt|RNA|1
 1 Bloodstained Mire|KTK|1
 1 Brainstorm|EMA|1
-1 Chasm Skulker|M15|1
 1 City on Fire|MOM|1
 1 Command Tower|ELD|1
+1 Consecrated Sphinx|2X2|1
 1 Corrupted Conviction|MOM|1
+1 Counterbalance|CSP|1
 1 Crumbling Necropolis|MM3|1
 1 Curiosity|A25|1
 1 Cyclonic Rift|2XM|1
 1 Damnation|2X2|1
-1 Decanter of Endless Water|CLB|1
 1 Dictate of Kruphix|JOU|1
 1 Dimir Signet|MM3|1
-1 Disdainful Stroke|SNC|1
 1 Dockside Extortionist|2X2|1
+1 Emrakul's Messenger|MH3|1
 1 Ethereal Investigator|VOC|1
 1 Exotic Orchard|CFX|1
 1 Faerie Mastermind|MOM|1
@@ -34,7 +35,6 @@ Name=Let's just call this one a draw
 1 Geier Reach Sanitarium|EMN|1
 1 Ghyrson Starn, Kelermorph|40K|1
 1 Gixian Puppeteer|BRO|1
-1 Go for the Throat|BRO|1
 1 Gurgling Anointer|BRO|1
 1 Haunted Ridge|MID|1
 1 Howling Mine|PLIST|1
@@ -47,20 +47,19 @@ Name=Let's just call this one a draw
 1 Kederekt Parasite|PLIST|1
 1 Ledger Shredder|SNC|1
 1 Luxury Suite|CLB|1
-1 Mad Ratter|ELD|1
 1 Mikokoro, Center of the Sea|A25|1
 1 Minn, Wily Illusionist|AFC|1
 1 Morphic Pool|CLB|1
 4 Mountain|THB|1
 1 Nightscape Familiar|DMR|1
-1 Ob Nixilis, the Hate-Twisted|WAR|1
+1 Ob Nixilis, Captive Kingpin|MAT|4
 1 Orcish Bowmasters|LTR|1
 1 Otawara, Soaring City|NEO|1
 1 Polluted Delta|KTK|1
 1 Pongify|TSR|1
+1 Powerbalance|MH3|1
 1 Psychosis Crawler|MBS|1
 1 Rapid Hybridization|GTC|1
-1 Ravenform|KHM|1
 1 Reality Shift|WOC|1
 1 Reliquary Tower|M19|1
 1 Scalding Tarn|MM3|1
@@ -74,6 +73,7 @@ Name=Let's just call this one a draw
 1 Steam Vents|GRN|1
 1 Stormcarved Coast|VOW|1
 1 Stormfist Crusader|ELD|1
+1 Strix Serenade|MH3|1
 1 Submerge|NMS|1
 5 Swamp|THB|1
 1 Swan Song|THS|1

@@ -11,6 +11,7 @@ Name=Planned obsolescence
 1 Asylum Visitor|SOI|1
 1 Bag of Holding|AFR|1
 1 Barren Moor|C15|1
+1 Bitter Triumph|LCI|1
 1 Bloodchief Ascension|PLIST|1
 1 Bottomless Pit|STH|1
 1 Breach the Multiverse|MOM|1
@@ -25,7 +26,6 @@ Name=Planned obsolescence
 1 Dark Withering|DMR|1
 1 Dauthi Voidwalker|MH2|1
 1 Dismember|MM2|1
-1 Doom Blade|GN3|1
 1 Elderfang Disciple|KHM|1
 1 Feed the Swarm|ZNR|1
 1 Fell Specter|M19|1
@@ -34,12 +34,12 @@ Name=Planned obsolescence
 1 Gix's Command|BRO|1
 1 Go for the Throat|BRO|1
 1 Hopeless Nightmare|WOE|1
+1 Hostile Investigator|BIG|3
 1 Infernal Grasp|MID|1
 1 Jet Medallion|SLD|1
 1 Junji, the Midnight Sky|NEO|1
-1 Liliana of the Veil|DMU|1
 1 Liliana's Caress|M11|1
-1 Liliana, Heretical Healer|ORI|1
+1 Malicious Affliction|EMA|1
 1 Megrim|M10|1
 1 Midnight Banshee|MM2|1
 1 Midnight Reaper|GRN|1
@@ -48,7 +48,6 @@ Name=Planned obsolescence
 1 Necrogen Mists|MRD|1
 1 Necrogoyf|J21|1
 1 Nezumi Informant|MOM|1
-1 No Mercy|DMR|1
 1 Noetic Scales|USG|1
 1 Painful Quandary|BRO|1
 1 Raiders' Wake|XLN|1
@@ -57,6 +56,7 @@ Name=Planned obsolescence
 1 Saw in Half|UNF|1
 1 Scavenger Grounds|HOU|1
 1 Sheoldred|MOM|1
+1 Snuff Out|GVL|1
 1 Sol Ring|MIC|1
 1 Soul Shatter|ZNR|1
 1 Strip Mine|FVE|1
@@ -68,7 +68,7 @@ Name=Planned obsolescence
 1 The Haunt of Hightower|RNA|1
 1 The Meathook Massacre|MID|1
 1 The Raven Man|DMU|1
-1 Twilight Prophet|PLIST|1
+1 Tinybones, the Pickpocket|OTJ|1
 1 Unnerve|USG|1
 1 Urborg, Tomb of Yawgmoth|TSR|1
 1 Vicious Rumors|GRN|1

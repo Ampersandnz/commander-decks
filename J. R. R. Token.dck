@@ -5,6 +5,7 @@ Name=J. R. R. Token
 1 Prava of the Steel Legion|ONC|1
 [Main]
 1 Adeline, Resplendent Cathar|MID|1
+1 Angelic Aberration|M3C|1
 1 Anguished Unmaking|SOI|1
 1 Anointed Procession|PLIST|1
 1 Bastion of Remembrance|IKO|1
@@ -13,13 +14,11 @@ Name=J. R. R. Token
 1 Bennie Bracks, Zoologist|NCC|1
 1 Bitterblossom|2X2|1
 1 Boseiju, Who Endures|NEO|1
-1 Boss's Chauffeur|NCC|1
 1 Bountiful Promenade|CLB|1
 1 Castle Ardenvale|ELD|1
 1 Champion of Lambholt|2XM|1
 1 Charismatic Conqueror|LCC|1
 1 Chatterfang, Squirrel General|J21|1
-1 Chivalric Alliance|MOC|1
 1 Clever Concealment|ONC|1
 1 Command Tower|ELD|1
 1 Cultivate|A25|1
@@ -34,14 +33,13 @@ Name=J. R. R. Token
 7 Forest|THB|1
 1 Gala Greeters|SNC|1
 1 Get Lost|LCI|1
-1 Ghalta and Mavren|MOM|1
 1 Godless Shrine|RNA|1
-1 Grim Hireling|HBG|1
 1 Hour of Reckoning|RAV|1
 1 Illustrious Wanderglyph|LCC|1
 1 Indatha Triome|IKO|1
 1 Inspiring Leader|CLB|1
 1 Invasion of Tolvada|MOM|1
+1 Kambal, Profiteering Mayor|OTJ|2
 1 Kodama's Reach|UMA|1
 1 Legion's Landing|XLN|1
 1 March of the Canonized|LCC|1
@@ -51,9 +49,9 @@ Name=J. R. R. Token
 1 Master of Ceremonies|NCC|1
 1 Mite Overseer|ONE|1
 1 Mondrak, Glory Dominus|ONE|1
-1 Myrkul, Lord of Bones|CLB|1
 1 Nadier's Nightblade|CMR|1
 1 Nature's Lore|DMR|1
+1 Ocelot Pride|MH3|1
 1 Ohran Frostfang|PLIST|1
 1 Overgrown Farmland|MID|1
 1 Overgrown Tomb|GRN|1
@@ -80,11 +78,13 @@ Name=J. R. R. Token
 1 Thalisse, Reverent Medium|CMR|1
 1 Three Visits|CLB|1
 1 Tocasia's Welcome|BRO|1
+1 Trouble in Pairs|MKC|2
 1 Undergrowth Stadium|CMR|1
 1 Vanishing Verse|STX|1
 1 Vault of Champions|CMR|1
 1 Verdant Catacombs|MM3|1
 1 Virtue of Loyalty|WOE|1
+1 Vraska, the Silencer|OTJ|1
 1 Welcoming Vampire|VOW|1
 1 White Sun's Twilight|ONE|1
 1 Windswept Heath|KTK|1

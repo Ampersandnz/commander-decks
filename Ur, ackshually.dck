@@ -3,12 +3,12 @@ Name=Ur, ackshually
 [Commander]
 1 The Ur-Dragon|CMM|1
 [Main]
+1 An Offer You Can't Refuse|SNC|1
 1 Ancient Gold Dragon|HBG|1
 1 Anguished Unmaking|SOI|1
 1 Arcane Signet|ELD|1
 1 Arid Mesa|MM3|1
 1 Austere Command|IMA|1
-1 Beast Within|DDL|1
 1 Blood Crypt|RNA|1
 1 Bloodstained Mire|KTK|1
 1 Bloom Tender|2X2|1
@@ -43,9 +43,7 @@ Name=Ur, ackshually
 1 Imposing Grandeur|VOC|1
 1 Invasion of Tarkir|MOM|1
 1 Island|THB|1
-1 Kiora, Behemoth Beckoner|WAR|1
 1 Korlessa, Scale Singer|HBG|1
-1 Lapis Orb of Dragonkind|HBG|1
 1 Lathliss, Dragon Queen|M19|1
 1 Leyline Binding|DMU|1
 1 Lozhan, Dragons' Legacy|HBG|1
@@ -70,7 +68,6 @@ Name=Ur, ackshually
 1 Scaled Nurturer|HBG|1
 1 Scalelord Reckoner|C17|1
 1 Scion of Draco|PLIST|1
-1 Scion of the Ur-Dragon|TSP|1
 1 Scourge of Valkas|IMA|1
 1 Secluded Courtyard|NEO|1
 1 Shadowspear|THB|1
@@ -78,7 +75,9 @@ Name=Ur, ackshually
 1 Sol Ring|MIC|1
 1 Steam Vents|GRN|1
 1 Stomping Ground|RNA|1
+1 Strix Serenade|MH3|1
 1 Stroke of Midnight|WOE|1
+1 Stubborn Denial|KTK|1
 1 Sunscorch Regent|DTK|1
 1 Swamp|THB|1
 1 Swords to Plowshares|DMR|1
@@ -90,6 +89,7 @@ Name=Ur, ackshually
 1 Three Visits|CLB|1
 1 Two-Headed Hellkite|DMC|1
 1 Unclaimed Territory|XLN|1
+1 Up the Beanstalk|WOE|1
 1 Utvara Hellkite|RTR|1
 1 Vanishing Verse|STX|1
 1 Verdant Catacombs|MM3|1
