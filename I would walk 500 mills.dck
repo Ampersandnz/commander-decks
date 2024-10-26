@@ -1,7 +1,7 @@
 [metadata]
 Name=I would walk 500 mills
 [Commander]
-1 Lazav, Dimir Mastermind|GTC|1
+1 Talion, the Kindly Lord|WOE|1
 [Main]
 1 Aboleth Spawn|CLB|1
 1 Altar of the Brood|KTK|1
@@ -23,6 +23,7 @@ Name=I would walk 500 mills
 1 Curse of the Swine|KHC|1
 1 Cyclonic Rift|MM3|1
 1 Damnation|2X2|1
+1 Dark Ritual|STA|1
 1 Dauthi Voidwalker|MH2|1
 1 Diluvian Primordial|GTC|1
 1 Dimir Signet|MKC|1
@@ -33,14 +34,15 @@ Name=I would walk 500 mills
 1 Feed the Swarm|ZNR|1
 1 Fellwar Stone|MKC|1
 1 Fractured Sanity|MH2|1
+1 Gloomlake Verge|DSK|1
 1 Infernal Grasp|MID|1
 1 Into the Story|ELD|1
 1 Invasion of Amonkhet|MOM|1
-10 Island|THB|1
+9 Island|THB|1
+1 Lazav, Dimir Mastermind|GTC|1
 1 Maddening Cacophony|ZNR|1
 1 Memory Erosion|ALA|1
 1 Mesmeric Orb|2XM|1
-1 Mind Grind|GTC|1
 1 Mindcrank|IMA|1
 1 Mirko Vosk, Mind Drinker|DGM|1
 1 Morphic Pool|BBD|1
@@ -49,7 +51,6 @@ Name=I would walk 500 mills
 1 Plaza of Heroes|DMU|1
 1 Polluted Delta|KTK|1
 1 Pongify|TSR|1
-1 Psychic Corrosion|M19|1
 1 Rapid Hybridization|C15|1
 1 Ravenform|KHM|1
 1 Reality Shift|C17|1
@@ -73,10 +74,10 @@ Name=I would walk 500 mills
 9 Swamp|THB|1
 1 Tainted Isle|MKC|1
 1 Takenuma, Abandoned Mire|NEO|1
-1 Talion, the Kindly Lord|WOE|1
 1 Talisman of Dominance|WOC|1
 1 The Haunt of Hightower|RNA|1
 1 The Meathook Massacre|MID|2
+1 The Mindskinner|DSK|1
 1 The Scarab God|CMM|1
 1 Thieves' Guild Enforcer|M21|1
 1 Undercity Sewers|MKM|1

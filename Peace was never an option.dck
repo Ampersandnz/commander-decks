@@ -5,6 +5,7 @@ Name=Peace was never an option
 1 Jeska, Thrice Reborn|CMR|1
 [Main]
 1 All That Glitters|ELD|1
+1 Amphibian Downpour|MH3|1
 1 An Offer You Can't Refuse|SNC|1
 1 Angelic Destiny|WOC|1
 1 Arcane Signet|ELD|1
@@ -24,14 +25,13 @@ Name=Peace was never an option
 1 Dream Trawler|THB|1
 1 Eaten by Piranhas|LCI|1
 1 Eiganjo, Seat of the Empire|NEO|1
-1 Empyrial Armor|VMA|1
 1 Esper Sentinel|J21|1
 1 Ethereal Armor|RTR|1
 1 Exotic Orchard|CFX|1
 1 Fellwar Stone|PLIST|1
 1 Flooded Strand|KTK|1
-1 Frogify|2XM|1
 1 Get Lost|LCI|1
+1 Giggling Skitterspike|DSC|2
 1 Glacial Fortress|XLN|1
 1 Grasp of Fate|MB1|1
 1 Hallowed Fountain|RNA|1
@@ -40,7 +40,6 @@ Name=Peace was never an option
 1 Invasion of Theros|MOM|1
 1 Invisible Stalker|PLIST|1
 9 Island|THB|1
-1 Kasmina's Transmutation|2X2|1
 1 Kor Spiritdancer|ROE|1
 1 Ledger Shredder|SNC|1
 1 Mantle of the Ancients|AFC|1
@@ -50,7 +49,7 @@ Name=Peace was never an option
 1 No More Lies|MKM|1
 1 Otawara, Soaring City|NEO|1
 1 Pearl-Ear, Imperial Advisor|MH3|1
-9 Plains|THB|1
+10 Plains|THB|1
 1 Prairie Stream|BFZ|1
 1 Reliquary Tower|M19|1
 1 Rhystic Study|J18|1
@@ -61,6 +60,7 @@ Name=Peace was never an option
 1 Sea of Clouds|PLIST|1
 1 Seize the Day|UMA|1
 1 Serra Ascendant|IMA|1
+1 Shrike Force|BLB|1
 1 Slippery Scoundrel|RIX|1
 1 Sol Ring|MIC|1
 1 Spectator Seating|CMR|1
@@ -82,7 +82,6 @@ Name=Peace was never an option
 1 Trouble in Pairs|MKC|2
 1 Unfinished Business|WOC|2
 1 Utter Insignificance|MH3|1
-1 Vindictive Flamestoker|ONE|1
 1 Whirlwind of Thought|IKO|1
 1 Winds of Rath|TMP|1
 1 Witness Protection|SNC|1

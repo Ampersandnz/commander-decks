@@ -16,8 +16,6 @@ Name=Internet Relay Chat
 1 Captain Storm, Cosmium Raider|LCI|1
 1 Cavern of Souls|2X2|1
 1 Coastal Piracy|JMP|1
-1 Coastline Marauders|CMR|1
-1 Coercive Recruiter|CMR|1
 1 Command Tower|OTC|1
 1 Crackle with Power|STX|1
 1 Curiosity|JMP|1
@@ -25,15 +23,14 @@ Name=Internet Relay Chat
 1 Curse of the Swine|OTC|1
 1 Cyclonic Rift|CMM|1
 1 Departed Deckhand|JMP|1
-1 Dockside Extortionist|C19|1
 1 Double Down|OTJ|2
-1 Fathom Fleet Swordjack|CMR|1
+1 Enduring Curiosity|DSK|2
+1 Fiery Cannonade|CMR|1
 1 Frostboil Snarl|OTC|1
 1 Gemcutter Buccaneer|LCC|1
 1 Generous Plunderer|BIG|3
 1 Glint-Horn Buccaneer|M20|1
 1 Guild Artisan|CLB|1
-1 Herald's Horn|LCC|1
 1 Impulsive Pilferer|CMR|1
 1 Ingenious Artillerist|CLB|1
 1 Irenicus's Vile Duplication|CLB|1
@@ -41,6 +38,7 @@ Name=Internet Relay Chat
 1 Jeska's Will|CMR|1
 1 Kediss, Emberclaw Familiar|CMR|1
 1 Kitesail Larcenist|LCI|1
+1 Leyline of Transformation|DSK|2
 1 Lightning-Rig Crew|XLN|1
 1 Lookout's Dispersal|XLN|1
 1 Malcolm, Alluring Scoundrel|LCI|2
@@ -52,7 +50,6 @@ Name=Internet Relay Chat
 1 Path of Ancestry|C20|1
 1 Pongify|OTC|1
 1 Professional Face-Breaker|J22|1
-1 Protean Raider|RIX|1
 1 Ragavan, Nimble Pilferer|MH2|1
 1 Raise the Palisade|LTC|1
 1 Rapid Hybridization|CLU|1
@@ -67,6 +64,7 @@ Name=Internet Relay Chat
 1 Slippery Scoundrel|RIX|1
 1 Sol Ring|CMM|1
 1 Spectral Sailor|M20|1
+1 Spell Swindle|MOC|1
 1 Spiteful Banditry|LTR|1
 1 Spyglass Siren|LCI|2
 1 Steam Vents|SLD|1
@@ -80,5 +78,7 @@ Name=Internet Relay Chat
 1 Talisman of Creativity|CMM|1
 1 The Indomitable|LCC|1
 1 Thundering Falls|MKM|1
+1 Timestream Navigator|LCC|1
 1 Training Center|CMM|1
 1 Underworld Breach|THB|2
+1 Warkite Marauder|LCC|1
