@@ -1,10 +1,7 @@
 [metadata]
 Name=You can't make an omelette without breaking a few knives
-[Commander]
-1 Henzie "Toolbox" Torre|NCC|2
 [Main]
 1 Ancient Brass Dragon|CLB|1
-1 Archon of Cruelty|MH2|1
 1 Archpriest of Shadows|MOM|1
 1 Assassin's Trophy|GRN|1
 1 Balor|CLB|1
@@ -21,7 +18,7 @@ Name=You can't make an omelette without breaking a few knives
 1 Chainer, Nightmare Adept|MH2|1
 1 Coiling Rebirth|BLB|1
 1 Command Tower|WOC|1
-1 Damnation|2X2|1
+1 Culling Ritual|DSC|1
 1 Deathcap Glade|VOW|1
 1 Delighted Halfling|LTR|1
 1 Disciple of Bolas|NCC|1
@@ -37,6 +34,8 @@ Name=You can't make an omelette without breaking a few knives
 8 Forest|THB|1
 1 Garruk's Uprising|SCD|1
 1 Haunted Ridge|MID|1
+1 Hideous Taskmaster|M3C|1
+1 High-Society Hunter|FDN|4
 1 Hull Breach|PZ1|1
 1 Ignoble Hierarch|MH2|1
 1 Ilharg, the Raze-Boar|RVR|1
@@ -44,7 +43,6 @@ Name=You can't make an omelette without breaking a few knives
 1 Industrial Advancement|NCC|1
 1 Life's Legacy|NCC|1
 1 Luxury Suite|CLB|1
-1 Meren of Clan Nel Toth|CMM|1
 1 Metamorphosis Fanatic|DSC|2
 1 Mosswort Bridge|C13|1
 2 Mountain|THB|1
@@ -52,7 +50,6 @@ Name=You can't make an omelette without breaking a few knives
 1 Noxious Gearhulk|KLD|1
 1 Ojer Kaslem, Deepest Growth|LCI|1
 1 Overgrown Tomb|GRN|1
-1 Overlord of the Balemurk|DSK|2
 1 Overlord of the Hauntwoods|DSK|2
 1 Phyrexian Tower|MH3|2
 1 Primeval Herald|J22|1
@@ -63,7 +60,7 @@ Name=You can't make an omelette without breaking a few knives
 1 Riveteers Ascendancy|SNC|1
 1 Rockfall Vale|MID|1
 1 Rottenmouth Viper|BLB|1
-1 Roxanne, Starfall Savant|OTJ|2
+1 Runadi, Behemoth Caller|J22|1
 1 Saw in Half|UNF|1
 1 Seedguide Ash|LRW|1
 1 Shifting Woodland|MH3|2
@@ -87,4 +84,7 @@ Name=You can't make an omelette without breaking a few knives
 1 Virtue of Persistence|WOE|1
 1 Viscera Seer|LCC|1
 1 Wooded Foothills|KTK|1
+1 Ziatora's Envoy|SNC|1
 1 Ziatora's Proving Ground|SNC|1
+[Commander]
+1 Henzie "Toolbox" Torre|NCC|2

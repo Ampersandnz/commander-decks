@@ -1,18 +1,15 @@
 [metadata]
 Name=Planned obsolescence
-[Commander]
-1 Tinybones, Trinket Thief|JMP|1
 [Main]
+1 Abyssal Harvester|FDN|3
 1 Aclazotz, Deepest Betrayal|LCI|1
 1 Anvil of Bogardan|VIS|1
 1 Archfiend of Depravity|FRF|1
-1 Archon of Cruelty|MH2|1
 1 Arterial Flow|RIX|1
 1 Asylum Visitor|SOI|1
 1 Bag of Holding|AFR|1
 1 Bandit's Talent|BLB|1
 1 Barren Moor|C15|1
-1 Bitter Triumph|LCI|1
 1 Blasphemous Edict|FDN|3
 1 Bloodchief Ascension|PLIST|1
 1 Bottomless Pit|STH|1
@@ -23,7 +20,9 @@ Name=Planned obsolescence
 1 Call to the Netherworld|TSP|1
 1 Castle Locthwain|ELD|1
 1 Containment Construct|NEO|1
+1 Curtains' Call|OTC|1
 1 Damnation|2X2|1
+1 Dark Ritual|STA|1
 1 Dark Withering|DMR|1
 1 Dauthi Voidwalker|MH2|1
 1 Dismember|MM2|1
@@ -32,7 +31,6 @@ Name=Planned obsolescence
 1 Fell Specter|M19|1
 1 Geier Reach Sanitarium|EMN|1
 1 Geth's Grimoire|PLIST|1
-1 Go for the Throat|BRO|1
 1 Hopeless Nightmare|WOE|1
 1 Hostile Investigator|BIG|3
 1 Infernal Grasp|MID|1
@@ -42,7 +40,7 @@ Name=Planned obsolescence
 1 Malicious Affliction|EMA|1
 1 Megrim|M10|1
 1 Midnight Banshee|MM2|1
-1 Midnight Reaper|GRN|1
+1 Monument to Endurance|DFT|2
 1 Morbid Opportunist|MID|1
 1 Mox Amber|DOM|1
 1 Necrogen Mists|MRD|1
@@ -56,7 +54,6 @@ Name=Planned obsolescence
 1 Saw in Half|UNF|1
 1 Scavenger Grounds|HOU|1
 1 Sheoldred|MOM|1
-1 Snuff Out|GVL|1
 1 Sol Ring|MIC|1
 1 Soul Shatter|ZNR|1
 1 Strip Mine|FVE|1
@@ -69,6 +66,7 @@ Name=Planned obsolescence
 1 The Raven Man|DMU|1
 1 Tinybones, Bauble Burglar|FDN|3
 1 Tinybones, the Pickpocket|OTJ|1
+1 Tragic Slip|INR|1
 1 Urborg, Tomb of Yawgmoth|TSR|1
 1 Vicious Rumors|GRN|1
 1 Virtue of Persistence|WOE|1
@@ -76,3 +74,5 @@ Name=Planned obsolescence
 1 Vona's Hunger|RIX|1
 1 Waste Not|M15|1
 1 Westgate Regent|AFR|1
+[Commander]
+1 Tinybones, Trinket Thief|JMP|1

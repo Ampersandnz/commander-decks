@@ -1,7 +1,5 @@
 [metadata]
 Name=Ur, ackshually
-[Commander]
-1 The Ur-Dragon|CMM|1
 [Main]
 1 An Offer You Can't Refuse|SNC|1
 1 Ancient Gold Dragon|HBG|1
@@ -22,13 +20,12 @@ Name=Ur, ackshually
 1 Despark|WAR|1
 1 Dragon Broodmother|ARB|1
 1 Dragon Tempest|IMA|1
-1 Dragon's Hoard|M19|1
 1 Dragonborn Champion|AFC|1
 1 Dragonlord Dromoka|2X2|1
 1 Dragonmaster Outcast|BFZ|1
-1 Drakuseth, Maw of Flames|M20|1
 1 Elemental Bond|ORI|1
 1 Exotic Orchard|CFX|1
+1 Fanatic of Rhonas|MH3|2
 1 Farseek|C19|1
 1 Fellwar Stone|PLIST|1
 1 Flooded Strand|KTK|1
@@ -38,7 +35,6 @@ Name=Ur, ackshually
 1 Godless Shrine|RNA|1
 1 Hallowed Fountain|RNA|1
 1 Hellkite Courser|CMR|1
-1 Hunting Wilds|PLC|1
 1 Imposing Grandeur|VOC|1
 1 Invasion of Tarkir|MOM|1
 1 Island|THB|1
@@ -53,6 +49,7 @@ Name=Ur, ackshually
 1 Morophon, the Boundless|PLIST|1
 4 Mountain|THB|1
 1 Nature's Lore|DMR|1
+1 Omenpath Journey|BIG|2
 1 Overgrown Tomb|GRN|1
 1 Plains|THB|1
 1 Plaza of Heroes|DMU|1
@@ -80,6 +77,7 @@ Name=Ur, ackshually
 1 Stubborn Denial|KTK|1
 1 Sunscorch Regent|DTK|1
 1 Swamp|THB|1
+1 Swan Song|HA3|1
 1 Swords to Plowshares|DMR|1
 1 Tear Asunder|DMU|1
 1 Temple Garden|GRN|1
@@ -97,3 +95,5 @@ Name=Ur, ackshually
 1 Windswept Heath|KTK|1
 1 Wooded Foothills|KTK|1
 1 Wrathful Red Dragon|HBG|1
+[Commander]
+1 The Ur-Dragon|CMM|1

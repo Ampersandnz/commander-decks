@@ -1,7 +1,5 @@
 [metadata]
 Name=Move things and breakfast
-[Commander]
-1 Minsc & Boo, Timeless Heroes|HBG|1
 [Main]
 1 Arcane Signet|ELD|1
 1 Battle Mammoth|KHM|1
@@ -18,6 +16,7 @@ Name=Move things and breakfast
 1 Dormant Grove|VOW|1
 1 Elder Gargaroth|M21|1
 1 Emerald Medallion|CMA|1
+1 Enduring Courage|DSK|2
 1 Etali, Primal Conqueror|MOM|1
 1 Exotic Orchard|CFX|1
 1 Fanatic of Rhonas|MH3|2
@@ -33,7 +32,6 @@ Name=Move things and breakfast
 1 Goreclaw, Terror of Qal Sisma|M19|1
 1 Guardian Project|RNA|1
 1 Herald of Ilharg|CLU|1
-1 Heroic Intervention|AER|1
 1 Infectious Bite|ONE|1
 1 Inkmoth Nexus|MBS|1
 1 Innkeeper's Talent|BLB|1
@@ -82,3 +80,5 @@ Name=Move things and breakfast
 1 Vorinclex, Monstrous Raider|KHM|1
 1 Wooded Foothills|KTK|1
 1 Xenagos, God of Revels|BNG|1
+[Commander]
+1 Minsc & Boo, Timeless Heroes|HBG|1
