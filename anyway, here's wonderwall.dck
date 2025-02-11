@@ -1,13 +1,13 @@
 [metadata]
 Name=anyway, here's wonderwall
-[Commander]
-1 Arcades, the Strategist|M19|1
 [Main]
 1 An Offer You Can't Refuse|SNC|1
+1 Arcane Denial|DRC|1
 1 Arcane Signet|NCC|1
 1 Assault Formation|JMP|1
 1 Assemble the Players|MKM|1
 1 Axebane Guardian|RTR|1
+1 Baldin, Century Herdmaster|SLX|1
 1 Beast Within|DMC|1
 1 Bedrock Tortoise|LCI|1
 1 Boseiju, Who Endures|NEO|1
@@ -17,6 +17,7 @@ Name=anyway, here's wonderwall
 1 Colfenor's Urn|LRW|1
 1 Command Tower|C18|1
 1 Corrupted Shapeshifter|MH3|1
+1 Counterspell|DSC|1
 1 Cyclonic Rift|MM3|1
 1 Delney, Streetwise Lookout|MKM|1
 1 Deserted Beach|MID|1
@@ -26,15 +27,18 @@ Name=anyway, here's wonderwall
 1 Exotic Orchard|CM2|1
 1 Expel the Interlopers|WOE|1
 1 Farseek|CMM|1
+1 Fecund Greenshell|BLB|2
 1 Fell the Mighty|VOC|1
 1 Flooded Strand|KTK|1
 6 Forest|THB|1
 1 Generous Gift|WOC|1
 1 Get Lost|LCI|1
+1 Grasp of Fate|CMM|1
 1 Guardian Project|RVR|1
 1 Hallowed Fountain|RNA|1
 1 High Alert|RNA|1
 1 Hover Barrier|RTR|1
+1 Hydroelectric Specimen|MH3|1
 4 Island|THB|1
 1 Meekstone|MPS_KLD|1
 1 Misty Rainforest|MH2|1
@@ -44,14 +48,12 @@ Name=anyway, here's wonderwall
 1 Otawara, Soaring City|NEO|1
 1 Overgrown Battlement|JMP|1
 1 Overgrown Farmland|MID|1
-1 Path to Exile|LCC|1
+1 Plagon, Lord of the Beach|J25|1
 7 Plains|THB|1
 1 Rammas Echor, Ancient Shield|LTC|1
 1 Rampant Growth|CMM|1
 1 Rejuvenating Springs|CMM|1
 1 Reliquary Tower|LCC|1
-1 Rhystic Study|J22|1
-1 Rigo, Streetwise Mentor|SNC|1
 1 Riptide Turtle|THB|1
 1 Sea of Clouds|BBD|1
 1 Shield Sphere|ALL|1
@@ -67,13 +69,11 @@ Name=anyway, here's wonderwall
 1 Swan Song|C16|1
 1 Swords to Plowshares|LCC|1
 1 Sylvan Caryatid|THS|1
-1 Teferi's Ageless Insight|MKC|1
 1 Temple Garden|GRN|1
 1 Tetsuko Umezawa, Fugitive|DOM|1
 1 The Council of Four|CLB|1
 1 The Pride of Hull Clade|MKM|1
 1 Three Visits|CMM|1
-1 Tocasia's Welcome|BRO|2
 1 Tower Defense|RNA|1
 1 Traproot Kami|BOK|1
 1 Vine Trellis|GVL|1
@@ -84,7 +84,7 @@ Name=anyway, here's wonderwall
 1 Wall of Omens|2X2|1
 1 Wall of Stolen Identity|C19|1
 1 Weathered Sentinels|NCC|1
-1 Welcoming Vampire|VOW|1
 1 Windswept Heath|KTK|1
-1 Wingmantle Chaplain|DMU|1
 1 Yavimaya, Cradle of Growth|MH2|1
+[Commander]
+1 Arcades, the Strategist|M19|1
