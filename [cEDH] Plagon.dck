@@ -1,7 +1,5 @@
 [metadata]
 Name=[cEDH] Plagon
-[Commander]
-1 Plagon, Lord of the Beach|J25|1
 [Main]
 1 Adarkar Wastes|DMU|1
 1 Altar of the Brood|KTK|1
@@ -64,7 +62,8 @@ Name=[cEDH] Plagon
 1 Mystic Remora|DMR|1
 1 Naban, Dean of Iteration|DOM|1
 1 Naru Meha, Master Wizard|DOM|1
-2 Ornithopter|DMR|1
+1 Ornithopter|DMR|1
+1 Ornithopter of Paradise|DRC|1
 1 Otawara, Soaring City|NEO|1
 1 Path to Exile|2X2|1
 1 Phelia, Exuberant Shepherd|MH3|1
@@ -100,3 +99,5 @@ Name=[cEDH] Plagon
 1 Valley Floodcaller|BLB|1
 1 Windswept Heath|KTK|1
 1 Witch Enchanter|MH3|1
+[Commander]
+1 Plagon, Lord of the Beach|J25|1
