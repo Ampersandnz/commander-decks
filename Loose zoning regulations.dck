@@ -1,87 +1,87 @@
 [metadata]
 Name=Loose zoning regulations
-[Commander]
-1 Skullbriar, the Walking Grave|2X2|1
 [Main]
-1 Abrupt Decay|MM3|1
-1 Alpha Authority|GTC|1
-1 Assassin's Trophy|2X2|1
-1 Astarion's Thirst|CLB|1
-1 Beast Within|DMC|1
-1 Blood Curdle|IKO|1
-1 Boseiju, Who Endures|NEO|1
-1 Bristly Bill, Spine Sower|OTJ|1
-1 Call of the Death-Dweller|IKO|1
-1 Cankerbloom|ONE|1
-1 Canopy Cover|WWK|1
-1 Command Tower|ELD|1
-1 Commander's Plate|CMR|1
-1 Conclave Sledge-Captain|MOC|1
-1 Corpsejack Menace|CM2|1
-1 Cultivate|CMM|1
-1 Daring Fiendbonder|C20|1
-1 Deathcap Glade|VOW|1
-1 Defiler of Vigor|DMU|1
-1 Duskfang Mentor|IKO|1
-1 Duskshell Crawler|MH2|1
-1 Fight Rigging|SNC|1
-1 Flare of Cultivation|MH3|1
-12 Forest|THB|1
-1 Forgotten Ancient|C21|1
-1 Goldvein Hydra|OTJ|1
-1 Hardened Scales|LCC|1
-1 Hornbash Mentor|IKO|1
-1 Incubation Druid|RNA|1
-1 Kalonian Hydra|MOC|1
-1 Kami of Whispered Hopes|MOM|1
-1 Kodama of the West Tree|NEO|1
-1 Kodama's Reach|CMM|1
-1 Life's Legacy|NCC|1
-1 Llanowar Wastes|OTC|1
-1 Managorger Hydra|ORI|1
-1 Mandate of Abaddon|40K|1
-1 Mosswort Bridge|C16|1
-1 Necroblossom Snarl|CMM|1
-1 Necropolis Regent|VOC|1
-1 Nesting Grounds|NCC|1
-1 Opal Palace|CMM|1
-1 Ornery Tumblewagg|OTJ|1
-1 Over the Edge|LCI|1
-1 Overgrown Tomb|GRN|1
-1 Ozolith, the Shattered Spire|MOM|1
-1 Power Fist|PIP|1
-1 Reanimate|MKC|1
-1 Reliquary Tower|LCC|1
-1 Reyhan, Last of the Abzan|PZ2|1
-1 Ruinous Intrusion|MIC|1
-1 Scavenged Brawler|BRC|2
-1 Scavenging Ooze|M21|1
-1 Shadowspear|THB|1
-1 Slippery Bogbonder|C20|1
-1 Snakeskin Veil|CMM|1
-1 Sol Ring|CMM|1
-1 Sudden Spinnerets|IKO|1
-7 Swamp|THB|1
-1 Tainted Wood|CMM|1
-1 Takenuma, Abandoned Mire|NEO|1
-1 Tarrian's Soulcleaver|LCI|1
-1 Tear Asunder|DMU|1
-1 The Great Henge|CMM|1
-1 The Haunt of Hightower|RNA|1
-1 The Meathook Massacre|MID|1
-1 The Ozolith|IKO|1
-1 The Skullspore Nexus|LCI|1
-1 Thundering Mightmare|VOC|1
-1 Titanoth Rex|IKO|1
-1 Tome of Legends|MKC|1
-1 Tyrite Sanctum|KHM|1
-1 Ulvenwald Tracker|AVR|1
-1 Undergrowth Stadium|CMR|1
-1 Unearth|MH1|1
-1 Unexpected Fangs|IKO|1
-1 Urborg, Tomb of Yawgmoth|TSR|1
-1 Urza's Saga|MH2|1
-1 Verdant Catacombs|MH2|1
-1 Westgate Regent|AFR|1
-1 Woodland Cemetery|DMR|1
-1 Yavimaya, Cradle of Growth|MH2|1
+1 Abrupt Decay|MM3|[146]
+1 Alpha Authority|GTC|[114]
+1 Assassin's Trophy|2X2|[175]
+1 Astarion's Thirst|CLB|[114]
+1 Beast Within|DMC|[129]
+1 Blood Curdle|IKO|[75]
+1 Boseiju, Who Endures|NEO|[266]
+1 Bristly Bill, Spine Sower|OTJ|[157]
+1 Call of the Death-Dweller|IKO|[78]
+1 Cankerbloom|ONE|[161]
+1 Canopy Cover|WWK|[98]
+1 Command Tower|ELD|[333]
+1 Commander's Plate|CMR|[305]
+1 Conclave Sledge-Captain|MOC|[36]
+1 Corpsejack Menace|CM2|[152]
+1 Cultivate|CMM|[889]
+1 Daring Fiendbonder|C20|[41]
+1 Deathcap Glade|VOW|[261]
+1 Defiler of Vigor|DMU|[160]
+1 Duskfang Mentor|IKO|[86]
+1 Duskshell Crawler|MH2|[156]
+1 Fight Rigging|SNC|[145]
+1 Flare of Cultivation|MH3|[154]
+12 Forest|THB|[254]
+1 Forgotten Ancient|C21|[189]
+1 Goldvein Hydra|OTJ|[341]
+1 Hardened Scales|LCC|[243]
+1 Hornbash Mentor|IKO|[159]
+1 Incubation Druid|RNA|[131]
+1 Kalonian Hydra|MOC|[305]
+1 Kami of Whispered Hopes|MOM|[196]
+1 Kodama of the West Tree|NEO|[199]
+1 Kodama's Reach|CMM|[300]
+1 Life's Legacy|NCC|[300]
+1 Llanowar Wastes|OTC|[305]
+1 Managorger Hydra|ORI|[186]
+1 Mandate of Abaddon|40K|[40]
+1 Mosswort Bridge|C16|[307]
+1 Necroblossom Snarl|CMM|[1015]
+1 Necropolis Regent|VOC|[132]
+1 Nesting Grounds|NCC|[418]
+1 Opal Palace|CMM|[422]
+1 Ornery Tumblewagg|OTJ|[171]
+1 Over the Edge|LCI|[205]
+1 Overgrown Tomb|GRN|[253]
+1 Ozolith, the Shattered Spire|MOM|[198]
+1 Power Fist|PIP|[81]
+1 Reanimate|MKC|[137]
+1 Reliquary Tower|LCC|[348]
+1 Reyhan, Last of the Abzan|PZ2|[43]
+1 Ruinous Intrusion|MIC|[28]
+1 Scavenged Brawler|BRC|[64]
+1 Scavenging Ooze|M21|[204]
+1 Shadowspear|THB|[236]
+1 Slippery Bogbonder|C20|[66]
+1 Snakeskin Veil|CMM|[323]
+1 Sol Ring|CMM|[410]
+1 Sudden Spinnerets|IKO|[171]
+7 Swamp|THB|[252]
+1 Tainted Wood|CMM|[1040]
+1 Takenuma, Abandoned Mire|NEO|[278]
+1 Tarrian's Soulcleaver|LCI|[264]
+1 Tear Asunder|DMU|[183]
+1 The Great Henge|CMM|[294]
+1 The Haunt of Hightower|RNA|[273]
+1 The Meathook Massacre|MID|[112]
+1 The Ozolith|IKO|[237]
+1 The Skullspore Nexus|LCI|[212]
+1 Thundering Mightmare|VOC|[37]
+1 Titanoth Rex|IKO|[174]
+1 Tome of Legends|MKC|[246]
+1 Tyrite Sanctum|KHM|[272]
+1 Ulvenwald Tracker|AVR|[200]
+1 Undergrowth Stadium|CMR|[359]
+1 Unearth|MH1|[113]
+1 Unexpected Fangs|IKO|[102]
+1 Urborg, Tomb of Yawgmoth|TSR|[287]
+1 Urza's Saga|MH2|[259]
+1 Verdant Catacombs|MH2|[260]
+1 Westgate Regent|AFR|[126]
+1 Woodland Cemetery|DMR|[261]
+1 Yavimaya, Cradle of Growth|MH2|[261]
+[Commander]
+1 Skullbriar, the Walking Grave|2X2|[277]

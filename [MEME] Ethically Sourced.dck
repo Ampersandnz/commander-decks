@@ -1,92 +1,92 @@
 [metadata]
 Name=[MEME] Ethically Sourced
-[Commander]
-1 Xira Arien|DMR|1
 [Main]
-1 Abrupt Decay|GK1|1
-1 Ant Queen|MM2|1
-1 Artifact Mutation|C20|1
-1 Ashaya, Soul of the Wild|ZNR|1
-1 Assassin's Trophy|2X2|1
-1 Avenger of Zendikar|PLIST|1
-1 Battle Mammoth|KHM|1
-1 Beast Within|DDL|1
-1 Binding the Old Gods|KHM|1
-1 Blightbeetle|M20|1
-1 Blood Crypt|RNA|1
-1 Bramble Sovereign|BBD|1
-1 Carpet of Flowers|SLD|1
-1 Caustic Caterpillar|ORI|1
-1 Chatterfang, Squirrel General|J21|1
-1 Cinder Glade|BFZ|1
-1 Cindervines|RNA|1
-1 Command Tower|ELD|1
-1 Crash of Rhino Beetles|C18|1
-1 Crushing Canopy|VOW|1
-1 Crushing Vines|2XM|1
-1 Deathcap Glade|VOW|1
-1 Deathsprout|WAR|1
-1 Dragonlair Spider|PCA|1
-1 Dungrove Elder|M12|1
-1 Eladamri's Vineyard|TMP|1
-1 Exotic Orchard|CFX|1
-13 Forest|THB|1
-1 Forgotten Ancient|DMR|1
-1 Game Trail|SOI|1
-1 Giant Adephage|GTC|1
-1 Golden Hind|JOU|1
-1 Great Sable Stag|M10|1
-1 Guardian Project|RNA|1
-1 Harvester Druid|JUD|1
-1 Heartwood Storyteller|TSR|1
-1 Ilysian Caryatid|THB|1
-1 Kenrith's Transformation|ELD|1
-1 Khalni Garden|WWK|1
-1 Kodama of the East Tree|CMR|1
-1 Leyline of Abundance|M20|1
-1 Lifecrafter's Bestiary|AER|1
-1 Lignify|LRW|1
-1 Loyal Guardian|SCD|1
-1 Mold Adder|M10|1
-1 Mountain|THB|1
-1 Multani, Yavimaya's Avatar|DOM|1
-1 Necroblossom Snarl|STX|1
-1 Oran-Rief, the Vastwood|ZEN|1
-1 Overgrown Tomb|GRN|1
-1 Phylath, World Sculptor|ZNR|1
-1 Primitive Etchings|SCG|1
-1 Putrefy|C20|1
-1 Ranger's Path|M13|1
-1 Regal Force|EMA|1
-1 Rockfall Vale|MID|1
-1 Rootbound Crag|XLN|1
-1 Runic Armasaur|M19|1
-1 Scute Swarm|ZNR|1
-1 Shapers' Sanctuary|XLN|1
-1 Sheltered Thicket|AKH|1
-1 Skyshroud Claim|BBD|1
-1 Slimefoot, the Stowaway|DOM|1
-1 Sol Ring|MIC|1
-1 Soul of the Harvest|AVR|1
-1 Spire Garden|CLB|1
-1 Stomping Ground|RNA|1
-1 Swamp|THB|1
-1 Sylvan Caryatid|THS|1
-1 Tangled Florahedron|ZNR|1
-1 Tangletrap|STX|1
-1 Tendershoot Dryad|RIX|1
-1 Traproot Kami|BOK|1
-1 Tree of Perdition|EMN|1
-1 Undergrowth Stadium|CMR|1
-1 Utopia Tree|9ED|1
-1 Verdant Catacombs|MM3|1
-1 Verdant Force|DOM|1
-1 Vine Trellis|8ED|1
-1 Viridian Revel|SOM|1
-1 Vulturous Zombie|RAV|1
-1 Wooded Foothills|KTK|1
-1 Woodland Cemetery|DMR|1
-1 Woodland Mystic|M20|1
-1 Yavimaya, Cradle of Growth|MH2|1
-1 Yedora, Grave Gardener|C21|2
-1 Zendikar Resurgent|PLIST|1
+1 Abrupt Decay|GK1|[57]
+1 Ant Queen|MM2|[139]
+1 Artifact Mutation|C20|[203]
+1 Ashaya, Soul of the Wild|ZNR|[179]
+1 Assassin's Trophy|2X2|[175]
+1 Avenger of Zendikar|PLIST|[1062]
+1 Battle Mammoth|KHM|[160]
+1 Beast Within|DDL|[69]
+1 Binding the Old Gods|KHM|[206]
+1 Blightbeetle|M20|[87]
+1 Blood Crypt|RNA|[245]
+1 Bramble Sovereign|BBD|[65]
+1 Carpet of Flowers|SLD|[279]
+1 Caustic Caterpillar|ORI|[170]
+1 Chatterfang, Squirrel General|J21|[552]
+1 Cinder Glade|BFZ|[235]
+1 Cindervines|RNA|[161]
+1 Command Tower|ELD|[333]
+1 Crash of Rhino Beetles|C18|[29]
+1 Crushing Canopy|VOW|[194]
+1 Crushing Vines|2XM|[162]
+1 Deathcap Glade|VOW|[261]
+1 Deathsprout|WAR|[189]
+1 Dragonlair Spider|PCA|[87]
+1 Dungrove Elder|M12|[171]
+1 Eladamri's Vineyard|TMP|[223]
+1 Exotic Orchard|CFX|[142]
+13 Forest|THB|[254]
+1 Forgotten Ancient|DMR|[161]
+1 Game Trail|SOI|[276]
+1 Giant Adephage|GTC|[121]
+1 Golden Hind|JOU|[124]
+1 Great Sable Stag|M10|[186]
+1 Guardian Project|RNA|[130]
+1 Harvester Druid|JUD|[120]
+1 Heartwood Storyteller|TSR|[209]
+1 Ilysian Caryatid|THB|[174]
+1 Kenrith's Transformation|ELD|[164]
+1 Khalni Garden|WWK|[138]
+1 Kodama of the East Tree|CMR|[239]
+1 Leyline of Abundance|M20|[179]
+1 Lifecrafter's Bestiary|AER|[162]
+1 Lignify|LRW|[228]
+1 Loyal Guardian|SCD|[198]
+1 Mold Adder|M10|[194]
+1 Mountain|THB|[253]
+1 Multani, Yavimaya's Avatar|DOM|[174]
+1 Necroblossom Snarl|STX|[269]
+1 Oran-Rief, the Vastwood|ZEN|[221]
+1 Overgrown Tomb|GRN|[253]
+1 Phylath, World Sculptor|ZNR|[234]
+1 Primitive Etchings|SCG|[126]
+1 Putrefy|C20|[228]
+1 Ranger's Path|M13|[186]
+1 Regal Force|EMA|[181]
+1 Rockfall Vale|MID|[266]
+1 Rootbound Crag|XLN|[256]
+1 Runic Armasaur|M19|[200]
+1 Scute Swarm|ZNR|[203]
+1 Shapers' Sanctuary|XLN|[206]
+1 Sheltered Thicket|AKH|[248]
+1 Skyshroud Claim|BBD|[213]
+1 Slimefoot, the Stowaway|DOM|[205]
+1 Sol Ring|MIC|[162]
+1 Soul of the Harvest|AVR|[195]
+1 Spire Garden|CLB|[361]
+1 Stomping Ground|RNA|[259]
+1 Swamp|THB|[252]
+1 Sylvan Caryatid|THS|[180]
+1 Tangled Florahedron|ZNR|[211]
+1 Tangletrap|STX|[145]
+1 Tendershoot Dryad|RIX|[147]
+1 Traproot Kami|BOK|[147]
+1 Tree of Perdition|EMN|[109]
+1 Undergrowth Stadium|CMR|[359]
+1 Utopia Tree|9ED|[277]
+1 Verdant Catacombs|MM3|[249]
+1 Verdant Force|DOM|[187]
+1 Vine Trellis|8ED|[287]
+1 Viridian Revel|SOM|[132]
+1 Vulturous Zombie|RAV|[238]
+1 Wooded Foothills|KTK|[249]
+1 Woodland Cemetery|DMR|[261]
+1 Woodland Mystic|M20|[344]
+1 Yavimaya, Cradle of Growth|MH2|[261]
+1 Yedora, Grave Gardener|C21|[397]
+1 Zendikar Resurgent|PLIST|[199]
+[Commander]
+1 Xira Arien|DMR|[205]

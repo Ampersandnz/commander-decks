@@ -1,85 +1,85 @@
 [metadata]
 Name=go slap turet you fucking fish
-[Commander]
-1 Kumena, Tyrant of Orazca|RIX|1
 [Main]
-1 Alandra, Sky Dreamer|J22|1
-1 An Offer You Can't Refuse|SNC|1
-1 Arcane Denial|A25|1
-1 Arcane Signet|ELD|1
-1 Beast Within|DDL|1
-1 Bident of Thassa|A25|1
-1 Bloodline Pretender|KHM|1
-1 Boseiju, Who Endures|NEO|1
-1 Botanical Sanctum|KLD|1
-1 Breeding Pool|RNA|1
-1 Command Tower|ELD|1
-1 Counterspell|DMR|1
-1 Cryptolith Rite|SOI|1
-1 Cultivate|A25|1
-1 Curse of the Swine|THS|1
-1 Cyclonic Rift|2XM|1
-1 Deeproot Elite|RIX|1
-1 Deeproot Waters|XLN|1
-1 Disdainful Stroke|SNC|1
-1 Distant Melody|MOC|1
-1 Dreamroot Cascade|VOW|1
-1 Emperor Mihail II|DMC|1
-1 Empress Galina|PLIST|1
-1 Farseek|C19|1
-6 Forest|THB|1
-1 Harvest Season|AKH|1
-1 Herald of Secret Streams|XLN|1
-1 Heroic Intervention|AER|1
-1 Hinterland Harbor|DMR|1
-15 Island|THB|1
-1 Karn's Bastion|WAR|1
-1 Kindred Discovery|PLIST|1
-1 Kodama's Reach|UMA|1
-1 Kopala, Warden of Waves|XLN|1
-1 Lord of Atlantis|J18|1
-1 Masked Vandal|KHM|1
-1 Master of the Pearl Trident|M13|1
-1 Merfolk Mistbinder|RIX|1
-1 Merfolk Skydiver|WAR|1
-1 Merfolk Sovereign|M11|1
-1 Merrow Reejerey|LRW|1
-1 Metallic Mimic|AER|1
-1 Misty Rainforest|MM3|1
-1 Murkfiend Liege|2X2|1
-1 Nature's Claim|IMA|1
-1 Nature's Lore|DMR|1
-1 Otawara, Soaring City|NEO|1
-1 Ozolith, the Shattered Spire|MOM|1
-1 Path of Ancestry|LTC|1
-1 Pongify|TSR|1
-1 Quest for Renewal|WWK|1
-1 Quicksilver Fountain|MRD|1
-1 Raise the Palisade|LTC|2
-1 Rampant Growth|CMM|1
-1 Rapid Hybridization|GTC|1
-1 Ravenform|KHM|1
-1 Reality Shift|PLIST|1
-1 Realmwalker|KHM|1
-1 Reflections of Littjara|KHM|1
-1 Rejuvenating Springs|CMR|1
-1 Reliquary Tower|M19|1
-1 Rimewood Falls|KHM|1
-1 Seafloor Oracle|RIX|1
-1 Seedborn Muse|10E|1
-1 Simic Ascendancy|RNA|1
-1 Sol Ring|MIC|1
-1 Stoneforge Masterwork|OGW|1
-1 Stonybrook Banneret|PLIST|1
-1 Surgespanner|LRW|1
-1 Svyelun of Sea and Sky|J22|1
-1 Swan Song|THS|1
-1 Tangled Islet|DMU|1
-1 Thassa's Oracle|THB|2
-1 Thought Vessel|PLIST|1
-1 Thrasios, Triton Hero|C16|1
-1 Three Visits|CLB|1
-1 Titan of Littjara|CMM|2
-1 Tribute to the World Tree|MOM|1
-1 Vineglimmer Snarl|STX|1
-1 Vodalian Hexcatcher|DMU|1
+1 Alandra, Sky Dreamer|J22|[9]
+1 An Offer You Can't Refuse|SNC|[51]
+1 Arcane Denial|A25|[41]
+1 Arcane Signet|ELD|[331]
+1 Beast Within|DDL|[69]
+1 Bident of Thassa|A25|[42]
+1 Bloodline Pretender|KHM|[235]
+1 Boseiju, Who Endures|NEO|[266]
+1 Botanical Sanctum|KLD|[244]
+1 Breeding Pool|RNA|[246]
+1 Command Tower|ELD|[333]
+1 Counterspell|DMR|[45]
+1 Cryptolith Rite|SOI|[200]
+1 Cultivate|A25|[165]
+1 Curse of the Swine|THS|[46]
+1 Cyclonic Rift|2XM|[47]
+1 Deeproot Elite|RIX|[127]
+1 Deeproot Waters|XLN|[51]
+1 Disdainful Stroke|SNC|[39]
+1 Distant Melody|MOC|[220]
+1 Dreamroot Cascade|VOW|[262]
+1 Emperor Mihail II|DMC|[23]
+1 Empress Galina|PLIST|[827]
+1 Farseek|C19|[165]
+6 Forest|THB|[254]
+1 Harvest Season|AKH|[170]
+1 Herald of Secret Streams|XLN|[59]
+1 Heroic Intervention|AER|[109]
+1 Hinterland Harbor|DMR|[248]
+15 Island|THB|[251]
+1 Karn's Bastion|WAR|[248]
+1 Kindred Discovery|PLIST|[312]
+1 Kodama's Reach|UMA|[171]
+1 Kopala, Warden of Waves|XLN|[61]
+1 Lord of Atlantis|J18|[6]
+1 Masked Vandal|KHM|[184]
+1 Master of the Pearl Trident|M13|[59]
+1 Merfolk Mistbinder|RIX|[164]
+1 Merfolk Skydiver|WAR|[205]
+1 Merfolk Sovereign|M11|[65]
+1 Merrow Reejerey|LRW|[74]
+1 Metallic Mimic|AER|[164]
+1 Misty Rainforest|MM3|[240]
+1 Murkfiend Liege|2X2|[259]
+1 Nature's Claim|IMA|[177]
+1 Nature's Lore|DMR|[170]
+1 Otawara, Soaring City|NEO|[271]
+1 Ozolith, the Shattered Spire|MOM|[198]
+1 Path of Ancestry|LTC|[322]
+1 Pongify|TSR|[79]
+1 Quest for Renewal|WWK|[110]
+1 Quicksilver Fountain|MRD|[233]
+1 Raise the Palisade|LTC|[106]
+1 Rampant Growth|CMM|[908]
+1 Rapid Hybridization|GTC|[44]
+1 Ravenform|KHM|[72]
+1 Reality Shift|PLIST|[75]
+1 Realmwalker|KHM|[188]
+1 Reflections of Littjara|KHM|[73]
+1 Rejuvenating Springs|CMR|[354]
+1 Reliquary Tower|M19|[254]
+1 Rimewood Falls|KHM|[266]
+1 Seafloor Oracle|RIX|[51]
+1 Seedborn Muse|10E|[296]
+1 Simic Ascendancy|RNA|[207]
+1 Sol Ring|MIC|[162]
+1 Stoneforge Masterwork|OGW|[166]
+1 Stonybrook Banneret|PLIST|[79]
+1 Surgespanner|LRW|[92]
+1 Svyelun of Sea and Sky|J22|[356]
+1 Swan Song|THS|[65]
+1 Tangled Islet|DMU|[258]
+1 Thassa's Oracle|THB|[308]
+1 Thought Vessel|PLIST|[274]
+1 Thrasios, Triton Hero|PZ2|[47]
+1 Three Visits|CLB|[837]
+1 Titan of Littjara|CMM|[760]
+1 Tribute to the World Tree|MOM|[211]
+1 Vineglimmer Snarl|STX|[274]
+1 Vodalian Hexcatcher|DMU|[75]
+[Commander]
+1 Kumena, Tyrant of Orazca|RIX|[162]

@@ -1,101 +1,101 @@
 [metadata]
 Name=[MEME] Take a seat, young Skywalker
-[Commander]
-1 Kenrith, the Returned King|ELD|1
 [Main]
-1 Anguished Unmaking|SOI|1
-1 Arcane Signet|ELD|1
-1 Arid Mesa|MM3|1
-1 Assassin's Trophy|2X2|1
-1 Azor's Gateway|RIX|1
-1 Beast Within|DDL|1
-1 Biomancer's Familiar|RNA|1
-1 Blind Obedience|GTC|1
-1 Bloodstained Mire|KTK|1
-1 Bountiful Promenade|CLB|1
-1 Breeding Pool|RNA|1
-1 Chromatic Lantern|GRN|1
-1 Command Tower|ELD|1
-1 Court of Ambition|CMR|1
-1 Court of Bounty|CMR|1
-1 Court of Cunning|CMR|1
-1 Court of Grace|ONC|1
-1 Court of Ire|CMR|2
-1 Cultivate|A25|1
-1 Damn|MH2|1
-1 Dark Confidant|MM2|1
-1 Despark|WAR|1
-1 Egon, God of Death|KHM|1
-1 Eiganjo, Seat of the Empire|NEO|1
-1 Empress Galina|PLIST|1
-1 Exotic Orchard|CFX|1
-1 Farseek|C19|1
-1 Feast of Succession|CMR|1
-1 Fellwar Stone|PLIST|1
-1 Find // Finality|GRN|1
-1 Flooded Strand|KTK|1
-1 Forest|THB|1
-1 Generous Gift|MOC|1
-1 Godless Shrine|RNA|1
-1 Hallowed Fountain|RNA|1
-1 Heartstone|PDS|1
-1 High Priest of Penance|GTC|1
-1 Hull Breach|COM|1
-1 Island|THB|1
-1 Karlov of the Ghost Council|PZ1|1
-1 King Macar, the Gold-Cursed|JOU|1
-1 Knighthood|7ED|1
-1 Kodama's Reach|UMA|1
-1 Kydele, Chosen of Kruphix|C16|1
-1 Leonin Arbiter|2X2|1
-1 Lightning Greaves|2XM|1
-1 Luxury Suite|CLB|1
-1 Marchesa's Decree|PZ2|1
-1 Marchesa, the Black Rose|2X2|1
-1 Marsh Flats|MM3|1
-1 Maze Sentinel|DGM|1
-1 Misty Rainforest|MM3|1
-1 Morphic Pool|CLB|1
-1 Mother of Runes|COM|1
-1 Mountain|THB|1
-1 Nature's Claim|IMA|1
-1 Nature's Lore|DMR|1
-1 Oloro, Ageless Ascetic|PLIST|1
-1 Overgrown Tomb|GRN|1
-1 Plains|THB|1
-1 Polluted Delta|KTK|1
-1 Queen Marchesa|CMR|1
-1 Rampant Growth|2X2|1
-1 Rejuvenating Springs|CMR|1
-1 Sacred Foundry|GRN|1
-1 Sanctimony|8ED|1
-1 Scourge of the Throne|PLIST|1
-1 Sea of Clouds|PLIST|1
-1 Seat of the Synod|MRD|1
-1 Sol Ring|MIC|1
-1 Sorceress Queen|5ED|1
-1 Spectator Seating|CMR|1
-1 Spire Garden|CLB|1
-4 Swamp|THB|1
-1 Swiftfoot Boots|PLIST|1
-1 Swords to Plowshares|DMR|1
-1 Tasigur, the Golden Fang|FRF|1
-1 Temple Garden|GRN|1
-1 Teysa, Envoy of Ghosts|DGM|1
-1 The World Tree|KHM|1
-1 Three Visits|CLB|1
-1 Throne of the High City|LTC|1
-1 Throne Warden|PZ2|1
-1 Tithe Drinker|DGM|1
-1 Training Grounds|MAT|1
-1 Undergrowth Stadium|CMR|1
-1 Vanishing Verse|STX|1
-1 Vault of Champions|CMR|1
-1 Vedalken Plotter|GPT|1
-1 Vengeful Pharaoh|M12|1
-1 Verdant Catacombs|MM3|1
-1 Vish Kal, Blood Arbiter|2XM|1
-1 Watery Grave|GRN|1
-1 Windswept Heath|KTK|1
-1 Wooded Foothills|KTK|1
-1 Zirda, the Dawnwaker|IKO|1
+1 Anguished Unmaking|SOI|[242]
+1 Arcane Signet|ELD|[331]
+1 Arid Mesa|MM3|[229]
+1 Assassin's Trophy|2X2|[175]
+1 Azor's Gateway|RIX|[176]
+1 Beast Within|DDL|[69]
+1 Biomancer's Familiar|RNA|[158]
+1 Blind Obedience|GTC|[6]
+1 Bloodstained Mire|KTK|[230]
+1 Bountiful Promenade|CLB|[348]
+1 Breeding Pool|RNA|[246]
+1 Chromatic Lantern|GRN|[233]
+1 Command Tower|ELD|[333]
+1 Court of Ambition|CMR|[114]
+1 Court of Bounty|CMR|[220]
+1 Court of Cunning|CMR|[63]
+1 Court of Grace|ONC|[62]
+1 Court of Ire|CMR|[663]
+1 Cultivate|A25|[165]
+1 Damn|MH2|[80]
+1 Dark Confidant|MM2|[75]
+1 Despark|WAR|[190]
+1 Egon, God of Death|KHM|[92]
+1 Eiganjo, Seat of the Empire|NEO|[268]
+1 Empress Galina|PLIST|[827]
+1 Exotic Orchard|CFX|[142]
+1 Farseek|C19|[165]
+1 Feast of Succession|CMR|[127]
+1 Fellwar Stone|PLIST|[255]
+1 Find // Finality|GRN|[225]
+1 Flooded Strand|KTK|[233]
+1 Forest|THB|[254]
+1 Generous Gift|MOC|[187]
+1 Godless Shrine|RNA|[248]
+1 Hallowed Fountain|RNA|[251]
+1 Heartstone|PDS|[26]
+1 High Priest of Penance|GTC|[171]
+1 Hull Breach|COM|[203]
+1 Island|THB|[251]
+1 Karlov of the Ghost Council|PZ1|[108]
+1 King Macar, the Gold-Cursed|JOU|[74]
+1 Knighthood|7ED|[25]
+1 Kodama's Reach|UMA|[171]
+1 Kydele, Chosen of Kruphix|C16|[35]
+1 Leonin Arbiter|2X2|[16]
+1 Lightning Greaves|2XM|[267]
+1 Luxury Suite|CLB|[355]
+1 Marchesa's Decree|PZ2|[20]
+1 Marchesa, the Black Rose|2X2|[248]
+1 Marsh Flats|MM3|[239]
+1 Maze Sentinel|DGM|[4]
+1 Misty Rainforest|MM3|[240]
+1 Morphic Pool|CLB|[357]
+1 Mother of Runes|SLD|[299]
+1 Mountain|THB|[253]
+1 Nature's Claim|IMA|[177]
+1 Nature's Lore|DMR|[170]
+1 Oloro, Ageless Ascetic|PLIST|[223]
+1 Overgrown Tomb|GRN|[253]
+1 Plains|THB|[250]
+1 Polluted Delta|KTK|[239]
+1 Queen Marchesa|CMR|[531]
+1 Rampant Growth|2X2|[155]
+1 Rejuvenating Springs|CMR|[354]
+1 Sacred Foundry|GRN|[254]
+1 Sanctimony|8ED|[42]
+1 Scourge of the Throne|PLIST|[151]
+1 Sea of Clouds|PLIST|[1087]
+1 Seat of the Synod|MRD|[283]
+1 Sol Ring|MIC|[162]
+1 Sorceress Queen|5ED|[194]
+1 Spectator Seating|CMR|[356]
+1 Spire Garden|CLB|[361]
+4 Swamp|THB|[252]
+1 Swiftfoot Boots|PLIST|[271]
+1 Swords to Plowshares|DMR|[31]
+1 Tasigur, the Golden Fang|FRF|[87]
+1 Temple Garden|GRN|[258]
+1 Teysa, Envoy of Ghosts|DGM|[108]
+1 The World Tree|KHM|[275]
+1 Three Visits|CLB|[837]
+1 Throne of the High City|LTC|[339]
+1 Throne Warden|PZ2|[1]
+1 Tithe Drinker|DGM|[109]
+1 Training Grounds|MAT|[9]
+1 Undergrowth Stadium|CMR|[359]
+1 Vanishing Verse|STX|[244]
+1 Vault of Champions|CMR|[360]
+1 Vedalken Plotter|GPT|[41]
+1 Vengeful Pharaoh|M12|[116]
+1 Verdant Catacombs|MM3|[249]
+1 Vish Kal, Blood Arbiter|2XM|[226]
+1 Watery Grave|GRN|[259]
+1 Windswept Heath|KTK|[248]
+1 Wooded Foothills|KTK|[249]
+1 Zirda, the Dawnwaker|IKO|[233]
+[Commander]
+1 Kenrith, the Returned King|ELD|[303]

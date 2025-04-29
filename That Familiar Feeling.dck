@@ -1,86 +1,86 @@
 [metadata]
 Name=That familiar feeling
-[Commander]
-1 Esior, Wardwing Familiar|CMR|1
-1 Keleth, Sunmane Familiar|CMR|1
 [Main]
-1 An Offer You Can't Refuse|SNC|1
-1 Angel of Indemnity|OTC|2
-1 Arcane Signet|ELD|1
-1 Ascendant Spirit|KHM|1
-1 Bastion Protector|PZ1|1
-1 Bident of Thassa|A25|1
-1 Coastal Piracy|JMP|1
-1 Combat Research|DMU|1
-1 Command Tower|ELD|1
-1 Counterspell|DMR|1
-1 Curious Obsession|RIX|1
-1 Curse of the Swine|THS|1
-1 Cyclonic Rift|2XM|1
-1 Deserted Beach|MID|1
-1 Destroy Evil|DMU|1
-1 Disdainful Stroke|SNC|1
-1 Dolmen Gate|LRW|1
-1 Dream Trawler|THB|1
-1 Eiganjo Castle|PLIST|1
-1 Eiganjo, Seat of the Empire|NEO|1
-1 Errant and Giada|MOM|1
-1 Faerie Artisans|CMM|1
-1 Faerie Slumber Party|WOE|2
-1 Fellwar Stone|PLIST|1
-1 Feywild Visitor|CLB|1
-1 Flaming Fist|CLB|1
-1 Flooded Strand|KTK|1
-1 Floodfarm Verge|DSK|2
-1 Get Lost|LCI|1
-1 Glacial Floodplain|KHM|1
-1 Glacial Fortress|XLN|1
-1 Gold-Forged Thopteryx|MAT|1
-1 Grateful Apparition|WAR|1
-1 Hallowed Fountain|RNA|1
-1 Ishai, Ojutai Dragonspeaker|C16|1
-1 Jackdaw Savior|BLB|1
-1 Jubilant Skybonder|IKO|1
-1 Kastral, the Windcrested|BLB|1
-1 Ledger Shredder|SNC|1
-1 Leyline of Singularity|GPT|1
-1 Lofty Denial|M21|1
-1 Malcolm, Alluring Scoundrel|LCI|2
-1 Malleable Impostor|WOC|2
-1 Mox Amber|DOM|1
-1 Nimbus Maze|IMA|1
-1 No More Lies|MKM|1
-1 Norn's Choirmaster|ONC|1
-1 Otawara, Soaring City|NEO|1
-1 Plaza of Heroes|DMU|1
-1 Plumecreed Escort|BLB|1
-1 Pongify|TSR|1
-1 Port Town|SOI|1
-1 Prairie Stream|BFZ|1
-1 Rapid Hybridization|GTC|1
-1 Reconnaissance Mission|IKO|1
-1 Reliquary Tower|M19|1
-1 Sea of Clouds|PLIST|1
-1 Selfless Spirit|EMN|1
-1 Sephara, Sky's Blade|M20|1
-1 Serra Ascendant|IMA|1
-1 Shabraz, the Skyshark|PLIST|1
-11 Snow-Covered Island|CSP|1
-9 Snow-Covered Plains|KHM|1
-1 Sol Ring|MIC|1
-1 Staggering Insight|THB|1
-1 Steel Seraph|BRO|1
-1 Strix Serenade|MH3|1
-1 Stroke of Midnight|WOE|1
-1 Stubborn Denial|KTK|1
-1 Submerge|NMS|1
-1 Sunscorch Regent|DTK|1
-1 Suppressor Skyguard|CLU|1
-1 Swords to Plowshares|DMR|1
-1 Talisman of Progress|MRD|1
-1 Thought Vessel|PLIST|1
-1 Thrummingbird|ONE|1
-1 Trouble in Pairs|MKC|2
-1 Valorous Stance|VOW|1
-1 Windreader Sphinx|M19|1
-1 Wingspan Mentor|IKO|1
+1 An Offer You Can't Refuse|SNC|[51]
+1 Angel of Indemnity|OTC|[45]
+1 Arcane Signet|ELD|[331]
+1 Ascendant Spirit|KHM|[341]
+1 Bastion Protector|PZ1|[1]
+1 Bident of Thassa|A25|[42]
+1 Coastal Piracy|JMP|[144]
+1 Combat Research|DMU|[44]
+1 Command Tower|ELD|[333]
+1 Counterspell|DMR|[45]
+1 Curious Obsession|RIX|[35]
+1 Curse of the Swine|THS|[46]
+1 Cyclonic Rift|2XM|[47]
+1 Deserted Beach|MID|[260]
+1 Destroy Evil|DMU|[17]
+1 Disdainful Stroke|SNC|[39]
+1 Dolmen Gate|LRW|[256]
+1 Dream Trawler|THB|[214]
+1 Eiganjo Castle|PLIST|[501]
+1 Eiganjo, Seat of the Empire|NEO|[268]
+1 Errant and Giada|MOM|[224]
+1 Faerie Artisans|CMM|[92]
+1 Faerie Slumber Party|WOE|[371]
+1 Fellwar Stone|PLIST|[255]
+1 Feywild Visitor|CLB|[70]
+1 Flaming Fist|CLB|[18]
+1 Flooded Strand|KTK|[233]
+1 Floodfarm Verge|DSK|[330]
+1 Get Lost|LCI|[14]
+1 Glacial Floodplain|KHM|[257]
+1 Glacial Fortress|XLN|[255]
+1 Gold-Forged Thopteryx|MAT|[31]
+1 Grateful Apparition|WAR|[17]
+1 Hallowed Fountain|RNA|[251]
+1 Ishai, Ojutai Dragonspeaker|C16|[33]
+1 Jackdaw Savior|BLB|[18]
+1 Jubilant Skybonder|IKO|[223]
+1 Kastral, the Windcrested|BLB|[221]
+1 Ledger Shredder|SNC|[46]
+1 Leyline of Singularity|GPT|[29]
+1 Lofty Denial|M21|[56]
+1 Malcolm, Alluring Scoundrel|LCI|[293]
+1 Malleable Impostor|WOC|[46]
+1 Mox Amber|DOM|[224]
+1 Nimbus Maze|IMA|[242]
+1 No More Lies|MKM|[221]
+1 Norn's Choirmaster|ONC|[8]
+1 Otawara, Soaring City|NEO|[271]
+1 Plaza of Heroes|DMU|[252]
+1 Plumecreed Escort|BLB|[65]
+1 Pongify|TSR|[79]
+1 Port Town|SOI|[278]
+1 Prairie Stream|BFZ|[241]
+1 Rapid Hybridization|GTC|[44]
+1 Reconnaissance Mission|IKO|[65]
+1 Reliquary Tower|M19|[254]
+1 Sea of Clouds|PLIST|[1087]
+1 Selfless Spirit|EMN|[40]
+1 Sephara, Sky's Blade|M20|[36]
+1 Serra Ascendant|IMA|[31]
+1 Shabraz, the Skyshark|PLIST|[338]
+11 Snow-Covered Island|CSP|[152]
+9 Snow-Covered Plains|KHM|[276]
+1 Sol Ring|MIC|[162]
+1 Staggering Insight|THB|[228]
+1 Steel Seraph|BRO|[38]
+1 Strix Serenade|MH3|[71]
+1 Stroke of Midnight|WOE|[33]
+1 Stubborn Denial|KTK|[56]
+1 Submerge|NMS|[48]
+1 Sunscorch Regent|DTK|[41]
+1 Suppressor Skyguard|CLU|[46]
+1 Swords to Plowshares|DMR|[31]
+1 Talisman of Progress|MRD|[256]
+1 Thought Vessel|PLIST|[274]
+1 Thrummingbird|ONE|[72]
+1 Trouble in Pairs|MKC|[326]
+1 Valorous Stance|VOW|[42]
+1 Windreader Sphinx|M19|[84]
+1 Wingspan Mentor|IKO|[72]
+[Commander]
+1 Esior, Wardwing Familiar|CMR|[67]
+1 Keleth, Sunmane Familiar|CMR|[28]

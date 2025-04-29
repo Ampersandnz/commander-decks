@@ -1,80 +1,80 @@
 [metadata]
 Name=That's no moon
-[Commander]
-1 Evra, Halcyon Witness|DOM|1
 [Main]
-1 Adeline, Resplendent Cathar|MID|1
-1 Angel of Destiny|ZNR|2
-1 Approach of the Second Sun|AKH|1
-1 Arcane Signet|NCC|1
-1 Archangel of Thune|2XM|1
-1 Archivist of Oghma|CLB|1
-1 Attended Healer|ZNR|1
-1 Aura of Silence|10E|1
-1 Auriok Champion|IMA|1
-1 Authority of the Consuls|KLD|1
-1 Bastion Protector|MIC|1
-1 Castle Ardenvale|ELD|1
-1 Command Beacon|CMR|1
-1 Crested Sunmare|HOU|1
-1 Deep Gnome Terramancer|CLB|1
-1 Destroy Evil|DMU|1
-1 Dusk // Dawn|C19|1
-1 Eiganjo, Seat of the Empire|NEO|1
-1 Emeria, the Sky Ruin|ZEN|1
-1 Esper Sentinel|MH2|1
-1 Fateful Absence|MID|1
-1 Fellwar Stone|C16|1
-1 Generous Gift|NEC|1
-1 Get Lost|LCI|1
-1 Giver of Runes|MH1|1
-1 Grasp of Fate|CMM|1
-1 Heliod's Intervention|THB|1
-1 Heliod, Sun-Crowned|CMM|1
-1 Homeward Path|C16|1
-1 Jeweled Lotus|CMR|1
-1 Knight of the White Orchid|C21|1
-1 Lightning Greaves|CMM|1
-1 Loyal Warhound|AFR|1
-1 Mask of Law and Grace|UDS|1
-1 Master of Ceremonies|NCC|1
-1 Mind Stone|10E|1
-1 Mother of Runes|SLD|1
-1 Oketra's Monument|AKH|1
-1 Pearl Medallion|C14|1
-25 Plains|THB|1
-1 Reliquary Tower|CMM|1
-1 Rogue's Passage|MIC|1
-1 Scavenger Grounds|HOU|1
-1 Secluded Steppe|CM2|1
-1 Serra Ascendant|HA1|1
-1 Serra Avatar|C13|1
-1 Shield of Duty and Reason|APC|1
-1 Slash the Ranks|CMR|1
-1 Smothering Tithe|RNA|1
-1 Smuggler's Share|NCC|1
-1 Sol Ring|C14|1
-1 Soul of Eternity|CMR|1
-1 Soul Warden|10E|1
-1 Soul's Attendant|ROE|1
-1 Spectrum Sentinel|BRO|1
-1 Steel Seraph|BRO|1
-1 Strip Mine|VMA|1
-1 Stroke of Midnight|WOE|1
-1 Sunscorch Regent|C21|1
-1 Surestrike Trident|DST|1
-1 Swiftfoot Boots|CM2|1
-1 Swords to Plowshares|LCC|1
-1 Take Up the Shield|DMU|1
-1 Tocasia's Welcome|BRO|1
-1 Tragic Arrogance|ORI|1
-1 Twinblade Paladin|M20|1
-1 Valorous Stance|FRF|1
-1 Voice of the Blessed|VOW|1
-1 Walking Ballista|AER|1
-1 Wall of Reverence|CFX|1
-1 War Room|CMR|1
-1 Welcoming Vampire|VOW|1
-1 Well of Lost Dreams|LTC|1
-1 Whispersilk Cloak|LCC|1
-1 Worn Powerstone|C15|1
+1 Adeline, Resplendent Cathar|MID|[1]
+1 Angel of Destiny|ZNR|[314]
+1 Approach of the Second Sun|AKH|[4]
+1 Arcane Signet|NCC|[360]
+1 Archangel of Thune|2XM|[5]
+1 Archivist of Oghma|CLB|[4]
+1 Attended Healer|ZNR|[6]
+1 Aura of Silence|10E|[6]
+1 Auriok Champion|IMA|[9]
+1 Authority of the Consuls|KLD|[5]
+1 Bastion Protector|MIC|[80]
+1 Castle Ardenvale|ELD|[238]
+1 Command Beacon|CMR|[349]
+1 Crested Sunmare|HOU|[6]
+1 Deep Gnome Terramancer|CLB|[607]
+1 Destroy Evil|DMU|[17]
+1 Dusk // Dawn|C19|[63]
+1 Eiganjo, Seat of the Empire|NEO|[268]
+1 Emeria, the Sky Ruin|ZEN|[213]
+1 Esper Sentinel|MH2|[12]
+1 Fateful Absence|MID|[18]
+1 Fellwar Stone|C16|[254]
+1 Generous Gift|NEC|[84]
+1 Get Lost|LCI|[14]
+1 Giver of Runes|MH1|[13]
+1 Grasp of Fate|CMM|[823]
+1 Heliod's Intervention|THB|[19]
+1 Heliod, Sun-Crowned|CMM|[29]
+1 Homeward Path|C16|[301]
+1 Jeweled Lotus|CMR|[319]
+1 Knight of the White Orchid|C21|[95]
+1 Lightning Greaves|CMM|[398]
+1 Loyal Warhound|AFR|[23]
+1 Mask of Law and Grace|UDS|[11]
+1 Master of Ceremonies|NCC|[18]
+1 Mind Stone|10E|[335]
+1 Mother of Runes|SLD|[296]
+1 Oketra's Monument|AKH|[233]
+1 Pearl Medallion|C14|[260]
+25 Plains|THB|[250]
+1 Reliquary Tower|CMM|[425]
+1 Rogue's Passage|MIC|[179]
+1 Scavenger Grounds|HOU|[182]
+1 Secluded Steppe|CM2|[266]
+1 Serra Ascendant|HA1|[1]
+1 Serra Avatar|C13|[21]
+1 Shield of Duty and Reason|APC|[16]
+1 Slash the Ranks|CMR|[47]
+1 Smothering Tithe|RNA|[22]
+1 Smuggler's Share|NCC|[21]
+1 Sol Ring|C14|[270]
+1 Soul of Eternity|CMR|[50]
+1 Soul Warden|10E|[44]
+1 Soul's Attendant|ROE|[44]
+1 Spectrum Sentinel|BRO|[244]
+1 Steel Seraph|BRO|[38]
+1 Strip Mine|VMA|[316]
+1 Stroke of Midnight|WOE|[33]
+1 Sunscorch Regent|C21|[107]
+1 Surestrike Trident|DST|[147]
+1 Swiftfoot Boots|CM2|[223]
+1 Swords to Plowshares|LCC|[137]
+1 Take Up the Shield|DMU|[35]
+1 Tocasia's Welcome|BRO|[30]
+1 Tragic Arrogance|ORI|[38]
+1 Twinblade Paladin|M20|[285]
+1 Valorous Stance|FRF|[28]
+1 Voice of the Blessed|VOW|[44]
+1 Walking Ballista|J22|[806]
+1 Wall of Reverence|CFX|[20]
+1 War Room|CMR|[361]
+1 Welcoming Vampire|VOW|[46]
+1 Well of Lost Dreams|LTC|[291]
+1 Whispersilk Cloak|LCC|[119]
+1 Worn Powerstone|C15|[275]
+[Commander]
+1 Evra, Halcyon Witness|DOM|[16]

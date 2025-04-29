@@ -1,96 +1,96 @@
 [metadata]
 Name=[MEME] Thematic Mathematics
-[Commander]
-1 Omnath, Locus of Creation|ZNR|1
 [Main]
-1 Abrade|VOW|1
-1 Adrix and Nev, Twincasters|C21|1
-1 Amphin Mutineer|CMR|1
-1 Arcane Signet|ELD|1
-1 Arid Mesa|MM3|1
-1 Beast Within|DDL|1
-1 Blasphemous Act|2XM|1
-1 Bountiful Promenade|CLB|1
-1 Branching Evolution|JMP|1
-1 Breeding Pool|RNA|1
-1 Cindervines|RNA|1
-1 Command Tower|ELD|1
-1 Crackle with Power|STX|1
-1 Curse of the Swine|THS|1
-1 Deepglow Skate|2XM|1
-1 Divide by Zero|STX|1
-1 Doubling Cube|PLIST|1
-1 Doubling Season|2XM|1
-1 Dragonsguard Elite|STX|1
-1 Dual Nature|PCY|1
-1 Duelist's Heritage|NCC|1
-1 Exotic Orchard|CFX|1
-1 Exponential Growth|STX|1
-1 Fabled Passage|M21|1
-1 Farseek|C19|1
-1 Fellwar Stone|PLIST|1
-1 Field of the Dead|M20|1
-1 Fiendish Duo|GN2|1
-1 Fiery Emancipation|M21|1
-1 Flooded Strand|KTK|1
-9 Forest|THB|1
-1 Forgotten Ancient|DMR|1
-1 Fractal Harness|C21|1
-1 Generous Gift|MOC|1
-1 Gisela, Blade of Goldnight|PLIST|1
-1 Hallowed Fountain|RNA|1
-1 Hydra's Growth|THB|1
-1 Intrepid Adversary|MID|1
-1 Invigorating Surge|M21|1
-1 Island|THB|1
-1 Kalonian Hydra|PLIST|1
-1 Kaya's Onslaught|KHM|1
-1 Mana Reflection|2XM|1
-1 Mirran Crusader|MM2|1
-1 Misty Rainforest|MM3|1
-1 Mold Adder|M10|1
-1 Mountain|THB|1
-1 Nature's Lore|DMR|1
-1 Nyxbloom Ancient|THB|1
-1 Omnath, Locus of the Roil|M20|1
-1 Paradox Zone|C21|1
-1 Parallel Lives|ISD|1
-1 Path to Exile|2X2|1
-1 Plains|THB|1
-1 Plateau|3ED|1
-1 Pongify|TSR|1
-1 Primordial Hydra|M13|1
-1 Rampant Growth|2X2|1
-1 Rapid Hybridization|GTC|1
-1 Rejuvenating Springs|CMR|1
-1 Riku of Two Reflections|2XM|1
-1 Sacred Foundry|GRN|1
-1 Savannah|3ED|1
-1 Scalding Tarn|MM3|1
-1 Scute Swarm|ZNR|1
-1 Skyshroud Claim|BBD|1
-1 Sol Ring|MIC|1
-1 Spark Double|WAR|1
-1 Spire Garden|CLB|1
-1 Steam Vents|GRN|1
-1 Stomping Ground|RNA|1
-1 Stunt Double|MB1|1
-1 Swords to Plowshares|DMR|1
-1 Taiga|3ED|1
-1 Temple Garden|GRN|1
-1 Terastodon|2XM|1
-1 The Ozolith|IKO|1
-1 Three Visits|CLB|1
-1 Tropical Island|3ED|1
-1 Tundra|3ED|1
-1 Unleash Fury|M21|1
-1 Unnatural Growth|MID|1
-1 Vanquish the Horde|MID|1
-1 Volcanic Island|3ED|1
-1 Vorel of the Hull Clade|DGM|1
-1 Vorinclex, Monstrous Raider|KHM|1
-1 Winds of Abandon|PLIST|1
-1 Windswept Heath|KTK|1
-1 Wooded Foothills|KTK|1
-1 Wrenn and Seven|MID|1
-1 Wrenn and Six|2X2|1
+1 Abrade|VOW|[139]
+1 Adrix and Nev, Twincasters|C21|[9]
+1 Amphin Mutineer|CMR|[55]
+1 Arcane Signet|ELD|[331]
+1 Arid Mesa|MM3|[229]
+1 Beast Within|DDL|[69]
+1 Blasphemous Act|2XM|[117]
+1 Bountiful Promenade|CLB|[348]
+1 Branching Evolution|JMP|[29]
+1 Breeding Pool|RNA|[246]
+1 Cindervines|RNA|[161]
+1 Command Tower|ELD|[333]
+1 Crackle with Power|STX|[95]
+1 Curse of the Swine|THS|[46]
+1 Deepglow Skate|2XM|[48]
+1 Divide by Zero|STX|[41]
+1 Doubling Cube|PLIST|[493]
+1 Doubling Season|2XM|[164]
+1 Dragonsguard Elite|STX|[127]
+1 Dual Nature|PCY|[112]
+1 Duelist's Heritage|NCC|[197]
+1 Exotic Orchard|CFX|[142]
+1 Exponential Growth|STX|[130]
+1 Fabled Passage|M21|[246]
+1 Farseek|C19|[165]
+1 Fellwar Stone|PLIST|[255]
+1 Field of the Dead|M20|[247]
+1 Fiendish Duo|GN2|[4]
+1 Fiery Emancipation|M21|[143]
+1 Flooded Strand|KTK|[233]
+9 Forest|THB|[254]
+1 Forgotten Ancient|DMR|[161]
+1 Fractal Harness|C21|[61]
+1 Generous Gift|MOC|[187]
+1 Gisela, Blade of Goldnight|PLIST|[380]
+1 Hallowed Fountain|RNA|[251]
+1 Hydra's Growth|THB|[172]
+1 Intrepid Adversary|MID|[25]
+1 Invigorating Surge|M21|[190]
+1 Island|THB|[251]
+1 Kalonian Hydra|PLIST|[180]
+1 Kaya's Onslaught|KHM|[18]
+1 Mana Reflection|2XM|[175]
+1 Mirran Crusader|MM2|[25]
+1 Misty Rainforest|MM3|[240]
+1 Mold Adder|M10|[194]
+1 Mountain|THB|[253]
+1 Nature's Lore|DMR|[170]
+1 Nyxbloom Ancient|THB|[190]
+1 Omnath, Locus of the Roil|M20|[216]
+1 Paradox Zone|C21|[64]
+1 Parallel Lives|ISD|[199]
+1 Path to Exile|2X2|[23]
+1 Plains|THB|[250]
+1 Plateau|3ED|[284]
+1 Pongify|TSR|[79]
+1 Primordial Hydra|M13|[183]
+1 Rampant Growth|2X2|[155]
+1 Rapid Hybridization|GTC|[44]
+1 Rejuvenating Springs|CMR|[354]
+1 Riku of Two Reflections|2XM|[214]
+1 Sacred Foundry|GRN|[254]
+1 Savannah|3ED|[285]
+1 Scalding Tarn|MM3|[244]
+1 Scute Swarm|ZNR|[203]
+1 Skyshroud Claim|BBD|[213]
+1 Sol Ring|MIC|[162]
+1 Spark Double|WAR|[68]
+1 Spire Garden|CLB|[361]
+1 Steam Vents|GRN|[257]
+1 Stomping Ground|RNA|[259]
+1 Stunt Double|MB1|[509]
+1 Swords to Plowshares|DMR|[31]
+1 Taiga|3ED|[287]
+1 Temple Garden|GRN|[258]
+1 Terastodon|2XM|[182]
+1 The Ozolith|IKO|[237]
+1 Three Visits|CLB|[837]
+1 Tropical Island|3ED|[288]
+1 Tundra|3ED|[289]
+1 Unleash Fury|M21|[170]
+1 Unnatural Growth|MID|[206]
+1 Vanquish the Horde|MID|[41]
+1 Volcanic Island|3ED|[291]
+1 Vorel of the Hull Clade|DGM|[115]
+1 Vorinclex, Monstrous Raider|KHM|[199]
+1 Winds of Abandon|PLIST|[41]
+1 Windswept Heath|KTK|[248]
+1 Wooded Foothills|KTK|[249]
+1 Wrenn and Seven|MID|[208]
+1 Wrenn and Six|2X2|[296]
+[Commander]
+1 Omnath, Locus of Creation|ZNR|[232]

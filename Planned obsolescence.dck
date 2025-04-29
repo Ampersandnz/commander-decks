@@ -1,78 +1,78 @@
 [metadata]
 Name=Planned obsolescence
 [Main]
-1 Abyssal Harvester|FDN|3
-1 Aclazotz, Deepest Betrayal|LCI|1
-1 Anvil of Bogardan|VIS|1
-1 Archfiend of Depravity|FRF|1
-1 Arterial Flow|RIX|1
-1 Asylum Visitor|SOI|1
-1 Bag of Holding|AFR|1
-1 Bandit's Talent|BLB|1
-1 Barren Moor|C15|1
-1 Blasphemous Edict|FDN|3
-1 Bloodchief Ascension|PLIST|1
-1 Bottomless Pit|STH|1
-1 Breach the Multiverse|MOM|1
-1 Burglar Rat|GRN|1
-1 Cabal Coffers|MH2|1
-1 Cabal Stronghold|DOM|1
-1 Call to the Netherworld|TSP|1
-1 Castle Locthwain|ELD|1
-1 Containment Construct|NEO|1
-1 Curtains' Call|OTC|1
-1 Damnation|2X2|1
-1 Dark Ritual|STA|1
-1 Dark Withering|DMR|1
-1 Dauthi Voidwalker|MH2|1
-1 Dismember|MM2|1
-1 Elderfang Disciple|KHM|1
-1 Feed the Swarm|ZNR|1
-1 Fell Specter|M19|1
-1 Geier Reach Sanitarium|EMN|1
-1 Geth's Grimoire|PLIST|1
-1 Hopeless Nightmare|WOE|1
-1 Hostile Investigator|BIG|3
-1 Infernal Grasp|MID|1
-1 Jet Medallion|SLD|1
-1 Junji, the Midnight Sky|NEO|1
-1 Liliana's Caress|M11|1
-1 Malicious Affliction|EMA|1
-1 Megrim|M10|1
-1 Midnight Banshee|MM2|1
-1 Monument to Endurance|DFT|2
-1 Morbid Opportunist|MID|1
-1 Mox Amber|DOM|1
-1 Necrogen Mists|MRD|1
-1 Necrogoyf|J21|1
-1 Nezumi Informant|MOM|1
-1 Noetic Scales|USG|1
-1 Painful Quandary|BRO|1
-1 Raiders' Wake|XLN|1
-1 Reliquary Tower|M19|1
-1 Sangromancer|MBS|1
-1 Saw in Half|UNF|1
-1 Scavenger Grounds|HOU|1
-1 Sheoldred|MOM|1
-1 Sol Ring|MIC|1
-1 Soul Shatter|ZNR|1
-1 Strip Mine|FVE|1
-27 Swamp|THB|1
-1 Syphon Mind|CLB|1
-1 Takenuma, Abandoned Mire|NEO|1
-1 Tergrid, God of Fright|KHM|1
-1 The Haunt of Hightower|RNA|1
-1 The Meathook Massacre|MID|1
-1 The Raven Man|DMU|1
-1 Tinybones, Bauble Burglar|FDN|3
-1 Tinybones, the Pickpocket|OTJ|1
-1 Tragic Slip|INR|1
-1 Urborg, Tomb of Yawgmoth|TSR|1
-1 Vicious Rumors|GRN|1
-1 Virtue of Persistence|WOE|1
-1 Virus Beetle|NEO|1
-1 Vona's Hunger|RIX|1
-1 Waste Not|M15|1
-1 Westgate Regent|AFR|1
+1 Abyssal Harvester|FDN|[381]
+1 Aclazotz, Deepest Betrayal|LCI|[88]
+1 Anvil of Bogardan|VIS|[141]
+1 Archfiend of Depravity|FRF|[62]
+1 Arterial Flow|RIX|[62]
+1 Asylum Visitor|SOI|[99]
+1 Bag of Holding|AFR|[240]
+1 Bandit's Talent|BLB|[83]
+1 Barren Moor|C15|[277]
+1 Blasphemous Edict|FDN|[382]
+1 Bloodchief Ascension|PLIST|[595]
+1 Bottomless Pit|STH|[51]
+1 Breach the Multiverse|MOM|[94]
+1 Burglar Rat|GRN|[64]
+1 Cabal Coffers|MH2|[301]
+1 Cabal Stronghold|DOM|[238]
+1 Call to the Netherworld|TSP|[97]
+1 Castle Locthwain|ELD|[241]
+1 Containment Construct|NEO|[243]
+1 Curtains' Call|OTC|[130]
+1 Damnation|2X2|[73]
+1 Dark Ritual|STA|[26]
+1 Dark Withering|DMR|[79]
+1 Dauthi Voidwalker|MH2|[81]
+1 Dismember|MM2|[79]
+1 Elderfang Disciple|KHM|[93]
+1 Feed the Swarm|ZNR|[102]
+1 Fell Specter|M19|[96]
+1 Geier Reach Sanitarium|EMN|[203]
+1 Geth's Grimoire|PLIST|[1000]
+1 Hopeless Nightmare|WOE|[95]
+1 Hostile Investigator|BIG|[75]
+1 Infernal Grasp|MID|[107]
+1 Jet Medallion|SLD|[1189]
+1 Junji, the Midnight Sky|NEO|[102]
+1 Liliana's Caress|M11|[103]
+1 Malicious Affliction|EMA|[96]
+1 Megrim|M10|[104]
+1 Midnight Banshee|MM2|[86]
+1 Monument to Endurance|DFT|[394]
+1 Morbid Opportunist|MID|[113]
+1 Mox Amber|DOM|[224]
+1 Necrogen Mists|MRD|[69]
+1 Necrogoyf|J21|[363]
+1 Nezumi Informant|MOM|[120]
+1 Noetic Scales|USG|[304]
+1 Painful Quandary|BRO|[111]
+1 Raiders' Wake|XLN|[116]
+1 Reliquary Tower|M19|[254]
+1 Sangromancer|MBS|[53]
+1 Saw in Half|UNF|[88]
+1 Scavenger Grounds|HOU|[182]
+1 Sheoldred|MOM|[125]
+1 Sol Ring|MIC|[162]
+1 Soul Shatter|ZNR|[127]
+1 Strip Mine|FVE|[13]
+27 Swamp|THB|[252]
+1 Syphon Mind|CLB|[772]
+1 Takenuma, Abandoned Mire|NEO|[278]
+1 Tergrid, God of Fright|KHM|[112]
+1 The Haunt of Hightower|RNA|[273]
+1 The Meathook Massacre|MID|[112]
+1 The Raven Man|DMU|[103]
+1 Tinybones, Bauble Burglar|FDN|[388]
+1 Tinybones, the Pickpocket|OTJ|[109]
+1 Tragic Slip|INR|[134]
+1 Urborg, Tomb of Yawgmoth|TSR|[287]
+1 Vicious Rumors|GRN|[89]
+1 Virtue of Persistence|WOE|[115]
+1 Virus Beetle|NEO|[128]
+1 Vona's Hunger|RIX|[90]
+1 Waste Not|M15|[122]
+1 Westgate Regent|AFR|[126]
 [Commander]
-1 Tinybones, Trinket Thief|JMP|1
+1 Tinybones, Trinket Thief|JMP|[17]

@@ -1,81 +1,81 @@
 [metadata]
 Name=Exocoetidae
-[Commander]
-1 Eligeth, Crossroads Augur|CMR|1
-1 Thrasios, Triton Hero|C16|1
 [Main]
-1 Aetherspouts|M15|1
-1 Anticognition|ZNR|1
-1 Arcane Signet|ELD|1
-1 Beast Within|DDL|1
-1 Boseiju, Who Endures|NEO|1
-1 Breeding Pool|RNA|1
-1 Command Tower|ELD|1
-1 Consecrated Sphinx|2X2|1
-1 Counterspell|DMR|1
-1 Curse of the Swine|THS|1
-1 Cyclonic Rift|2XM|1
-1 Dazzling Sphinx|C21|1
-1 Defiler of Dreams|DMU|1
-1 Disdainful Stroke|SNC|1
-1 Dreamroot Cascade|VOW|1
-1 Enigma Thief|ZNC|1
-1 Fading Hope|MID|1
-1 Faerie Artisans|PZ2|1
-1 Faerie Seer|J22|1
-1 Farseek|C19|1
-1 Flood of Tears|M20|1
-1 Foresee|TSR|1
-8 Forest|THB|1
-1 Haughty Djinn|DMU|1
-1 Imprisoned in the Moon|EMN|1
-1 Inscription of Insight|ZNR|1
-1 Inspired Sphinx|SCD|1
-1 Inundate|EVE|1
-17 Island|THB|1
-1 Isochron Scepter|PLIST|1
-1 Joint Exploration|DMU|1
-1 Ledger Shredder|SNC|1
-1 Lofty Denial|M21|1
-1 Master of Predicaments|M15|1
-1 Nature's Claim|IMA|1
-1 Nature's Lore|DMR|1
-1 Nevinyrral's Disk|VMA|1
-1 Omen of the Hunt|THB|1
-1 Omen of the Sea|THB|1
-1 Otawara, Soaring City|NEO|1
-1 Oversimplify|C21|1
-1 Path of Ancestry|MOC|1
-1 Plaza of Heroes|DMU|1
-1 Pongify|TSR|1
-1 Preordain|M11|1
-1 Prescient Chimera|THS|1
-1 Prognostic Sphinx|THS|1
-1 Rampant Growth|2X2|1
-1 Rapid Hybridization|GTC|1
-1 Ravenform|KHM|1
-1 Reality Shift|PLIST|1
-1 Rejuvenating Springs|CMR|1
-1 Reliquary Tower|M19|1
-1 Run Away Together|ELD|1
-1 Sapphire Medallion|C14|1
-1 Serum Sovereign|ONE|1
-1 Serum Visions|MM3|1
-1 Simic Signet|MM3|1
-1 Sol Ring|MIC|1
-1 Sphinx Ambassador|M10|1
-1 Sphinx of Foresight|RNA|1
-1 Sphinx of the Second Sun|CMR|1
-1 Sphinx of Uthuun|IMA|1
-1 Submerge|NMS|1
-1 Talisman of Curiosity|MH1|1
-1 Tamiyo's Epiphany|WAR|1
-1 Tangled Islet|DMU|1
-1 The Temporal Anchor|BRO|1
-1 Thought Vessel|PLIST|1
-1 Three Visits|CLB|1
-1 Unesh, Criosphinx Sovereign|HOU|1
-1 Vineglimmer Snarl|STX|1
-1 Wilderness Reclamation|RNA|1
-1 Windreader Sphinx|M19|1
-1 Witness Protection|SNC|1
+1 Aetherspouts|M15|[44]
+1 Anticognition|ZNR|[45]
+1 Arcane Signet|ELD|[331]
+1 Beast Within|DDL|[69]
+1 Boseiju, Who Endures|NEO|[266]
+1 Breeding Pool|RNA|[246]
+1 Command Tower|ELD|[333]
+1 Consecrated Sphinx|2X2|[43]
+1 Counterspell|DMR|[45]
+1 Curse of the Swine|THS|[46]
+1 Cyclonic Rift|2XM|[47]
+1 Dazzling Sphinx|C21|[25]
+1 Defiler of Dreams|DMU|[46]
+1 Disdainful Stroke|SNC|[39]
+1 Dreamroot Cascade|VOW|[262]
+1 Enigma Thief|ZNC|[4]
+1 Fading Hope|MID|[51]
+1 Faerie Artisans|PZ2|[14]
+1 Faerie Seer|WOC|[92]
+1 Farseek|C19|[165]
+1 Flood of Tears|M20|[59]
+1 Foresee|TSR|[69]
+8 Forest|THB|[254]
+1 Haughty Djinn|DMU|[52]
+1 Imprisoned in the Moon|EMN|[65]
+1 Inscription of Insight|ZNR|[61]
+1 Inspired Sphinx|SCD|[55]
+1 Inundate|EVE|[25]
+17 Island|THB|[251]
+1 Isochron Scepter|PLIST|[259]
+1 Joint Exploration|DMU|[56]
+1 Ledger Shredder|SNC|[46]
+1 Lofty Denial|M21|[56]
+1 Master of Predicaments|M15|[67]
+1 Nature's Claim|IMA|[177]
+1 Nature's Lore|DMR|[170]
+1 Nevinyrral's Disk|VMA|[277]
+1 Omen of the Hunt|THB|[192]
+1 Omen of the Sea|THB|[58]
+1 Otawara, Soaring City|NEO|[271]
+1 Oversimplify|C21|[72]
+1 Path of Ancestry|MOC|[418]
+1 Plaza of Heroes|DMU|[252]
+1 Pongify|TSR|[79]
+1 Preordain|M11|[70]
+1 Prescient Chimera|THS|[59]
+1 Prognostic Sphinx|THS|[60]
+1 Rampant Growth|2X2|[155]
+1 Rapid Hybridization|GTC|[44]
+1 Ravenform|KHM|[72]
+1 Reality Shift|PLIST|[75]
+1 Rejuvenating Springs|CMR|[354]
+1 Reliquary Tower|M19|[254]
+1 Run Away Together|ELD|[62]
+1 Sapphire Medallion|C14|[266]
+1 Serum Sovereign|ONE|[405]
+1 Serum Visions|MM3|[49]
+1 Simic Signet|MM3|[227]
+1 Sol Ring|MIC|[162]
+1 Sphinx Ambassador|M10|[73]
+1 Sphinx of Foresight|RNA|[55]
+1 Sphinx of the Second Sun|CMR|[99]
+1 Sphinx of Uthuun|IMA|[74]
+1 Submerge|NMS|[48]
+1 Talisman of Curiosity|MH1|[232]
+1 Tamiyo's Epiphany|WAR|[71]
+1 Tangled Islet|DMU|[258]
+1 The Temporal Anchor|BRO|[82]
+1 Thought Vessel|PLIST|[274]
+1 Three Visits|CLB|[837]
+1 Unesh, Criosphinx Sovereign|HOU|[52]
+1 Vineglimmer Snarl|STX|[274]
+1 Wilderness Reclamation|RNA|[149]
+1 Windreader Sphinx|M19|[84]
+1 Witness Protection|SNC|[66]
+[Commander]
+1 Eligeth, Crossroads Augur|CMR|[66]
+1 Thrasios, Triton Hero|C16|[46]

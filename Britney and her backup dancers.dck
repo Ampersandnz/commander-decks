@@ -1,86 +1,86 @@
 [metadata]
 Name=Britney and her backup dancers
-[Commander]
-1 Trostani, Three Whispers|MKM|238
 [Main]
-1 Access Tunnel|MKC|247
-1 Annex Sentry|ONE|2
-1 Arcane Signet|LCC|299
-1 Bloated Contaminator|ONE|389
-1 Boseiju, Who Endures|NEO|266
-1 Bountiful Promenade|BBD|81
-1 Branchblight Stalker|ONE|160
-1 Cankerbloom|ONE|161
-1 Canopy Vista|WOC|153
-1 Clever Concealment|ONC|5
-1 Command Tower|WOC|156
-1 Contaminant Grafter|ONC|17
-1 Crawling Chorus|ONE|8
-1 Delney, Streetwise Lookout|MKM|12
-1 Destroy Evil|DMU|17
-1 Duelist's Heritage|MKC|60
-1 Eiganjo, Seat of the Empire|NEO|268
-1 Esper Sentinel|MH2|12
-1 Evolution Sage|LCC|240
-1 Expel the Interlopers|WOE|13
-1 Farseek|CMM|894
-1 Flensing Raptor|ONE|12
-10 Forest|THB|254
-1 Fynn, the Fangbearer|KHM|170
-1 Get Lost|PLCI|14p
-1 Glissa's Retriever|ONC|18
-1 Glistening Sphere|ONC|20
-1 Grafted Exoskeleton|SOM|162
-1 Grateful Apparition|NCC|202
-1 Guardian Project|RVR|146
-1 Heroic Intervention|CMM|295
-1 Infectious Bite|ONE|172
-1 Inkmoth Nexus|MBS|145
-1 Jawbone Duelist|ONE|18
-1 Karn's Bastion|LCC|339
-1 Lost Leonin|NPH|13
-1 Mirrex|ONE|400
-1 Nature's Lore|CMM|904
-1 Norn's Decree|ONC|9
-1 Noxious Assault|ONE|176
-1 Ohran Frostfang|CMM|309
-1 Overgrown Farmland|MID|265
-1 Park Heights Maverick|NCC|63
-1 Phyrexian Censor|MOM|31
-1 Phyrexian Swarmlord|ONC|111
-1 Plague Nurse|ONE|179
-10 Plains|THB|250
-1 Planewide Celebration|WAR|172
-1 Prosthetic Injector|ONE|239
-1 Rampant Growth|CMM|908
-1 Roaming Throne|LCI|258
-1 Rogue's Passage|LCC|349
-1 Sidar Kondo of Jamuraa|MKC|219
-1 Skrelv, Defector Mite|ONE|33
-1 Skrelv's Hive|ONE|376
-1 Slaughter Singer|ONE|216
-1 Smell Fear|MH2|173
-1 Sol Ring|CMM|410
-1 Sunpetal Grove|XLN|257
-1 Sylvan Library|DMR|179
-1 Tamiyo's Safekeeping|NEO|211
-1 Temple Garden|GRN|258
-1 The Seedcore|ONE|403
-1 Three Visits|CMM|913
-1 Tocasia's Welcome|BRO|308
-1 Toski, Bearer of Secrets|KHM|197
-1 Trailblazer's Boots|ONC|144
-1 Tribute to the World Tree|MOM|373
-1 Trouble in Pairs|MKC|15
-1 Tyrranax Atrocity|ONE|188
-1 Tyrranax Rex|ONE|189
-1 Tyvar's Stand|ONE|190
-1 Valorous Stance|JMP|136
-1 Venerated Rotpriest|ONE|392
-1 Viridian Corrupter|ONC|113
-1 Vorinclex, Monstrous Raider|KHM|199
-1 Welcoming Vampire|VOW|46
-1 Whispersilk Cloak|LCC|119
-1 White Sun's Twilight|ONE|377
-1 Windswept Heath|KTK|248
-1 Wurmquake|ONC|19
+1 Access Tunnel|MKC|[247]
+1 Annex Sentry|ONE|[2]
+1 Arcane Signet|LCC|[104]
+1 Bloated Contaminator|ONE|[159]
+1 Boseiju, Who Endures|NEO|[266]
+1 Bountiful Promenade|BBD|[81]
+1 Branchblight Stalker|ONE|[160]
+1 Cankerbloom|ONE|[161]
+1 Canopy Vista|WOC|[153]
+1 Clever Concealment|ONC|[5]
+1 Command Tower|WOC|[156]
+1 Contaminant Grafter|ONC|[17]
+1 Crawling Chorus|ONE|[8]
+1 Delney, Streetwise Lookout|MKM|[12]
+1 Destroy Evil|DMU|[17]
+1 Duelist's Heritage|MKC|[60]
+1 Eiganjo, Seat of the Empire|NEO|[268]
+1 Esper Sentinel|MH2|[12]
+1 Evolution Sage|LCC|[240]
+1 Expel the Interlopers|WOE|[13]
+1 Farseek|CMM|[894]
+1 Flensing Raptor|ONE|[12]
+10 Forest|THB|[254]
+1 Fynn, the Fangbearer|KHM|[170]
+1 Get Lost|LCI|[14]
+1 Glissa's Retriever|ONC|[18]
+1 Glistening Sphere|ONC|[20]
+1 Grafted Exoskeleton|SOM|[162]
+1 Grateful Apparition|NCC|[202]
+1 Guardian Project|RVR|[146]
+1 Heroic Intervention|CMM|[295]
+1 Infectious Bite|ONE|[172]
+1 Inkmoth Nexus|MBS|[145]
+1 Jawbone Duelist|ONE|[18]
+1 Karn's Bastion|LCC|[339]
+1 Lost Leonin|NPH|[13]
+1 Mirrex|ONE|[254]
+1 Nature's Lore|CMM|[904]
+1 Norn's Decree|ONC|[9]
+1 Noxious Assault|ONE|[176]
+1 Ohran Frostfang|CMM|[309]
+1 Overgrown Farmland|MID|[265]
+1 Park Heights Maverick|NCC|[63]
+1 Phyrexian Censor|MOM|[31]
+1 Phyrexian Swarmlord|ONC|[111]
+1 Plague Nurse|ONE|[179]
+10 Plains|THB|[250]
+1 Planewide Celebration|WAR|[172]
+1 Prosthetic Injector|ONE|[239]
+1 Rampant Growth|CMM|[908]
+1 Roaming Throne|LCI|[258]
+1 Rogue's Passage|LCC|[349]
+1 Sidar Kondo of Jamuraa|MKC|[219]
+1 Skrelv's Hive|ONE|[34]
+1 Skrelv, Defector Mite|ONE|[33]
+1 Slaughter Singer|ONE|[216]
+1 Smell Fear|MH2|[173]
+1 Sol Ring|CMM|[410]
+1 Sunpetal Grove|XLN|[257]
+1 Sylvan Library|DMR|[179]
+1 Tamiyo's Safekeeping|NEO|[211]
+1 Temple Garden|GRN|[258]
+1 The Seedcore|ONE|[259]
+1 Three Visits|CMM|[913]
+1 Tocasia's Welcome|BRO|[30]
+1 Toski, Bearer of Secrets|KHM|[197]
+1 Trailblazer's Boots|ONC|[144]
+1 Tribute to the World Tree|MOM|[211]
+1 Trouble in Pairs|MKC|[15]
+1 Tyrranax Atrocity|ONE|[188]
+1 Tyrranax Rex|ONE|[189]
+1 Tyvar's Stand|ONE|[190]
+1 Valorous Stance|JMP|[136]
+1 Venerated Rotpriest|ONE|[192]
+1 Viridian Corrupter|ONC|[113]
+1 Vorinclex, Monstrous Raider|KHM|[199]
+1 Welcoming Vampire|VOW|[46]
+1 Whispersilk Cloak|LCC|[119]
+1 White Sun's Twilight|ONE|[38]
+1 Windswept Heath|KTK|[248]
+1 Wurmquake|ONC|[19]
+[Commander]
+1 Trostani, Three Whispers|MKM|[238]

@@ -1,89 +1,89 @@
 [metadata]
 Name=I would walk 500 mills
 [Main]
-1 Aboleth Spawn|CLB|1
-1 Abyssal Harvester|FDN|3
-1 Altar of the Brood|KTK|1
-1 An Offer You Can't Refuse|SNC|1
-1 Animate Dead|MKC|1
-1 Arcane Signet|LCC|1
-1 Bloodchief Ascension|CMM|1
-1 Bojuka Bog|DSC|1
-1 Brainstealer Dragon|OTC|1
-1 Breach the Multiverse|MOM|1
-1 Bruvac the Grandiloquent|JMP|1
-1 Captain N'ghathrod|CLB|1
-1 Castle Locthwain|ELD|1
-1 Charcoal Diamond|CLB|1
-1 Choked Estuary|AFC|1
-1 Command Tower|C18|1
-1 Consuming Aberration|C16|1
-1 Curse of the Swine|KHC|1
-1 Curtains' Call|OTC|1
-1 Cyclonic Rift|MM3|1
-1 Damnation|2X2|1
-1 Dark Ritual|STA|1
-1 Dauthi Voidwalker|MH2|1
-1 Diluvian Primordial|GTC|1
-1 Dimir Signet|MKC|1
-1 Doomsday Excruciator|DSK|1
-1 Dreamborn Muse|CM2|1
-1 Drown in the Loch|ELD|1
-1 Drowned Catacomb|XLN|1
-1 Fellwar Stone|MKC|1
-1 Fractured Sanity|MH2|1
-1 Gloomlake Verge|DSK|1
-1 Infernal Grasp|MID|1
-1 Invasion of Amonkhet|MOM|1
-9 Island|THB|1
-1 Lazav, Dimir Mastermind|GTC|1
-1 Maddening Cacophony|ZNR|1
-1 Manic Scribe|SOI|1
-1 Memory Erosion|ALA|1
-1 Mesmeric Orb|2XM|1
-1 Mindcrank|IMA|1
-1 Mirko Vosk, Mind Drinker|DGM|1
-1 Morphic Pool|BBD|1
-1 Otawara, Soaring City|NEO|1
-1 Plaza of Heroes|DMU|1
-1 Polluted Delta|KTK|1
-1 Pongify|TSR|1
-1 Rapid Hybridization|C15|1
-1 Reality Shift|C17|1
-1 Reanimate|JMP|1
-1 Restless Reef|LCI|1
-1 Rhystic Study|J22|1
-1 Ruin Crab|ZNR|1
-1 Scavenger Grounds|HOU|1
-1 Sepulchral Primordial|SCD|1
-1 Shadow Kin|MIC|1
-1 Sheoldred|MOM|1
-1 Shipwreck Marsh|MID|1
-1 Sire of Stagnation|M3C|1
-1 Sky Diamond|CLB|1
-1 Soaring Thought-Thief|ZNR|1
-1 Sol Ring|CMM|1
-1 Soul Shatter|ZNR|1
-1 Strix Serenade|MH3|1
-1 Sunken Hollow|WOC|1
-8 Swamp|THB|1
-1 Swan Song|HA3|1
-1 Sword of Body and Mind|HA4|1
-1 Tainted Isle|MKC|1
-1 Takenuma, Abandoned Mire|NEO|1
-1 Talisman of Dominance|WOC|1
-1 Terisian Mindbreaker|BRO|2
-1 The Haunt of Hightower|RNA|1
-1 The Meathook Massacre|MID|2
-1 The Mindskinner|DSK|1
-1 The Scarab God|CMM|1
-1 Undercity Sewers|MKM|1
-1 Underground River|OTC|1
-1 Urborg, Tomb of Yawgmoth|TSR|1
-1 Virtue of Persistence|WOE|1
-1 Vona's Hunger|RIX|1
-1 Watery Grave|GRN|1
-1 Windfall|LCC|1
-1 Zellix, Sanity Flayer|CLB|1
+1 Aboleth Spawn|CLB|[612]
+1 Abyssal Harvester|FDN|[381]
+1 Altar of the Brood|KTK|[216]
+1 An Offer You Can't Refuse|SNC|[51]
+1 Animate Dead|MKC|[125]
+1 Arcane Signet|LCC|[104]
+1 Bloodchief Ascension|CMM|[139]
+1 Bojuka Bog|DSC|[265]
+1 Brainstealer Dragon|OTC|[127]
+1 Breach the Multiverse|MOM|[94]
+1 Bruvac the Grandiloquent|JMP|[10]
+1 Captain N'ghathrod|CLB|[640]
+1 Castle Locthwain|ELD|[241]
+1 Charcoal Diamond|CLB|[305]
+1 Choked Estuary|AFC|[228]
+1 Command Tower|C18|[240]
+1 Consuming Aberration|C16|[189]
+1 Curse of the Swine|KHC|[37]
+1 Curtains' Call|OTC|[130]
+1 Cyclonic Rift|MM3|[35]
+1 Damnation|2X2|[73]
+1 Dark Ritual|STA|[26]
+1 Dauthi Voidwalker|MH2|[81]
+1 Diluvian Primordial|GTC|[33]
+1 Dimir Signet|MKC|[226]
+1 Doomsday Excruciator|DSK|[94]
+1 Dreamborn Muse|CM2|[41]
+1 Drown in the Loch|ELD|[188]
+1 Drowned Catacomb|XLN|[253]
+1 Fellwar Stone|MKC|[228]
+1 Fractured Sanity|MH2|[44]
+1 Gloomlake Verge|DSK|[260]
+1 Infernal Grasp|MID|[107]
+1 Invasion of Amonkhet|MOM|[231]
+9 Island|THB|[251]
+1 Lazav, Dimir Mastermind|GTC|[174]
+1 Maddening Cacophony|ZNR|[67]
+1 Manic Scribe|SOI|[73]
+1 Memory Erosion|ALA|[50]
+1 Mesmeric Orb|2XM|[272]
+1 Mindcrank|IMA|[220]
+1 Mirko Vosk, Mind Drinker|DGM|[85]
+1 Morphic Pool|BBD|[83]
+1 Otawara, Soaring City|NEO|[271]
+1 Plaza of Heroes|DMU|[252]
+1 Polluted Delta|KTK|[239]
+1 Pongify|TSR|[79]
+1 Rapid Hybridization|C15|[102]
+1 Reality Shift|C17|[91]
+1 Reanimate|JMP|[270]
+1 Restless Reef|LCI|[282]
+1 Rhystic Study|J22|[114]
+1 Ruin Crab|ZNR|[295]
+1 Scavenger Grounds|HOU|[182]
+1 Sepulchral Primordial|SCD|[106]
+1 Shadow Kin|MIC|[16]
+1 Sheoldred|MOM|[125]
+1 Shipwreck Marsh|MID|[267]
+1 Sire of Stagnation|M3C|[272]
+1 Sky Diamond|CLB|[337]
+1 Soaring Thought-Thief|ZNR|[236]
+1 Sol Ring|CMM|[410]
+1 Soul Shatter|ZNR|[127]
+1 Strix Serenade|MH3|[71]
+1 Sunken Hollow|WOC|[168]
+8 Swamp|THB|[252]
+1 Swan Song|HA3|[9]
+1 Sword of Body and Mind|HA4|[24]
+1 Tainted Isle|MKC|[300]
+1 Takenuma, Abandoned Mire|NEO|[278]
+1 Talisman of Dominance|WOC|[150]
+1 Terisian Mindbreaker|BRO|[322]
+1 The Haunt of Hightower|RNA|[273]
+1 The Meathook Massacre|MID|[348]
+1 The Mindskinner|DSK|[66]
+1 The Scarab God|CMM|[353]
+1 Undercity Sewers|MKM|[270]
+1 Underground River|OTC|[338]
+1 Urborg, Tomb of Yawgmoth|TSR|[287]
+1 Virtue of Persistence|WOE|[115]
+1 Vona's Hunger|RIX|[90]
+1 Watery Grave|GRN|[259]
+1 Windfall|LCC|[180]
+1 Zellix, Sanity Flayer|CLB|[619]
 [Commander]
-1 Talion, the Kindly Lord|WOE|1
+1 Talion, the Kindly Lord|WOE|[215]

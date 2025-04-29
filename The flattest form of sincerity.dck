@@ -1,80 +1,80 @@
 [metadata]
 Name=The flattest form of sincerity
-[Commander]
-1 Braids, Conjurer Adept|CMM|1
 [Main]
-1 Akroma's Memorial|TSR|1
-1 Ancient Silver Dragon|CLB|1
-1 Arcane Signet|NCC|1
-1 Arcanis the Omnipotent|DMR|1
-1 Body Double|2X2|1
-1 Castle Vantress|ELD|1
-1 Cephalid Facetaker|NCC|1
-1 Chimil, the Inner Sun|LCI|1
-1 Chromatic Orrery|M21|1
-1 Clever Impersonator|C19|1
-1 Clone|M11|1
-1 Coldsteel Heart|2X2|1
-1 Command Beacon|CMR|1
-1 Consecrated Sphinx|2X2|1
-1 Cryptoplasm|MBS|1
-1 Curse of the Swine|KHC|1
-1 Cyclonic Rift|MM3|1
-1 Elminster's Simulacrum|CLB|1
-1 Extravagant Replication|NCC|1
-1 Faerie Artisans|CMM|1
-1 Fellwar Stone|C16|1
-1 Flood of Tears|VOC|1
-1 Followed Footsteps|RAV|1
-1 Gigantoplasm|C15|1
-1 Glasspool Mimic|ZNR|2
-1 Helm of the Host|DOM|1
-1 Hullbreaker Horror|VOW|1
-25 Island|THB|1
-1 Kaldra Compleat|CMM|1
-1 Lonely Sandbar|CM2|1
-1 Midnight Clock|ELD|1
-1 Mirrorhall Mimic|VOW|2
-1 Mocking Doppelganger|CLB|1
-1 Mystic Sanctuary|ELD|1
-1 Otawara, Soaring City|NEO|1
-1 Paradox Haze|TSP|1
-1 Phyrexian Metamorph|MKC|1
-1 Pirated Copy|J22|1
-1 Pongify|TSR|1
-1 Portal to Phyrexia|BRO|1
-1 Rapid Hybridization|C15|1
-1 Ravenform|KHM|1
-1 Reality Shift|C17|1
-1 Reliquary Tower|LCC|1
-1 Saheeli's Artistry|KLD|1
-1 Sakashima of a Thousand Faces|CMR|1
-1 Sakashima the Impostor|SOK|1
-1 Sakashima's Student|PCA|1
-1 Sapphire Medallion|C14|1
-1 Scavenger Grounds|HOU|1
-1 See Double|MOM|1
-1 Show and Tell|CN2|1
-1 Sky Diamond|C14|1
-1 Sludge Monster|MID|1
-1 Sol Ring|C14|1
-1 Spark Double|WAR|1
-1 Sphinx of the Second Sun|CMR|1
-1 Star Compass|IMA|1
-1 Strip Mine|VMA|1
-1 Stunt Double|CLU|1
-1 Submerge|NMS|1
-1 The Immortal Sun|RIX|1
-1 The Magic Mirror|ELD|1
-1 Thespian's Stage|2XM|1
-1 Thought Vessel|CLB|1
-1 Tolaria West|TSR|1
-1 Tolarian Contempt|MAT|1
-1 Undercover Operative|SNC|1
-1 Unsummon|M20|1
-1 Vesuva|TSR|1
-1 Vesuvan Doppelganger|2ED|1
-1 Vesuvan Shapeshifter|C19|1
-1 Vizier of Many Faces|AKH|1
-1 Wandering Archaic|STX|2
-1 Wondrous Crucible|BRC|2
+1 Akroma's Memorial|TSR|[262]
+1 Ancient Silver Dragon|CLB|[56]
+1 Arcane Signet|NCC|[360]
+1 Arcanis the Omnipotent|DMR|[39]
+1 Body Double|2X2|[40]
+1 Castle Vantress|ELD|[242]
+1 Cephalid Facetaker|NCC|[23]
+1 Chimil, the Inner Sun|LCI|[249]
+1 Chromatic Orrery|M21|[228]
+1 Clever Impersonator|C19|[82]
+1 Clone|M11|[49]
+1 Coldsteel Heart|2X2|[301]
+1 Command Beacon|CMR|[349]
+1 Consecrated Sphinx|2X2|[43]
+1 Cryptoplasm|MBS|[23]
+1 Curse of the Swine|KHC|[37]
+1 Cyclonic Rift|MM3|[35]
+1 Elminster's Simulacrum|CLB|[68]
+1 Extravagant Replication|NCC|[25]
+1 Faerie Artisans|CMM|[92]
+1 Fellwar Stone|C16|[254]
+1 Flood of Tears|VOC|[104]
+1 Followed Footsteps|RAV|[51]
+1 Gigantoplasm|C15|[11]
+1 Glasspool Mimic|ZNR|[60]
+1 Helm of the Host|DOM|[217]
+1 Hullbreaker Horror|VOW|[63]
+25 Island|THB|[251]
+1 Kaldra Compleat|CMM|[958]
+1 Lonely Sandbar|CM2|[257]
+1 Midnight Clock|ELD|[54]
+1 Mirrorhall Mimic|VOW|[361]
+1 Mocking Doppelganger|CLB|[617]
+1 Mystic Sanctuary|ELD|[247]
+1 Otawara, Soaring City|NEO|[271]
+1 Paradox Haze|TSP|[71]
+1 Phyrexian Metamorph|MKC|[116]
+1 Pirated Copy|J22|[16]
+1 Pongify|TSR|[79]
+1 Portal to Phyrexia|BRO|[240]
+1 Rapid Hybridization|C15|[102]
+1 Ravenform|KHM|[72]
+1 Reality Shift|C17|[91]
+1 Reliquary Tower|LCC|[348]
+1 Saheeli's Artistry|KLD|[62]
+1 Sakashima of a Thousand Faces|CMR|[89]
+1 Sakashima the Impostor|SOK|[53]
+1 Sakashima's Student|PCA|[24]
+1 Sapphire Medallion|C14|[266]
+1 Scavenger Grounds|HOU|[182]
+1 See Double|MOM|[77]
+1 Show and Tell|CN2|[121]
+1 Sky Diamond|C14|[269]
+1 Sludge Monster|MID|[76]
+1 Sol Ring|C14|[270]
+1 Spark Double|WAR|[68]
+1 Sphinx of the Second Sun|CMR|[99]
+1 Star Compass|IMA|[229]
+1 Strip Mine|VMA|[316]
+1 Stunt Double|CLU|[101]
+1 Submerge|NMS|[48]
+1 The Immortal Sun|RIX|[180]
+1 The Magic Mirror|ELD|[51]
+1 Thespian's Stage|2XM|[327]
+1 Thought Vessel|CLB|[879]
+1 Tolaria West|TSR|[286]
+1 Tolarian Contempt|MAT|[8]
+1 Undercover Operative|SNC|[63]
+1 Unsummon|M20|[78]
+1 Vesuva|TSR|[289]
+1 Vesuvan Doppelganger|2ED|[88]
+1 Vesuvan Shapeshifter|C19|[101]
+1 Vizier of Many Faces|AKH|[74]
+1 Wandering Archaic|STX|[286]
+1 Wondrous Crucible|BRC|[67]
+[Commander]
+1 Braids, Conjurer Adept|CMM|[76]

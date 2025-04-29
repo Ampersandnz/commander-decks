@@ -1,89 +1,89 @@
 [metadata]
 Name=Episode 9: The Rise of Planeswalker
-[Commander]
-1 Marchesa, the Black Rose|2X2|1
 [Main]
-1 Apprentice Necromancer|UMA|1
-1 Arcane Signet|MOC|1
-1 Ashnod's Altar|EMA|1
-1 Benthic Biomancer|RNA|1
-1 Blasphemous Act|SCD|1
-1 Blood Crypt|RNA|1
-1 Bloodline Necromancer|VOC|1
-1 Bloodstained Mire|KTK|1
-1 Bloodtracker|J22|1
-1 By Force|AKR|1
-1 Cloudkin Seer|ANB|1
-1 Command Tower|MOC|1
-1 Curse of the Swine|CLB|1
-1 Cyclone Summoner|KHM|1
-1 Damnation|2X2|1
-1 Dictate of Erebos|MB1|1
-1 Doom Cannon|ONS|1
-1 Exotic Orchard|MOC|1
-1 Fabled Passage|ELD|1
-1 Fatal Push|KLR|1
-1 Feed the Swarm|SCD|1
-1 Feign Death|AFR|1
-1 Fellwar Stone|MOC|1
-1 Forge of Heroes|C18|1
-1 Goblin Flectomancer|GPT|1
-1 Grave Pact|CM2|1
-1 Grim Haruspex|CLB|1
-1 Harmonic Prodigy|J21|1
-1 Harness by Force|JOU|1
-1 Haunted Ridge|MID|1
-1 Heirloom Blade|J22|1
-1 Hero's Downfall|DMC|1
-1 Infernal Grasp|PSVC|1
-7 Island|THB|1
-1 Lifeline|USG|1
-1 Lightning Bolt|MB1|1
-1 Luxury Suite|BBD|1
-1 Metallic Mimic|KLR|1
-1 Morphic Pool|BBD|1
-1 Mountain|THB|1
-1 Opal Palace|CMR|1
-1 Phyrexian Altar|2X2|1
-1 Phyrexian Tower|JMP|1
-1 Polluted Delta|KTK|1
-1 Reflections of Littjara|CLB|1
-1 Sage of Fables|MOR|1
-1 Scalding Tarn|MH2|1
-1 Sea Gate Oracle|GN3|1
-1 Shadowmage Infiltrator|NCC|1
-1 Shipwreck Marsh|MID|1
-1 Siren Stormtamer|CMR|1
-1 Skullclamp|CLB|1
-1 Sneak Attack|DMR|1
-1 Sol Ring|MIC|1
-1 Spark Double|WAR|1
-1 Steam Vents|GRN|1
-1 Stormcarved Coast|VOW|1
-10 Swamp|THB|1
-1 Sword of Feast and Famine|PLIST|1
-1 Sword of Fire and Ice|2XM|1
-1 Sword of Hearth and Home|MH2|1
-1 Sword of Hours|AFC|1
-1 Sword of Light and Shadow|2XM|1
-1 Sword of the Animist|AFC|1
-1 Sword of Truth and Justice|MH1|1
-1 Talisman of Creativity|C21|1
-1 Talisman of Dominance|SCD|1
-1 Talisman of Indulgence|SCD|1
-1 Taurean Mauler|NEC|1
-1 Teferi's Time Twist|WAR|1
-1 Thalakos Deceiver|STH|1
-1 The Ozolith|IKO|1
-1 Tragic Slip|J22|2
-1 Training Center|CMR|1
-1 Tribute Mage|MH1|1
-1 Trophy Mage|KLR|1
-1 Unclaimed Territory|C20|1
-1 Unspeakable Symbol|SCG|1
-1 Vindictive Lich|SLD|1
-1 Viscera Seer|CMR|1
-1 Watcher for Tomorrow|MH1|1
-1 Watery Grave|GRN|1
-1 Wizard's Lightning|DOM|1
-1 Youthful Scholar|MB1|1
+1 Apprentice Necromancer|UMA|[84]
+1 Arcane Signet|MOC|[348]
+1 Ashnod's Altar|EMA|[218]
+1 Benthic Biomancer|RNA|[32]
+1 Blasphemous Act|SCD|[124]
+1 Blood Crypt|RNA|[245]
+1 Bloodline Necromancer|VOC|[120]
+1 Bloodstained Mire|KTK|[230]
+1 Bloodtracker|J22|[382]
+1 By Force|AKR|[144]
+1 Cloudkin Seer|ANB|[25]
+1 Command Tower|MOC|[396]
+1 Curse of the Swine|CLB|[716]
+1 Cyclone Summoner|KHM|[52]
+1 Damnation|2X2|[73]
+1 Dictate of Erebos|MB1|[625]
+1 Doom Cannon|ONS|[307]
+1 Exotic Orchard|MOC|[398]
+1 Fabled Passage|ELD|[244]
+1 Fatal Push|KLR|[84]
+1 Feed the Swarm|SCD|[77]
+1 Feign Death|AFR|[103]
+1 Fellwar Stone|MOC|[356]
+1 Forge of Heroes|C18|[58]
+1 Goblin Flectomancer|GPT|[116]
+1 Grave Pact|CM2|[65]
+1 Grim Haruspex|CLB|[754]
+1 Harmonic Prodigy|J21|[466]
+1 Harness by Force|JOU|[100]
+1 Haunted Ridge|MID|[263]
+1 Heirloom Blade|J22|[775]
+1 Hero's Downfall|DMC|[112]
+1 Infernal Grasp|PSVC|[2]
+7 Island|THB|[251]
+1 Lifeline|USG|[299]
+1 Lightning Bolt|MB1|[1001]
+1 Luxury Suite|BBD|[82]
+1 Metallic Mimic|KLR|[251]
+1 Morphic Pool|BBD|[83]
+1 Mountain|THB|[253]
+1 Opal Palace|CMR|[352]
+1 Phyrexian Altar|2X2|[311]
+1 Phyrexian Tower|JMP|[493]
+1 Polluted Delta|KTK|[239]
+1 Reflections of Littjara|CLB|[733]
+1 Sage of Fables|MOR|[47]
+1 Scalding Tarn|MH2|[254]
+1 Sea Gate Oracle|GN3|[38]
+1 Shadowmage Infiltrator|NCC|[351]
+1 Shipwreck Marsh|MID|[267]
+1 Siren Stormtamer|CMR|[96]
+1 Skullclamp|CLB|[870]
+1 Sneak Attack|DMR|[139]
+1 Sol Ring|MIC|[162]
+1 Spark Double|WAR|[68]
+1 Steam Vents|GRN|[257]
+1 Stormcarved Coast|VOW|[265]
+10 Swamp|THB|[252]
+1 Sword of Feast and Famine|PLIST|[1011]
+1 Sword of Fire and Ice|2XM|[297]
+1 Sword of Hearth and Home|MH2|[238]
+1 Sword of Hours|AFC|[61]
+1 Sword of Light and Shadow|2XM|[298]
+1 Sword of the Animist|AFC|[218]
+1 Sword of Truth and Justice|MH1|[229]
+1 Talisman of Creativity|C21|[269]
+1 Talisman of Dominance|SCD|[280]
+1 Talisman of Indulgence|SCD|[282]
+1 Taurean Mauler|NEC|[111]
+1 Teferi's Time Twist|WAR|[72]
+1 Thalakos Deceiver|STH|[45]
+1 The Ozolith|IKO|[237]
+1 Tragic Slip|J22|[478]
+1 Training Center|CMR|[358]
+1 Tribute Mage|MH1|[73]
+1 Trophy Mage|KLR|[71]
+1 Unclaimed Territory|C20|[320]
+1 Unspeakable Symbol|SCG|[79]
+1 Vindictive Lich|SLD|[235]
+1 Viscera Seer|TDC|[199]
+1 Watcher for Tomorrow|MH1|[76]
+1 Watery Grave|GRN|[259]
+1 Wizard's Lightning|DOM|[152]
+1 Youthful Scholar|MB1|[557]
+[Commander]
+1 Marchesa, the Black Rose|2X2|[248]

@@ -1,104 +1,104 @@
 [metadata]
 Name=World of Warcraft speedrunner
-[Commander]
-1 Sisay, Weatherlight Captain|MH1|1
 [Main]
-1 An Offer You Can't Refuse|SNC|1
-1 Anguished Unmaking|2X2|1
-1 Arcane Signet|ELD|1
-1 Arid Mesa|MH2|1
-1 Atraxa, Praetors' Voice|CM2|1
-1 Austere Command|LCC|1
-1 Avacyn's Pilgrim|SCD|1
-1 Avenger of Zendikar|C13|1
-1 Beast Within|DMC|1
-1 Beastmaster Ascension|MB1|1
-1 Beledros Witherbloom|STX|1
-1 Birds of Paradise|MB1|1
-1 Blood Crypt|RNA|1
-1 Bloom Tender|MB1|1
-1 Boseiju, Who Endures|NEO|1
-1 Bountiful Promenade|CLB|1
-1 Breeding Pool|RNA|1
-1 Command Tower|WOC|1
-1 Cyclonic Rift|MM3|1
-1 Daxos the Returned|C15|1
-1 Delighted Halfling|LTR|1
-1 Destroy Evil|DMU|1
-1 Doubling Season|CMM|1
-1 Elesh Norn, Grand Cenobite|MB1|1
-1 Elves of Deep Shadow|RAV|1
-1 Elvish Mystic|CMM|1
-1 Esper Sentinel|MH2|1
-1 Etali, Primal Conqueror|MOM|1
-1 Exotic Orchard|CM2|1
-1 Ezuri, Claw of Progress|2X2|1
-1 Farewell|NEO|4
-1 Fellwar Stone|NEC|1
-1 Field of the Dead|M20|1
-1 Flooded Strand|KTK|1
-1 Forest|THB|1
-1 Fyndhorn Elves|CMR|1
-1 Generous Gift|MH1|1
-1 Godless Shrine|RNA|1
-1 Hallowed Fountain|RNA|1
-1 Heroic Intervention|M21|1
-1 Hornet Queen|CLB|1
-1 Ignoble Hierarch|MH2|1
-1 Illustrious Wanderglyph|LCC|1
-1 Impact Tremors|MOC|1
-1 Island|THB|1
-1 Kalemne, Disciple of Iroas|C15|1
-1 Kelsien, the Plague|C20|1
-1 Kenrith, the Returned King|ELD|1
-1 Llanowar Elves|EMA|1
-1 Luxury Suite|BBD|1
-1 Managorger Hydra|CLB|1
-1 Marsh Flats|MH2|1
-1 Meren of Clan Nel Toth|CMM|1
-1 Minthara, Merciless Soul|CLB|1
-1 Misty Rainforest|MH2|1
-1 Mizzix of the Izmagnus|CMM|1
-1 Morphic Pool|CLB|1
-1 Mountain|THB|1
-1 Nature's Claim|CNS|1
-1 Nesting Dragon|C18|1
-1 Noble Hierarch|MM2|1
-1 Ohran Frostfang|C19|1
-1 Otharri, Suns' Glory|ONC|1
-1 Overgrown Tomb|GRN|1
-1 Plains|THB|1
-1 Plaza of Heroes|DMU|1
-1 Rejuvenating Springs|CMR|1
-1 Rhystic Study|J22|1
-1 Sacred Foundry|GRN|1
-1 Sea of Clouds|BBD|1
-1 Shadowspear|THB|1
-1 Sheoldred, the Apocalypse|DMU|1
-1 Silverwing Squadron|ELD|1
-1 Skullclamp|MB1|1
-1 Sol Ring|CMM|1
-1 Spectator Seating|CMR|1
-1 Spire Garden|BBD|1
-1 Steam Vents|GRN|1
-1 Stomping Ground|RNA|1
-1 Sunfall|MOM|1
-1 Swamp|THB|1
-1 Swan Song|HA3|1
-1 Swords to Plowshares|BBD|1
-1 Tear Asunder|DMU|1
-1 Temple Garden|GRN|1
-1 Tendershoot Dryad|RIX|1
-1 The Council of Four|CLB|1
-1 The Meathook Massacre|MID|1
-1 Training Center|CMM|1
-1 Undergrowth Stadium|CMR|1
-1 Valorous Stance|AFC|1
-1 Vault of Champions|CMM|1
-1 Verdant Catacombs|MH2|1
-1 Void Rend|SNC|1
-1 Watery Grave|GRN|1
-1 Wear // Tear|CMR|1
-1 Wild Growth|DMR|1
-1 Windswept Heath|KTK|1
-1 Wooded Foothills|KTK|1
+1 An Offer You Can't Refuse|SNC|[51]
+1 Anguished Unmaking|2X2|[170]
+1 Arcane Signet|ELD|[331]
+1 Arid Mesa|MH2|[244]
+1 Atraxa, Praetors' Voice|CM2|[10]
+1 Austere Command|LCC|[126]
+1 Avacyn's Pilgrim|SCD|[171]
+1 Avenger of Zendikar|C13|[135]
+1 Beast Within|DMC|[129]
+1 Beastmaster Ascension|MB1|[1133]
+1 Beledros Witherbloom|STX|[163]
+1 Birds of Paradise|MB1|[1138]
+1 Blood Crypt|RNA|[245]
+1 Bloom Tender|MB1|[1143]
+1 Boseiju, Who Endures|NEO|[266]
+1 Bountiful Promenade|CLB|[348]
+1 Breeding Pool|RNA|[246]
+1 Command Tower|WOC|[156]
+1 Cyclonic Rift|MM3|[35]
+1 Daxos the Returned|C15|[43]
+1 Delighted Halfling|LTR|[158]
+1 Destroy Evil|DMU|[17]
+1 Doubling Season|CMM|[283]
+1 Elesh Norn, Grand Cenobite|MB1|[88]
+1 Elves of Deep Shadow|RAV|[161]
+1 Elvish Mystic|CMM|[284]
+1 Esper Sentinel|MH2|[12]
+1 Etali, Primal Conqueror|MOM|[137]
+1 Exotic Orchard|CM2|[250]
+1 Ezuri, Claw of Progress|2X2|[211]
+1 Farewell|NEO|[436]
+1 Fellwar Stone|NEC|[150]
+1 Field of the Dead|M20|[247]
+1 Flooded Strand|KTK|[233]
+1 Forest|THB|[254]
+1 Fyndhorn Elves|CMR|[228]
+1 Generous Gift|MH1|[11]
+1 Godless Shrine|RNA|[248]
+1 Hallowed Fountain|RNA|[251]
+1 Heroic Intervention|M21|[188]
+1 Hornet Queen|CLB|[825]
+1 Ignoble Hierarch|MH2|[166]
+1 Illustrious Wanderglyph|LCC|[9]
+1 Impact Tremors|MOC|[285]
+1 Island|THB|[251]
+1 Kalemne, Disciple of Iroas|C15|[45]
+1 Kelsien, the Plague|C20|[11]
+1 Kenrith, the Returned King|ELD|[303]
+1 Llanowar Elves|EMA|[175]
+1 Luxury Suite|BBD|[82]
+1 Managorger Hydra|CLB|[828]
+1 Marsh Flats|MH2|[248]
+1 Meren of Clan Nel Toth|CMM|[346]
+1 Minthara, Merciless Soul|CLB|[286]
+1 Misty Rainforest|MH2|[250]
+1 Mizzix of the Izmagnus|CMM|[348]
+1 Morphic Pool|CLB|[357]
+1 Mountain|THB|[253]
+1 Nature's Claim|CNS|[171]
+1 Nesting Dragon|C18|[24]
+1 Noble Hierarch|MM2|[151]
+1 Ohran Frostfang|C19|[33]
+1 Otharri, Suns' Glory|ONC|[3]
+1 Overgrown Tomb|GRN|[253]
+1 Plains|THB|[250]
+1 Plaza of Heroes|DMU|[252]
+1 Rejuvenating Springs|CMR|[354]
+1 Rhystic Study|J22|[114]
+1 Sacred Foundry|GRN|[254]
+1 Sea of Clouds|BBD|[84]
+1 Shadowspear|THB|[236]
+1 Sheoldred, the Apocalypse|DMU|[107]
+1 Silverwing Squadron|ELD|[315]
+1 Skullclamp|MB1|[1630]
+1 Sol Ring|CMM|[410]
+1 Spectator Seating|CMR|[356]
+1 Spire Garden|BBD|[85]
+1 Steam Vents|GRN|[257]
+1 Stomping Ground|RNA|[259]
+1 Sunfall|MOM|[40]
+1 Swamp|THB|[252]
+1 Swan Song|HA3|[9]
+1 Swords to Plowshares|BBD|[110]
+1 Tear Asunder|DMU|[183]
+1 Temple Garden|GRN|[258]
+1 Tendershoot Dryad|RIX|[147]
+1 The Council of Four|CLB|[271]
+1 The Meathook Massacre|MID|[112]
+1 Training Center|CMM|[434]
+1 Undergrowth Stadium|CMR|[359]
+1 Valorous Stance|AFC|[76]
+1 Vault of Champions|CMM|[436]
+1 Verdant Catacombs|MH2|[260]
+1 Void Rend|SNC|[230]
+1 Watery Grave|GRN|[259]
+1 Wear // Tear|CMR|[456]
+1 Wild Growth|DMR|[184]
+1 Windswept Heath|KTK|[248]
+1 Wooded Foothills|KTK|[249]
+[Commander]
+1 Sisay, Weatherlight Captain|MH1|[29]

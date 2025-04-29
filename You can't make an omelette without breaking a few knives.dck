@@ -1,90 +1,90 @@
 [metadata]
 Name=You can't make an omelette without breaking a few knives
 [Main]
-1 Ancient Brass Dragon|CLB|1
-1 Archpriest of Shadows|MOM|1
-1 Assassin's Trophy|GRN|1
-1 Balor|CLB|1
-1 Birds of Paradise|RVR|1
-1 Birthing Ritual|MH3|1
-1 Blasphemous Act|CMM|1
-1 Blood Crypt|RNA|1
-1 Bloodstained Mire|KTK|1
-1 Bone Shards|MH2|1
-1 Boseiju, Who Endures|NEO|1
-1 Breach the Multiverse|MOM|2
-1 Bringer of the Last Gift|LCI|2
-1 Calamity, Galloping Inferno|OTJ|2
-1 Chainer, Nightmare Adept|MH2|1
-1 Coiling Rebirth|BLB|1
-1 Command Tower|WOC|1
-1 Culling Ritual|DSC|1
-1 Deathcap Glade|VOW|1
-1 Delighted Halfling|LTR|1
-1 Disciple of Bolas|NCC|1
-1 Druid of Purification|AFC|1
-1 Echoing Assault|BLC|2
-1 Elves of Deep Shadow|RAV|1
-1 Etali, Primal Conqueror|MOM|1
-1 Exotic Orchard|CM2|1
-1 Fanatic of Rhonas|MH3|2
-1 Feign Death|AFR|1
-1 Final Vengeance|DSK|1
-1 Flameshadow Conjuring|MOC|1
-8 Forest|THB|1
-1 Garruk's Uprising|SCD|1
-1 Haunted Ridge|MID|1
-1 Hideous Taskmaster|M3C|1
-1 High-Society Hunter|FDN|4
-1 Hull Breach|PZ1|1
-1 Ignoble Hierarch|MH2|1
-1 Ilharg, the Raze-Boar|RVR|1
-1 Incarnation Technique|C21|2
-1 Industrial Advancement|NCC|1
-1 Life's Legacy|NCC|1
-1 Luxury Suite|CLB|1
-1 Metamorphosis Fanatic|DSC|2
-1 Mosswort Bridge|C13|1
-2 Mountain|THB|1
-1 Not Dead After All|WOE|1
-1 Noxious Gearhulk|KLD|1
-1 Ojer Kaslem, Deepest Growth|LCI|1
-1 Overgrown Tomb|GRN|1
-1 Overlord of the Hauntwoods|DSK|2
-1 Phyrexian Tower|MH3|2
-1 Primeval Herald|J22|1
-1 Railway Brawler|OTJ|2
-1 Rakdos, the Muscle|OTJ|1
-1 Ravenous Chupacabra|MKC|1
-1 Reanimate|MKC|1
-1 Riveteers Ascendancy|SNC|1
-1 Rockfall Vale|MID|1
-1 Rottenmouth Viper|BLB|1
-1 Saw in Half|UNF|1
-1 Seedguide Ash|LRW|1
-1 Shifting Woodland|MH3|2
-1 Slimefoot and Squee|MOC|1
-1 Sneak Attack|WOT|3
-1 Sol Ring|CMM|1
-1 Spire Garden|BBD|1
-1 Stomping Ground|RNA|1
-7 Swamp|THB|1
-1 Takenuma, Abandoned Mire|NEO|1
-1 Tear Asunder|DMU|1
-1 The Great Henge|ELD|1
-1 The Meathook Massacre|MID|1
-1 The Skullspore Nexus|LCI|1
-1 Undergrowth Stadium|CMR|1
-1 Undying Malice|VOW|1
-1 Vaultborn Tyrant|BIG|1
-1 Vein Ripper|MKM|1
-1 Verdant Catacombs|MM3|1
-1 Victimize|CNS|1
-1 Virtue of Persistence|WOE|1
-1 Viscera Seer|LCC|1
-1 Wild Growth|MKC|1
-1 Wooded Foothills|KTK|1
-1 Ziatora's Envoy|SNC|1
-1 Ziatora's Proving Ground|SNC|1
+1 Ancient Brass Dragon|CLB|[111]
+1 Archpriest of Shadows|MOM|[89]
+1 Assassin's Trophy|GRN|[152]
+1 Balor|CLB|[162]
+1 Birds of Paradise|RVR|[133]
+1 Birthing Ritual|MH3|[146]
+1 Blasphemous Act|CMM|[872]
+1 Blood Crypt|RNA|[245]
+1 Bloodstained Mire|KTK|[230]
+1 Bone Shards|MH2|[76]
+1 Boseiju, Who Endures|NEO|[266]
+1 Breach the Multiverse|MOM|[358]
+1 Bringer of the Last Gift|LCI|[337]
+1 Calamity, Galloping Inferno|OTJ|[330]
+1 Chainer, Nightmare Adept|MH2|[289]
+1 Coiling Rebirth|BLB|[86]
+1 Command Tower|WOC|[156]
+1 Culling Ritual|DSC|[85]
+1 Deathcap Glade|VOW|[261]
+1 Delighted Halfling|LTR|[158]
+1 Disciple of Bolas|NCC|[247]
+1 Druid of Purification|AFC|[39]
+1 Echoing Assault|BLC|[58]
+1 Elves of Deep Shadow|RAV|[161]
+1 Etali, Primal Conqueror|MOM|[137]
+1 Exotic Orchard|CM2|[250]
+1 Fanatic of Rhonas|MH3|[458]
+1 Feign Death|AFR|[103]
+1 Final Vengeance|DSK|[99]
+1 Flameshadow Conjuring|MOC|[280]
+8 Forest|THB|[254]
+1 Garruk's Uprising|SCD|[185]
+1 Haunted Ridge|MID|[263]
+1 Hideous Taskmaster|M3C|[57]
+1 High-Society Hunter|FDN|[461]
+1 Hull Breach|PZ1|[105]
+1 Ignoble Hierarch|MH2|[166]
+1 Ilharg, the Raze-Boar|RVR|[113]
+1 Incarnation Technique|C21|[368]
+1 Industrial Advancement|NCC|[47]
+1 Life's Legacy|NCC|[300]
+1 Luxury Suite|CLB|[355]
+1 Metamorphosis Fanatic|DSC|[51]
+1 Mosswort Bridge|C13|[307]
+2 Mountain|THB|[253]
+1 Not Dead After All|WOE|[101]
+1 Noxious Gearhulk|KLD|[96]
+1 Ojer Kaslem, Deepest Growth|LCI|[204]
+1 Overgrown Tomb|GRN|[253]
+1 Overlord of the Hauntwoods|DSK|[383]
+1 Phyrexian Tower|MH3|[355]
+1 Primeval Herald|J22|[42]
+1 Railway Brawler|OTJ|[344]
+1 Rakdos, the Muscle|OTJ|[226]
+1 Ravenous Chupacabra|MKC|[136]
+1 Reanimate|MKC|[137]
+1 Riveteers Ascendancy|SNC|[216]
+1 Rockfall Vale|MID|[266]
+1 Rottenmouth Viper|BLB|[107]
+1 Saw in Half|UNF|[88]
+1 Seedguide Ash|LRW|[235]
+1 Shifting Woodland|MH3|[357]
+1 Slimefoot and Squee|MOC|[447]
+1 Sneak Attack|WOT|[99]
+1 Sol Ring|CMM|[410]
+1 Spire Garden|BBD|[85]
+1 Stomping Ground|RNA|[259]
+7 Swamp|THB|[252]
+1 Takenuma, Abandoned Mire|NEO|[278]
+1 Tear Asunder|DMU|[183]
+1 The Great Henge|ELD|[161]
+1 The Meathook Massacre|MID|[112]
+1 The Skullspore Nexus|LCI|[212]
+1 Undergrowth Stadium|CMR|[359]
+1 Undying Malice|VOW|[134]
+1 Vaultborn Tyrant|BIG|[20]
+1 Vein Ripper|MKM|[110]
+1 Verdant Catacombs|MM3|[249]
+1 Victimize|CNS|[133]
+1 Virtue of Persistence|WOE|[115]
+1 Viscera Seer|TDC|[199]
+1 Wild Growth|MKC|[195]
+1 Wooded Foothills|KTK|[249]
+1 Ziatora's Envoy|SNC|[232]
+1 Ziatora's Proving Ground|SNC|[261]
 [Commander]
-1 Henzie "Toolbox" Torre|NCC|2
+1 Henzie "Toolbox" Torre|NCC|[102]

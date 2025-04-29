@@ -1,90 +1,90 @@
 [metadata]
 Name=J. R. R. Token
 [Main]
-1 Adeline, Resplendent Cathar|MID|1
-1 Angelic Aberration|M3C|1
-1 Anguished Unmaking|SOI|1
-1 Anointed Procession|PLIST|1
-1 Anthem of Champions|FDN|3
-1 Beastmaster Ascension|ZEN|1
-1 Beledros Witherbloom|STX|1
-1 Bennie Bracks, Zoologist|NCC|1
-1 Bitterblossom|2X2|1
-1 Blasphemous Edict|FDN|3
-1 Boseiju, Who Endures|NEO|1
-1 Bountiful Promenade|CLB|1
-1 Caretaker's Talent|BLB|1
-1 Castle Ardenvale|ELD|1
-1 Champion of Lambholt|2XM|1
-1 Charismatic Conqueror|LCC|1
-1 Chatterfang, Squirrel General|J21|1
-1 Clever Concealment|ONC|1
-1 Command Tower|ELD|1
-1 Cultivate|A25|1
-1 Deathcap Glade|VOW|1
-1 Despark|WAR|1
-1 Eiganjo, Seat of the Empire|NEO|1
-1 Elspeth, Sun's Champion|THS|1
-1 Enduring Innocence|DSK|2
-1 Exotic Orchard|CFX|1
-1 Farseek|C19|1
-1 Field of the Dead|M20|1
-7 Forest|THB|1
-1 Gala Greeters|SNC|1
-1 Get Lost|LCI|1
-1 Godless Shrine|RNA|1
-1 Illustrious Wanderglyph|LCC|1
-1 Indatha Triome|IKO|1
-1 Inspiring Leader|CLB|1
-1 Invasion of Tolvada|MOM|1
-1 Jacked Rabbit|BLC|2
-1 Kambal, Profiteering Mayor|OTJ|2
-1 Kodama's Reach|UMA|1
-1 Legion's Landing|XLN|1
-1 March of the Multitudes|GRN|1
-1 Marsh Flats|MM3|1
-1 Martial Coup|CFX|1
-1 Master of Ceremonies|NCC|1
-1 Mondrak, Glory Dominus|ONE|1
-1 Nature's Lore|DMR|1
-1 Ocelot Pride|MH3|1
-1 Ohran Frostfang|PLIST|1
-1 Overgrown Farmland|MID|1
-1 Overgrown Tomb|GRN|1
-1 Overlord of the Hauntwoods|DSK|2
-1 Parallel Lives|ISD|1
-1 Pest Infestation|C21|2
-6 Plains|THB|1
-1 Prosperous Innkeeper|AFR|1
-1 Rabble Rousing|SNC|1
-1 Scute Swarm|ZNR|1
-1 Secure the Wastes|DTK|1
-1 Shattered Sanctum|VOW|1
-1 Skrelv's Hive|ONE|1
-1 Skullclamp|CLB|1
-1 Smothering Tithe|2X2|1
-1 Sol Ring|MIC|1
-1 Strixhaven Stadium|STX|1
-1 Stroke of Midnight|WOE|1
-4 Swamp|THB|1
-1 Swords to Plowshares|DMR|1
-1 Tear Asunder|BLC|1
-1 Temple Garden|GRN|1
-1 Tendershoot Dryad|RIX|1
-1 Thalisse, Reverent Medium|CMR|1
-1 Three Visits|CLB|1
-1 Tocasia's Welcome|BRO|1
-1 Trouble in Pairs|MKC|2
-1 Twitching Doll|DSK|2
-1 Undergrowth Stadium|CMR|1
-1 Vanishing Verse|STX|1
-1 Vault of Champions|CMR|1
-1 Verdant Catacombs|MM3|1
-1 Virtue of Loyalty|WOE|1
-1 Vona's Hunger|RIX|1
-1 Welcoming Vampire|VOW|1
-1 White Sun's Twilight|ONE|1
-1 Windswept Heath|KTK|1
+1 Adeline, Resplendent Cathar|MID|[1]
+1 Angelic Aberration|M3C|[39]
+1 Anguished Unmaking|SOI|[242]
+1 Anointed Procession|PLIST|[654]
+1 Anthem of Champions|FDN|[405]
+1 Beastmaster Ascension|ZEN|[159]
+1 Beledros Witherbloom|STX|[163]
+1 Bennie Bracks, Zoologist|NCC|[86]
+1 Bitterblossom|2X2|[69]
+1 Blasphemous Edict|FDN|[382]
+1 Boseiju, Who Endures|NEO|[266]
+1 Bountiful Promenade|CLB|[348]
+1 Caretaker's Talent|BLB|[6]
+1 Castle Ardenvale|ELD|[238]
+1 Champion of Lambholt|2XM|[156]
+1 Charismatic Conqueror|LCC|[38]
+1 Chatterfang, Squirrel General|J21|[552]
+1 Clever Concealment|ONC|[5]
+1 Command Tower|ELD|[333]
+1 Cultivate|A25|[165]
+1 Deathcap Glade|VOW|[261]
+1 Despark|WAR|[190]
+1 Eiganjo, Seat of the Empire|NEO|[268]
+1 Elspeth, Sun's Champion|MKC|[62]
+1 Enduring Innocence|DSK|[368]
+1 Exotic Orchard|CFX|[142]
+1 Farseek|C19|[165]
+1 Field of the Dead|M20|[247]
+7 Forest|THB|[254]
+1 Gala Greeters|SNC|[148]
+1 Get Lost|LCI|[14]
+1 Godless Shrine|RNA|[248]
+1 Illustrious Wanderglyph|LCC|[9]
+1 Indatha Triome|IKO|[248]
+1 Inspiring Leader|CLB|[28]
+1 Invasion of Tolvada|MOM|[241]
+1 Jacked Rabbit|BLC|[45]
+1 Kambal, Profiteering Mayor|OTJ|[353]
+1 Kodama's Reach|UMA|[171]
+1 Legion's Landing|XLN|[22]
+1 March of the Multitudes|GRN|[188]
+1 Marsh Flats|MM3|[239]
+1 Martial Coup|CFX|[11]
+1 Master of Ceremonies|NCC|[18]
+1 Mondrak, Glory Dominus|ONE|[23]
+1 Nature's Lore|DMR|[170]
+1 Ocelot Pride|MH3|[38]
+1 Ohran Frostfang|PLIST|[329]
+1 Overgrown Farmland|MID|[265]
+1 Overgrown Tomb|GRN|[253]
+1 Overlord of the Hauntwoods|DSK|[383]
+1 Parallel Lives|ISD|[199]
+1 Pest Infestation|C21|[392]
+6 Plains|THB|[250]
+1 Prosperous Innkeeper|AFR|[200]
+1 Rabble Rousing|SNC|[24]
+1 Scute Swarm|ZNR|[203]
+1 Secure the Wastes|DTK|[36]
+1 Shattered Sanctum|VOW|[264]
+1 Skrelv's Hive|ONE|[34]
+1 Skullclamp|CLB|[870]
+1 Smothering Tithe|2X2|[31]
+1 Sol Ring|MIC|[162]
+1 Strixhaven Stadium|STX|[259]
+1 Stroke of Midnight|WOE|[33]
+4 Swamp|THB|[252]
+1 Swords to Plowshares|DMR|[31]
+1 Tear Asunder|BLC|[241]
+1 Temple Garden|GRN|[258]
+1 Tendershoot Dryad|RIX|[147]
+1 Thalisse, Reverent Medium|CMR|[291]
+1 Three Visits|CLB|[837]
+1 Tocasia's Welcome|BRO|[30]
+1 Trouble in Pairs|MKC|[326]
+1 Twitching Doll|DSK|[384]
+1 Undergrowth Stadium|CMR|[359]
+1 Vanishing Verse|STX|[244]
+1 Vault of Champions|CMR|[360]
+1 Verdant Catacombs|MM3|[249]
+1 Virtue of Loyalty|WOE|[38]
+1 Vona's Hunger|RIX|[90]
+1 Welcoming Vampire|VOW|[46]
+1 White Sun's Twilight|ONE|[38]
+1 Windswept Heath|KTK|[248]
 [Commander]
-1 Ikra Shidiqi, the Usurper|CMR|1
-1 Prava of the Steel Legion|ONC|1
+1 Ikra Shidiqi, the Usurper|CMR|[519]
+1 Prava of the Steel Legion|ONC|[87]

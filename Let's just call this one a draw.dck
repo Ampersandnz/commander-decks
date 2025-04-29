@@ -1,88 +1,88 @@
 [metadata]
 Name=Let's just call this one a draw
 [Main]
-1 An Offer You Can't Refuse|SNC|1
-1 Arcane Denial|OTC|1
-1 Arcane Signet|ELD|1
-1 Blasphemous Act|2XM|1
-1 Blood Crypt|RNA|1
-1 Bloodstained Mire|KTK|1
-1 Brainstorm|EMA|1
-1 Burning Inquiry|PLIST|1
-1 Command Tower|ELD|1
-1 Consecrated Sphinx|2X2|1
-1 Corrupted Conviction|MOM|1
-1 Curiosity|A25|1
-1 Cyclonic Rift|2XM|1
-1 Damnation|2X2|1
-1 Dark Ritual|STA|1
-1 Dimir Signet|MM3|1
-1 Emrakul's Messenger|MH3|1
-1 Ethereal Investigator|VOC|1
-1 Exotic Orchard|CFX|1
-1 Faerie Mastermind|MOM|1
-1 Feed the Swarm|ZNR|1
-1 Fellwar Stone|PLIST|1
-1 Fevered Visions|SOI|1
-1 Fiery Emancipation|M21|1
-1 Ghyrson Starn, Kelermorph|40K|1
-1 Haunted Ridge|MID|1
-1 Howling Mine|PLIST|1
-1 Impact Tremors|DTK|1
-1 Improbable Alliance|ELD|1
-1 Infernal Grasp|MID|1
-1 Irencrag Pyromancer|ELD|1
-9 Island|THB|1
-1 Izzet Signet|GPT|1
-1 Kederekt Parasite|PLIST|1
-1 Luxury Suite|CLB|1
-1 Mikokoro, Center of the Sea|A25|1
-1 Mischievous Mystic|FDN|1
-1 Morphic Pool|CLB|1
-5 Mountain|THB|1
-1 Nightscape Familiar|DMR|1
-1 Niv-Mizzet, Visionary|FDN|2
-1 Ob Nixilis, Captive Kingpin|MAT|4
-1 Ojer Axonil, Deepest Might|LCI|1
-1 Orcish Bowmasters|LTR|1
-1 Otawara, Soaring City|NEO|1
-1 Polluted Delta|KTK|1
-1 Pongify|TSR|1
-1 Prismari Command|LCC|1
-1 Rapid Hybridization|GTC|1
-1 Razorkin Needlehead|DSK|1
-1 Reality Shift|WOC|1
-1 Reliquary Tower|M19|1
-1 Roaring Furnace // Steaming Sauna|DSK|1
-1 Scalding Tarn|MM3|1
-1 Scrawling Crawler|FDN|4
-1 Shadowspear|THB|1
-1 Sheoldred, the Apocalypse|DMU|1
-1 Shipwreck Marsh|MID|1
-1 Sigil of Sleep|DDI|1
-1 Sol Ring|MIC|1
-1 Solphim, Mayhem Dominus|ONE|1
-1 Spiteful Visions|SHM|1
-1 Steam Vents|GRN|1
-1 Stormcarved Coast|VOW|1
-1 Strix Serenade|MH3|1
-1 Submerge|NMS|1
-5 Swamp|THB|1
-1 Swan Song|THS|1
-1 Talisman of Creativity|40K|1
-1 Talisman of Dominance|MRD|1
-1 Talisman of Indulgence|MRD|1
-1 The Locust God|HOU|1
-1 Thought Vessel|PLIST|1
-1 Three Steps Ahead|OTJ|1
-1 Training Center|CMR|1
-1 Twinflame Tyrant|FDN|3
-1 Underworld Dreams|THB|1
-1 Valgavoth, Harrower of Souls|DSC|1
-1 Village Rites|KHM|1
-1 Vision Skeins|DIS|1
-1 Watery Grave|GRN|1
-1 Words of Wisdom|ODY|1
-1 Xander's Lounge|SNC|1
+1 An Offer You Can't Refuse|SNC|[51]
+1 Arcane Denial|OTC|[89]
+1 Arcane Signet|ELD|[331]
+1 Blasphemous Act|2XM|[117]
+1 Blood Crypt|RNA|[245]
+1 Bloodstained Mire|KTK|[230]
+1 Brainstorm|EMA|[40]
+1 Burning Inquiry|PLIST|[854]
+1 Command Tower|ELD|[333]
+1 Consecrated Sphinx|2X2|[43]
+1 Corrupted Conviction|MOM|[98]
+1 Curiosity|A25|[52]
+1 Cyclonic Rift|2XM|[47]
+1 Damnation|2X2|[73]
+1 Dark Ritual|STA|[26]
+1 Dimir Signet|MM3|[219]
+1 Emrakul's Messenger|MH3|[61]
+1 Ethereal Investigator|VOC|[12]
+1 Exotic Orchard|CFX|[142]
+1 Faerie Mastermind|MOM|[58]
+1 Feed the Swarm|ZNR|[102]
+1 Fellwar Stone|PLIST|[255]
+1 Fevered Visions|SOI|[244]
+1 Fiery Emancipation|M21|[143]
+1 Ghyrson Starn, Kelermorph|40K|[124]
+1 Haunted Ridge|MID|[263]
+1 Howling Mine|PLIST|[641]
+1 Impact Tremors|DTK|[140]
+1 Improbable Alliance|ELD|[193]
+1 Infernal Grasp|MID|[107]
+1 Irencrag Pyromancer|ELD|[128]
+9 Island|THB|[251]
+1 Izzet Signet|GPT|[152]
+1 Kederekt Parasite|DSC|[144]
+1 Luxury Suite|CLB|[355]
+1 Mikokoro, Center of the Sea|A25|[241]
+1 Mischievous Mystic|FDN|[47]
+1 Morphic Pool|CLB|[357]
+5 Mountain|THB|[253]
+1 Nightscape Familiar|DMR|[94]
+1 Niv-Mizzet, Visionary|FDN|[350]
+1 Ob Nixilis, Captive Kingpin|MAT|[176]
+1 Ojer Axonil, Deepest Might|LCI|[158]
+1 Orcish Bowmasters|LTR|[103]
+1 Otawara, Soaring City|NEO|[271]
+1 Polluted Delta|KTK|[239]
+1 Pongify|TSR|[79]
+1 Prismari Command|LCC|[279]
+1 Rapid Hybridization|GTC|[44]
+1 Razorkin Needlehead|DSK|[153]
+1 Reality Shift|WOC|[104]
+1 Reliquary Tower|M19|[254]
+1 Roaring Furnace // Steaming Sauna|DSK|[230]
+1 Scalding Tarn|MM3|[244]
+1 Scrawling Crawler|FDN|[486]
+1 Shadowspear|THB|[236]
+1 Sheoldred, the Apocalypse|DMU|[107]
+1 Shipwreck Marsh|MID|[267]
+1 Sigil of Sleep|DDI|[25]
+1 Sol Ring|MIC|[162]
+1 Solphim, Mayhem Dominus|ONE|[150]
+1 Spiteful Visions|SHM|[198]
+1 Steam Vents|GRN|[257]
+1 Stormcarved Coast|VOW|[265]
+1 Strix Serenade|MH3|[71]
+1 Submerge|NMS|[48]
+5 Swamp|THB|[252]
+1 Swan Song|THS|[65]
+1 Talisman of Creativity|40K|[253]
+1 Talisman of Dominance|MRD|[253]
+1 Talisman of Indulgence|MRD|[255]
+1 The Locust God|HOU|[139]
+1 Thought Vessel|PLIST|[274]
+1 Three Steps Ahead|OTJ|[75]
+1 Training Center|CMR|[358]
+1 Twinflame Tyrant|FDN|[395]
+1 Underworld Dreams|THB|[121]
+1 Valgavoth, Harrower of Souls|DSC|[6]
+1 Village Rites|KHM|[117]
+1 Vision Skeins|DIS|[36]
+1 Watery Grave|GRN|[259]
+1 Words of Wisdom|ODY|[114]
+1 Xander's Lounge|SNC|[260]
 [Commander]
-1 Nekusar, the Mindrazer|CMR|1
+1 Nekusar, the Mindrazer|CMR|[529]

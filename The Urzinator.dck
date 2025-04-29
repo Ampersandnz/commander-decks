@@ -1,94 +1,94 @@
 [metadata]
 Name=The Urzinator
-[Commander]
-1 Urza, Chief Artificer|BRC|3
 [Main]
-1 An Offer You Can't Refuse|SNC|1
-1 Anguished Unmaking|2X2|1
-1 Arcane Signet|NCC|1
-1 Bronze Guardian|C21|1
-1 Clever Concealment|ONC|1
-1 Command Tower|C18|1
-1 Cyclonic Rift|MM3|1
-1 Deserted Beach|MID|1
-1 Despark|WAR|1
-1 Digsite Engineer|C21|1
-1 Dismember|F12|1
-1 Dispatch|NPH|1
-1 Drowned Catacomb|XLN|1
-1 Efficient Construction|AER|1
-1 Emry, Lurker of the Loch|ELD|1
-1 Esper Sentinel|MH2|1
-1 Etherium Sculptor|NEC|1
-1 Ethersworn Adjudicator|C16|1
-1 Ethersworn Canonist|2XM|1
-1 Faerie Artisans|CMM|1
-1 Flooded Strand|KTK|1
-1 Get Lost|LCI|1
-1 Glacial Fortress|XLN|1
-1 Godless Shrine|RNA|1
-1 Gold-Forged Thopteryx|MAT|1
-1 Goldmire Bridge|MH2|1
-1 Hallowed Fountain|RNA|1
-1 Illustrious Wanderglyph|LCC|1
-7 Island|THB|1
-1 Isolated Chapel|DMR|1
-1 Kappa Cannoneer|NEC|1
-1 Lion Sash|NEO|1
-1 Losheel, Clockwork Scholar|CMM|1
-1 March of Progress|BRC|2
-1 Marsh Flats|MH2|1
-1 Master's Guide-Mural|LCI|1
-1 Memnarch|ARC|1
-1 Midnight Clock|ELD|1
-1 Mirrodin Besieged|MH1|1
-1 Mistvault Bridge|MH2|1
-1 Morphic Pool|BBD|1
-1 Mox Opal|SOM|1
-1 Nettlecyst|MH2|1
-1 Organic Extinction|NEC|1
-1 Ornithopter of Paradise|MH2|1
-1 Phyrexian Metamorph|MKC|1
-1 Phyrexian Scriptures|DOM|1
-5 Plains|THB|1
-1 Plaza of Heroes|DMU|1
-1 Polluted Delta|KTK|1
-1 Prairie Stream|C19|1
-1 Raffine's Tower|SNC|1
-1 Razortide Bridge|MH2|1
-1 Research Thief|NEC|1
-1 Roaming Throne|LCI|1
-1 Sai, Master Thopterist|M19|1
-1 Sculpting Steel|2XM|1
-1 Sea of Clouds|BBD|1
-1 Shadowspear|THB|1
-1 Sharding Sphinx|MOC|1
-1 Shattered Sanctum|VOW|1
-1 Shipwreck Marsh|MID|1
-1 Skrelv, Defector Mite|ONE|1
-1 Sol Ring|C14|1
-1 Steel Overseer|J22|1
-1 Steel Seraph|BRO|1
-1 Stonecoil Serpent|CMM|1
-1 Stroke of Midnight|WOE|1
-1 Stubborn Denial|KTK|1
-1 Sunken Hollow|NCC|1
-1 Swamp|THB|1
-1 Swords to Plowshares|LCC|1
-1 Talisman of Dominance|WOC|1
-1 Talisman of Hierarchy|MOC|1
-1 Talisman of Progress|CMM|1
-1 Tezzeret, Master of the Bridge|WAR|1
-1 The Reality Chip|NEO|1
-1 Thopter Spy Network|ORI|1
-1 Thought Vessel|CMM|1
-1 Thousand Moons Smithy|LCI|1
-1 Tivit, Seller of Secrets|NCC|1
-1 Urza's Saga|MH2|1
-1 Urza, Lord High Artificer|MH1|1
-1 Urza, Prince of Kroog|BRO|1
-1 Vanishing Verse|STX|1
-1 Vault of Champions|CMR|1
-1 Watery Grave|GRN|1
-1 White Sun's Twilight|ONE|1
-1 Zoetic Glyph|LCI|1
+1 An Offer You Can't Refuse|SNC|[51]
+1 Anguished Unmaking|2X2|[170]
+1 Arcane Signet|NCC|[360]
+1 Bronze Guardian|C21|[13]
+1 Clever Concealment|ONC|[5]
+1 Command Tower|C18|[240]
+1 Cyclonic Rift|MM3|[35]
+1 Deserted Beach|MID|[260]
+1 Despark|WAR|[190]
+1 Digsite Engineer|C21|[15]
+1 Dismember|F12|[4]
+1 Dispatch|NPH|[7]
+1 Drowned Catacomb|XLN|[253]
+1 Efficient Construction|AER|[33]
+1 Emry, Lurker of the Loch|ELD|[43]
+1 Esper Sentinel|MH2|[12]
+1 Etherium Sculptor|NEC|[92]
+1 Ethersworn Adjudicator|C16|[90]
+1 Ethersworn Canonist|2XM|[14]
+1 Faerie Artisans|CMM|[92]
+1 Flooded Strand|KTK|[233]
+1 Get Lost|LCI|[14]
+1 Glacial Fortress|XLN|[255]
+1 Godless Shrine|RNA|[248]
+1 Gold-Forged Thopteryx|MAT|[31]
+1 Goldmire Bridge|MH2|[247]
+1 Hallowed Fountain|RNA|[251]
+1 Illustrious Wanderglyph|LCC|[9]
+7 Island|THB|[251]
+1 Isolated Chapel|DMR|[249]
+1 Kappa Cannoneer|NEC|[14]
+1 Lion Sash|NEO|[26]
+1 Losheel, Clockwork Scholar|CMM|[38]
+1 March of Progress|BRC|[55]
+1 Marsh Flats|MH2|[248]
+1 Master's Guide-Mural|LCI|[233]
+1 Memnarch|ARC|[112]
+1 Midnight Clock|ELD|[54]
+1 Mirrodin Besieged|MH1|[57]
+1 Mistvault Bridge|MH2|[249]
+1 Morphic Pool|BBD|[83]
+1 Mox Opal|SOM|[179]
+1 Nettlecyst|MH2|[231]
+1 Organic Extinction|NEC|[8]
+1 Ornithopter of Paradise|MH2|[232]
+1 Phyrexian Metamorph|MKC|[116]
+1 Phyrexian Scriptures|DOM|[100]
+5 Plains|THB|[250]
+1 Plaza of Heroes|DMU|[252]
+1 Polluted Delta|KTK|[239]
+1 Prairie Stream|C19|[265]
+1 Raffine's Tower|SNC|[254]
+1 Razortide Bridge|MH2|[252]
+1 Research Thief|NEC|[16]
+1 Roaming Throne|LCI|[258]
+1 Sai, Master Thopterist|M19|[69]
+1 Sculpting Steel|2XM|[286]
+1 Sea of Clouds|BBD|[84]
+1 Shadowspear|THB|[236]
+1 Sharding Sphinx|MOC|[235]
+1 Shattered Sanctum|VOW|[264]
+1 Shipwreck Marsh|MID|[267]
+1 Skrelv, Defector Mite|ONE|[33]
+1 Sol Ring|C14|[270]
+1 Steel Overseer|J22|[798]
+1 Steel Seraph|BRO|[38]
+1 Stonecoil Serpent|CMM|[976]
+1 Stroke of Midnight|WOE|[33]
+1 Stubborn Denial|KTK|[56]
+1 Sunken Hollow|NCC|[431]
+1 Swamp|THB|[252]
+1 Swords to Plowshares|LCC|[137]
+1 Talisman of Dominance|WOC|[150]
+1 Talisman of Hierarchy|MOC|[385]
+1 Talisman of Progress|CMM|[980]
+1 Tezzeret, Master of the Bridge|WAR|[275]
+1 The Reality Chip|NEO|[74]
+1 Thopter Spy Network|ORI|[79]
+1 Thought Vessel|CMM|[414]
+1 Thousand Moons Smithy|LCI|[39]
+1 Tivit, Seller of Secrets|NCC|[10]
+1 Urza's Saga|MH2|[259]
+1 Urza, Lord High Artificer|MH1|[75]
+1 Urza, Prince of Kroog|BRO|[226]
+1 Vanishing Verse|STX|[244]
+1 Vault of Champions|CMR|[360]
+1 Watery Grave|GRN|[259]
+1 White Sun's Twilight|ONE|[38]
+1 Zoetic Glyph|LCI|[86]
+[Commander]
+1 Urza, Chief Artificer|BRC|[49]

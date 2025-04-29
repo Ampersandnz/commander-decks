@@ -1,93 +1,93 @@
 [metadata]
 Name=You gotta spend tokens to make tokens
 [Main]
-1 Amphibian Downpour|MH3|1
-1 An Offer You Can't Refuse|SNC|1
-1 Anguished Unmaking|2X2|1
-1 Anointed Procession|AKH|1
-1 Arcane Signet|FDC|1
-1 Ashnod's Altar|CMM|1
-1 Bastion of Remembrance|CMM|1
-1 Bitterblossom|UMA|1
-1 Black Market Connections|LCC|1
-1 Blasphemous Edict|FDN|1
-1 Caretaker's Talent|BLB|1
-1 Charismatic Conqueror|LCC|1
-1 Citizen's Crowbar|SNC|1
-1 Clever Concealment|ONC|1
-1 Command Beacon|OTC|1
-1 Command Tower|OTC|1
-1 Cruel Celebrant|LCC|1
-1 Culling the Weak|MB2|1
-1 Cyclonic Rift|CMM|1
-1 Dark Ritual|STA|1
-1 Deserted Beach|MID|1
-1 Despark|MOC|1
-1 Dovin's Veto|WAR|1
-1 Eiganjo, Seat of the Empire|NEO|1
-1 Elas il-Kor, Sadistic Pilgrim|DMU|1
-1 Emeria's Call|ZNR|2
-1 Emrakul's Messenger|MH3|1
-1 Enduring Innocence|DSK|2
-1 Esper Sentinel|MH2|1
-1 Exotic Orchard|OTC|1
-1 Faerie Artisans|PZ2|1
-1 Fellwar Stone|MKC|1
-1 Field of the Dead|M20|1
-1 Flooded Strand|MH3|1
-1 Fountainport|BLB|1
-1 Get Lost|LCI|1
-1 Godless Shrine|SLD|1
-1 Grim Hireling|AFC|1
-1 Hallowed Fountain|SLD|1
-1 Illustrious Wanderglyph|LCC|1
-3 Island|THB|1
-1 Kambal, Profiteering Mayor|OTJ|1
-1 Legion's Landing|XLN|1
-1 Lightning Greaves|2XM|2
-1 Lotho, Corrupt Shirriff|LTR|1
-1 Malakir Rebirth|ZNR|1
-1 Marionette Apprentice|MH3|1
-1 Marsh Flats|MH2|1
-1 Mischievous Mystic|FDN|1
-1 Mondrak, Glory Dominus|ONE|1
-1 Morbid Opportunist|INR|1
-1 Morphic Pool|CLB|1
-1 Otawara, Soaring City|NEO|1
-1 Phyrexian Altar|UMA|1
-1 Pile On|MKC|1
-1 Pitiless Plunderer|RIX|1
-7 Plains|THB|1
-1 Polluted Delta|MH3|1
-1 Prince Imrahil the Fair|LTR|1
-1 Raffine's Tower|SNC|1
-1 Reliquary Tower|OTC|1
-1 Rhystic Study|WOT|1
-1 Sea of Clouds|CLB|1
-1 Sevinne's Reclamation|OTC|1
-1 Shattered Sanctum|VOW|1
-1 Shipwreck Marsh|MID|1
-1 Skullclamp|BLC|1
-1 Smothering Tithe|CMM|1
-1 Sol Ring|CMM|1
-1 Strix Serenade|MH3|1
-1 Stroke of Midnight|WOE|1
-4 Swamp|THB|1
-1 Swan Song|C16|1
-1 Swords to Plowshares|LCC|1
-1 Takenuma, Abandoned Mire|NEO|1
-1 Talisman of Dominance|MKC|1
-1 Talisman of Hierarchy|LCC|1
-1 Talisman of Progress|MKC|1
-1 The Meathook Massacre|MID|1
-1 Thought Vessel|CMM|1
-1 Tivit, Seller of Secrets|NCC|2
-1 Tocasia's Welcome|BRO|2
-1 Vanishing Verse|STX|1
-1 Vault of Champions|CMM|1
-1 Viscera Seer|LCC|1
-1 Warren Soultrader|MH3|1
-1 Watery Grave|SLD|1
-1 Welcoming Vampire|MKC|1
+1 Amphibian Downpour|MH3|[51]
+1 An Offer You Can't Refuse|SNC|[51]
+1 Anguished Unmaking|2X2|[170]
+1 Anointed Procession|AKH|[2]
+1 Arcane Signet|FDC|[1]
+1 Ashnod's Altar|CMM|[368]
+1 Bastion of Remembrance|CMM|[138]
+1 Bitterblossom|UMA|[85]
+1 Black Market Connections|LCC|[181]
+1 Blasphemous Edict|FDN|[57]
+1 Caretaker's Talent|BLB|[6]
+1 Charismatic Conqueror|LCC|[38]
+1 Citizen's Crowbar|SNC|[8]
+1 Clever Concealment|ONC|[5]
+1 Command Beacon|OTC|[279]
+1 Command Tower|OTC|[280]
+1 Cruel Celebrant|LCC|[267]
+1 Culling the Weak|MB2|[40]
+1 Cyclonic Rift|CMM|[84]
+1 Dark Ritual|STA|[26]
+1 Deserted Beach|MID|[260]
+1 Despark|MOC|[322]
+1 Dovin's Veto|WAR|[193]
+1 Eiganjo, Seat of the Empire|NEO|[268]
+1 Elas il-Kor, Sadistic Pilgrim|DMU|[198]
+1 Emeria's Call|ZNR|[317]
+1 Emrakul's Messenger|MH3|[61]
+1 Enduring Innocence|DSK|[368]
+1 Esper Sentinel|MH2|[12]
+1 Exotic Orchard|OTC|[293]
+1 Faerie Artisans|PZ2|[14]
+1 Fellwar Stone|MKC|[228]
+1 Field of the Dead|M20|[247]
+1 Flooded Strand|MH3|[220]
+1 Fountainport|BLB|[253]
+1 Get Lost|LCI|[14]
+1 Godless Shrine|SLD|[128]
+1 Grim Hireling|AFC|[25]
+1 Hallowed Fountain|SLD|[123]
+1 Illustrious Wanderglyph|LCC|[9]
+3 Island|THB|[251]
+1 Kambal, Profiteering Mayor|OTJ|[211]
+1 Legion's Landing|XLN|[22]
+1 Lightning Greaves|2XM|[360]
+1 Lotho, Corrupt Shirriff|LTR|[213]
+1 Malakir Rebirth|ZNR|[111]
+1 Marionette Apprentice|MH3|[100]
+1 Marsh Flats|MH2|[248]
+1 Mischievous Mystic|FDN|[47]
+1 Mondrak, Glory Dominus|ONE|[23]
+1 Morbid Opportunist|INR|[124]
+1 Morphic Pool|CLB|[357]
+1 Otawara, Soaring City|NEO|[271]
+1 Phyrexian Altar|UMA|[232]
+1 Pile On|MKC|[134]
+1 Pitiless Plunderer|RIX|[81]
+7 Plains|THB|[250]
+1 Polluted Delta|MH3|[224]
+1 Prince Imrahil the Fair|LTR|[219]
+1 Raffine's Tower|SNC|[254]
+1 Reliquary Tower|OTC|[312]
+1 Rhystic Study|WOT|[25]
+1 Sea of Clouds|CLB|[360]
+1 Sevinne's Reclamation|OTC|[86]
+1 Shattered Sanctum|VOW|[264]
+1 Shipwreck Marsh|MID|[267]
+1 Skullclamp|BLC|[283]
+1 Smothering Tithe|CMM|[57]
+1 Sol Ring|CMM|[410]
+1 Strix Serenade|MH3|[71]
+1 Stroke of Midnight|WOE|[33]
+4 Swamp|THB|[252]
+1 Swan Song|C16|[98]
+1 Swords to Plowshares|LCC|[137]
+1 Takenuma, Abandoned Mire|NEO|[278]
+1 Talisman of Dominance|MKC|[242]
+1 Talisman of Hierarchy|LCC|[315]
+1 Talisman of Progress|MKC|[243]
+1 The Meathook Massacre|MID|[112]
+1 Thought Vessel|CMM|[414]
+1 Tivit, Seller of Secrets|NCC|[109]
+1 Tocasia's Welcome|BRO|[308]
+1 Vanishing Verse|STX|[244]
+1 Vault of Champions|CMM|[436]
+1 Viscera Seer|TDC|[199]
+1 Warren Soultrader|MH3|[110]
+1 Watery Grave|SLD|[124]
+1 Welcoming Vampire|MKC|[91]
 [Commander]
-1 Marneus Calgar|40K|1
+1 Marneus Calgar|40K|[8]

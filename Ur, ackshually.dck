@@ -1,99 +1,99 @@
 [metadata]
 Name=Ur, ackshually
 [Main]
-1 An Offer You Can't Refuse|SNC|1
-1 Ancient Gold Dragon|HBG|1
-1 Anguished Unmaking|SOI|1
-1 Arcane Signet|ELD|1
-1 Arid Mesa|MM3|1
-1 Austere Command|IMA|1
-1 Blood Crypt|RNA|1
-1 Bloodstained Mire|KTK|1
-1 Bloom Tender|2X2|1
-1 Bonehoard Dracosaur|LCI|1
-1 Boseiju, Who Endures|NEO|1
-1 Breeding Pool|RNA|1
-1 Carnelian Orb of Dragonkind|HBG|1
-1 Cavern of Souls|LCI|1
-1 Command Tower|ELD|1
-1 Crux of Fate|FRF|1
-1 Despark|WAR|1
-1 Dragon Broodmother|ARB|1
-1 Dragon Tempest|IMA|1
-1 Dragonborn Champion|AFC|1
-1 Dragonlord Dromoka|2X2|1
-1 Dragonmaster Outcast|BFZ|1
-1 Elemental Bond|ORI|1
-1 Exotic Orchard|CFX|1
-1 Fanatic of Rhonas|MH3|2
-1 Farseek|C19|1
-1 Fellwar Stone|PLIST|1
-1 Flooded Strand|KTK|1
-3 Forest|THB|1
-1 Garruk's Uprising|M21|1
-1 Get Lost|LCI|1
-1 Godless Shrine|RNA|1
-1 Hallowed Fountain|RNA|1
-1 Hellkite Courser|CMR|1
-1 Imposing Grandeur|VOC|1
-1 Invasion of Tarkir|MOM|1
-1 Island|THB|1
-1 Korlessa, Scale Singer|HBG|1
-1 Lathliss, Dragon Queen|M19|1
-1 Leyline Binding|DMU|1
-1 Lozhan, Dragons' Legacy|HBG|1
-1 Majestic Genesis|CLB|1
-1 Marsh Flats|MM3|1
-1 Miirym, Sentinel Wyrm|HBG|1
-1 Misty Rainforest|MM3|1
-1 Morophon, the Boundless|PLIST|1
-4 Mountain|THB|1
-1 Nature's Lore|DMR|1
-1 Omenpath Journey|BIG|2
-1 Overgrown Tomb|GRN|1
-1 Plains|THB|1
-1 Plaza of Heroes|DMU|1
-1 Polluted Delta|KTK|1
-1 Protection Racket|NCC|1
-1 Ranger's Path|M13|1
-1 Rivaz of the Claw|DMU|1
-1 Roaming Throne|LCI|1
-1 Sacred Foundry|GRN|1
-1 Sarkhan, Soul Aflame|MAT|1
-1 Scalding Tarn|MM3|1
-1 Scaled Nurturer|HBG|1
-1 Scalelord Reckoner|C17|1
-1 Scion of Draco|PLIST|1
-1 Scourge of Valkas|IMA|1
-1 Secluded Courtyard|NEO|1
-1 Shadowspear|THB|1
-1 Shifting Woodland|MH3|2
-1 Skyshroud Claim|BBD|1
-1 Sol Ring|MIC|1
-1 Steam Vents|GRN|1
-1 Stomping Ground|RNA|1
-1 Strix Serenade|MH3|1
-1 Stroke of Midnight|WOE|1
-1 Stubborn Denial|KTK|1
-1 Sunscorch Regent|DTK|1
-1 Swamp|THB|1
-1 Swan Song|HA3|1
-1 Swords to Plowshares|DMR|1
-1 Tear Asunder|DMU|1
-1 Temple Garden|GRN|1
-1 Temur Ascendancy|KTK|1
-1 Terror of the Peaks|M21|1
-1 The Great Henge|ELD|1
-1 Three Visits|CLB|1
-1 Two-Headed Hellkite|DMC|1
-1 Unclaimed Territory|XLN|1
-1 Up the Beanstalk|WOE|1
-1 Utvara Hellkite|RTR|1
-1 Vanishing Verse|STX|1
-1 Verdant Catacombs|MM3|1
-1 Watery Grave|GRN|1
-1 Windswept Heath|KTK|1
-1 Wooded Foothills|KTK|1
-1 Wrathful Red Dragon|HBG|1
+1 An Offer You Can't Refuse|SNC|[51]
+1 Ancient Gold Dragon|HBG|[82]
+1 Anguished Unmaking|SOI|[242]
+1 Arcane Signet|ELD|[331]
+1 Arid Mesa|MM3|[229]
+1 Austere Command|IMA|[10]
+1 Blood Crypt|RNA|[245]
+1 Bloodstained Mire|KTK|[230]
+1 Bloom Tender|2X2|[138]
+1 Bonehoard Dracosaur|LCI|[134]
+1 Boseiju, Who Endures|NEO|[266]
+1 Breeding Pool|RNA|[246]
+1 Carnelian Orb of Dragonkind|HBG|[177]
+1 Cavern of Souls|LCI|[269]
+1 Command Tower|ELD|[333]
+1 Crux of Fate|FRF|[65]
+1 Despark|WAR|[190]
+1 Dragon Broodmother|ARB|[53]
+1 Dragon Tempest|IMA|[125]
+1 Dragonborn Champion|AFC|[45]
+1 Dragonlord Dromoka|2X2|[202]
+1 Dragonmaster Outcast|TDC|[211]
+1 Elemental Bond|ORI|[174]
+1 Exotic Orchard|CFX|[142]
+1 Fanatic of Rhonas|MH3|[458]
+1 Farseek|C19|[165]
+1 Fellwar Stone|PLIST|[255]
+1 Flooded Strand|KTK|[233]
+3 Forest|THB|[254]
+1 Garruk's Uprising|M21|[186]
+1 Get Lost|LCI|[14]
+1 Godless Shrine|RNA|[248]
+1 Hallowed Fountain|RNA|[251]
+1 Hellkite Courser|CMR|[183]
+1 Imposing Grandeur|VOC|[24]
+1 Invasion of Tarkir|MOM|[149]
+1 Island|THB|[251]
+1 Korlessa, Scale Singer|HBG|[238]
+1 Lathliss, Dragon Queen|M19|[149]
+1 Leyline Binding|DMU|[24]
+1 Lozhan, Dragons' Legacy|HBG|[240]
+1 Majestic Genesis|CLB|[240]
+1 Marsh Flats|MM3|[239]
+1 Miirym, Sentinel Wyrm|HBG|[242]
+1 Misty Rainforest|MM3|[240]
+1 Morophon, the Boundless|PLIST|[301]
+4 Mountain|THB|[253]
+1 Nature's Lore|DMR|[170]
+1 Omenpath Journey|BIG|[48]
+1 Overgrown Tomb|GRN|[253]
+1 Plains|THB|[250]
+1 Plaza of Heroes|DMU|[252]
+1 Polluted Delta|KTK|[239]
+1 Protection Racket|NCC|[39]
+1 Ranger's Path|M13|[186]
+1 Rivaz of the Claw|DMU|[215]
+1 Roaming Throne|LCI|[258]
+1 Sacred Foundry|GRN|[254]
+1 Sarkhan, Soul Aflame|MAT|[46]
+1 Scalding Tarn|MM3|[244]
+1 Scaled Nurturer|HBG|[222]
+1 Scalelord Reckoner|C17|[6]
+1 Scion of Draco|PLIST|[886]
+1 Scourge of Valkas|IMA|[145]
+1 Secluded Courtyard|NEO|[275]
+1 Shadowspear|THB|[236]
+1 Shifting Woodland|MH3|[357]
+1 Skyshroud Claim|BBD|[213]
+1 Sol Ring|MIC|[162]
+1 Steam Vents|GRN|[257]
+1 Stomping Ground|RNA|[259]
+1 Strix Serenade|MH3|[71]
+1 Stroke of Midnight|WOE|[33]
+1 Stubborn Denial|KTK|[56]
+1 Sunscorch Regent|DTK|[41]
+1 Swamp|THB|[252]
+1 Swan Song|HA3|[9]
+1 Swords to Plowshares|DMR|[31]
+1 Tear Asunder|DMU|[183]
+1 Temple Garden|GRN|[258]
+1 Temur Ascendancy|KTK|[207]
+1 Terror of the Peaks|M21|[164]
+1 The Great Henge|ELD|[161]
+1 Three Visits|CLB|[837]
+1 Two-Headed Hellkite|DMC|[14]
+1 Unclaimed Territory|XLN|[258]
+1 Up the Beanstalk|WOE|[195]
+1 Utvara Hellkite|RTR|[110]
+1 Vanishing Verse|STX|[244]
+1 Verdant Catacombs|MM3|[249]
+1 Watery Grave|GRN|[259]
+1 Windswept Heath|KTK|[248]
+1 Wooded Foothills|KTK|[249]
+1 Wrathful Red Dragon|HBG|[194]
 [Commander]
-1 The Ur-Dragon|CMM|1
+1 The Ur-Dragon|CMM|[361]

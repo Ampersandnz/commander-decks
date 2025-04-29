@@ -1,104 +1,104 @@
 [metadata]
 Name=[cEDH] Najeela
-[Commander]
-1 Najeela, the Blade-Blossom|BBD|1
 [Main]
-1 Abrupt Decay|PLIST|1
-1 An Offer You Can't Refuse|FDN|1
-1 Ancient Tomb|PLIST|1
-1 Arcane Signet|ELD|1
-1 Arid Mesa|MM3|1
-1 Badlands|VMA|1
-1 Bayou|VMA|1
-1 Birds of Paradise|RVR|1
-1 Bloodstained Mire|KTK|1
-1 Boseiju, Who Endures|NEO|1
-1 Brain Freeze|PLIST|1
-1 Chrome Mox|2XM|1
-1 City of Brass|2X2|1
-1 Command Tower|ELD|1
-1 Cyclonic Rift|RVR|1
-1 Dark Ritual|PLIST|1
-1 Deadly Rollick|C20|1
-1 Deathrite Shaman|EMA|1
-1 Deflecting Swat|CMM|1
-1 Delighted Halfling|LTR|1
-1 Demonic Consultation|ICE|1
-1 Demonic Tutor|PLIST|1
-1 Derevi, Empyrial Tactician|CMA|1
-1 Diabolic Intent|BRO|1
-1 Dispel|BFZ|1
-1 Eladamri's Call|A25|1
-1 Eldritch Evolution|EMN|1
-1 Elvish Spirit Guide|DMR|1
-1 Enlightened Tutor|DMR|1
-1 Esper Sentinel|J21|1
-1 Exotic Orchard|CFX|1
-1 Fierce Guardianship|CMM|1
-1 Final Fortune|7ED|1
-1 Flooded Strand|KTK|1
-1 Flusterstorm|PLIST|1
-1 Force of Will|DMR|1
-1 Gamble|DMR|1
-1 Gemstone Caverns|TSR|1
-1 Grand Abolisher|BIG|1
-1 Green Sun's Zenith|2X2|1
-1 Grim Hireling|HBG|1
-1 Ignoble Hierarch|MH2|1
-1 Imperial Seal|2X2|1
-1 Intuition|TPR|1
-1 Kutzil, Malamet Exemplar|LCI|1
-1 Lion's Eye Diamond|VMA|1
-1 Lotho, Corrupt Shirriff|LTR|1
-1 Lotus Petal|MPS_KLD|1
-1 Mana Confluence|JOU|1
-1 Mana Vault|2X2|1
-1 March of Swirling Mist|NEO|1
-1 Marsh Flats|MM3|1
-1 Mental Misstep|NPH|1
-1 Mindbreak Trap|ZEN|1
-1 Miscast|M21|1
-1 Misty Rainforest|MM3|1
-1 Mox Diamond|TPR|1
-1 Mystic Remora|DMR|1
-1 Mystical Tutor|DMR|1
-1 Neoform|WAR|1
-1 Noble Hierarch|2XM|1
-1 Opposition Agent|CMR|1
-1 Pact of Negation|TSR|1
-1 Plateau|VMA|1
-1 Polluted Delta|KTK|1
-1 Pollywog Prodigy|BLC|1
-1 Professional Face-Breaker|SNC|1
-1 Ragavan, Nimble Pilferer|MH2|1
-1 Ranger-Captain of Eos|MH1|1
-1 Red Elemental Blast|A25|1
-1 Rhystic Study|WOT|2
-1 Samut, Vizier of Naktamun|MAT|1
-1 Savannah|VMA|1
-1 Scalding Tarn|MM3|1
-1 Scrubland|VMA|1
-1 Sevinne's Reclamation|DMR|1
-1 Silence|TSR|1
-1 Simian Spirit Guide|TSR|1
-1 Smothering Tithe|2X2|1
-1 Sol Ring|FDC|1
-1 Swan Song|THS|1
-1 Swords to Plowshares|DMR|1
-1 Taiga|VMA|1
-1 Tainted Pact|ODY|1
-1 Tarnished Citadel|ODY|1
-1 Thassa's Oracle|THB|1
-1 The One Ring|LTR|2
-1 Tinder Wall|PRM|1
-1 Tropical Island|VMA|1
-1 Tundra|VMA|1
-1 Underground Sea|VMA|1
-1 Underworld Breach|THB|1
-1 Vampiric Tutor|DMR|1
-1 Veil of Summer|M20|1
-1 Verdant Catacombs|MM3|1
-1 Volcanic Island|VMA|1
-1 Windswept Heath|KTK|1
-1 Wooded Foothills|KTK|1
-1 Worldly Tutor|6ED|1
+1 Abrupt Decay|PLIST|[554]
+1 An Offer You Can't Refuse|FDN|[160]
+1 Ancient Tomb|PLIST|[574]
+1 Arcane Signet|ELD|[331]
+1 Arid Mesa|MM3|[229]
+1 Badlands|VMA|[291]
+1 Bayou|VMA|[293]
+1 Birds of Paradise|RVR|[133]
+1 Bloodstained Mire|KTK|[230]
+1 Boseiju, Who Endures|NEO|[266]
+1 Brain Freeze|PLIST|[46]
+1 Chrome Mox|2XM|[240]
+1 City of Brass|2X2|[321]
+1 Command Tower|ELD|[333]
+1 Cyclonic Rift|RVR|[40]
+1 Dark Ritual|PLIST|[840]
+1 Deadly Rollick|C20|[42]
+1 Deathrite Shaman|EMA|[215]
+1 Deflecting Swat|CMM|[214]
+1 Delighted Halfling|LTR|[158]
+1 Demonic Consultation|ICE|[121]
+1 Demonic Tutor|PLIST|[472]
+1 Derevi, Empyrial Tactician|CMA|[176]
+1 Diabolic Intent|BRO|[89]
+1 Dispel|BFZ|[76]
+1 Eladamri's Call|A25|[203]
+1 Eldritch Evolution|EMN|[155]
+1 Elvish Spirit Guide|DMR|[157]
+1 Enlightened Tutor|DMR|[6]
+1 Esper Sentinel|J21|[75]
+1 Exotic Orchard|CFX|[142]
+1 Fierce Guardianship|CMM|[94]
+1 Final Fortune|7ED|[182]
+1 Flooded Strand|KTK|[233]
+1 Flusterstorm|PLIST|[1181]
+1 Force of Will|DMR|[50]
+1 Gamble|DMR|[121]
+1 Gemstone Caverns|TSR|[280]
+1 Grand Abolisher|BIG|[2]
+1 Green Sun's Zenith|2X2|[150]
+1 Grim Hireling|HBG|[158]
+1 Ignoble Hierarch|MH2|[166]
+1 Imperial Seal|2X2|[79]
+1 Intuition|TPR|[54]
+1 Kutzil, Malamet Exemplar|LCI|[232]
+1 Lion's Eye Diamond|VMA|[271]
+1 Lotho, Corrupt Shirriff|LTR|[370]
+1 Lotus Petal|MPS_KLD|[15]
+1 Mana Confluence|JOU|[163]
+1 Mana Vault|2X2|[308]
+1 March of Swirling Mist|NEO|[61]
+1 Marsh Flats|MM3|[239]
+1 Mental Misstep|NPH|[38]
+1 Mindbreak Trap|ZEN|[57]
+1 Miscast|M21|[57]
+1 Misty Rainforest|MM3|[240]
+1 Mox Diamond|TPR|[228]
+1 Mystic Remora|DMR|[59]
+1 Mystical Tutor|DMR|[60]
+1 Neoform|WAR|[206]
+1 Noble Hierarch|2XM|[177]
+1 Opposition Agent|CMR|[141]
+1 Pact of Negation|TSR|[77]
+1 Plateau|VMA|[308]
+1 Polluted Delta|KTK|[239]
+1 Pollywog Prodigy|BLC|[15]
+1 Professional Face-Breaker|SNC|[116]
+1 Ragavan, Nimble Pilferer|MH2|[138]
+1 Ranger-Captain of Eos|MH1|[21]
+1 Red Elemental Blast|A25|[147]
+1 Rhystic Study|WOT|[71]
+1 Samut, Vizier of Naktamun|MAT|[45]
+1 Savannah|VMA|[311]
+1 Scalding Tarn|MM3|[244]
+1 Scrubland|VMA|[313]
+1 Sevinne's Reclamation|DMR|[27]
+1 Silence|TSR|[302]
+1 Simian Spirit Guide|TSR|[190]
+1 Smothering Tithe|2X2|[31]
+1 Sol Ring|FDC|[2]
+1 Swan Song|THS|[65]
+1 Swords to Plowshares|DMR|[31]
+1 Taiga|VMA|[317]
+1 Tainted Pact|ODY|[164]
+1 Tarnished Citadel|ODY|[329]
+1 Thassa's Oracle|THB|[73]
+1 The One Ring|LTR|[246]
+1 Tinder Wall|PRM|[62483]
+1 Tropical Island|VMA|[321]
+1 Tundra|VMA|[322]
+1 Underground Sea|VMA|[323]
+1 Underworld Breach|THB|[161]
+1 Vampiric Tutor|DMR|[108]
+1 Veil of Summer|M20|[198]
+1 Verdant Catacombs|MM3|[249]
+1 Volcanic Island|VMA|[324]
+1 Windswept Heath|KTK|[248]
+1 Wooded Foothills|KTK|[249]
+1 Worldly Tutor|6ED|[269]
+[Commander]
+1 Najeela, the Blade-Blossom|BBD|[62]

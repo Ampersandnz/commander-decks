@@ -1,84 +1,84 @@
 [metadata]
 Name=Move things and breakfast
 [Main]
-1 Arcane Signet|ELD|1
-1 Battle Mammoth|KHM|1
-1 Beast Within|DDL|1
-1 Blasphemous Act|2XM|1
-1 Bloated Contaminator|ONE|1
-1 Boseiju, Who Endures|NEO|1
-1 Chandra's Ignition|ORI|1
-1 Cinder Glade|BFZ|1
-1 Command Tower|ELD|1
-1 Commercial District|MKM|1
-1 Contaminant Grafter|ONC|1
-1 Defiler of Vigor|DMU|2
-1 Dormant Grove|VOW|1
-1 Elder Gargaroth|M21|1
-1 Emerald Medallion|CMA|1
-1 Enduring Courage|DSK|2
-1 Etali, Primal Conqueror|MOM|1
-1 Exotic Orchard|CFX|1
-1 Fanatic of Rhonas|MH3|2
-1 Farseek|C19|1
-17 Forest|THB|1
-1 Forgotten Ancient|DMR|1
-1 Game Trail|SOI|1
-1 Garruk's Uprising|M21|1
-1 Giant Adephage|GTC|1
-1 Glistening Sphere|ONC|2
-1 Goblin Anarchomancer|J21|1
-1 Goldvein Hydra|OTJ|2
-1 Goreclaw, Terror of Qal Sisma|M19|1
-1 Guardian Project|RNA|1
-1 Herald of Ilharg|CLU|1
-1 Infectious Bite|ONE|1
-1 Inkmoth Nexus|MBS|1
-1 Innkeeper's Talent|BLB|1
-1 Invigorate|2XM|1
-1 Kenrith's Transformation|ELD|1
-1 Managorger Hydra|ORI|1
-5 Mountain|THB|1
-1 Nature's Claim|IMA|1
-1 Nature's Lore|DMR|1
-1 Ojer Kaslem, Deepest Growth|LCI|1
-1 Prophetic Flamespeaker|JOU|1
-1 Quartzwood Crasher|IKO|1
-1 Quilled Greatwurm|FDN|3
-1 Railway Brawler|OTJ|2
-1 Rampant Growth|2X2|1
-1 Reliquary Tower|M19|1
-1 Rhythm of the Wild|LCC|1
-1 Rishkar's Expertise|AER|1
-1 Rockfall Vale|MID|1
-1 Rootbound Crag|XLN|1
-1 Samut, Vizier of Naktamun|MAT|1
-1 Selvala, Heart of the Wilds|JMP|1
-1 Shifting Woodland|MH3|2
-1 Smell Fear|J21|1
-1 Sol Ring|MIC|1
-1 Spire Garden|CLB|1
-1 Stomping Ground|RNA|1
-1 Stump Stomp|MH3|1
-1 Tail Swipe|DMU|1
-1 Tamiyo's Safekeeping|NEO|1
-1 The Great Henge|ELD|1
-1 The Ozolith|IKO|2
-1 Thornspire Verge|DSK|1
-1 Thought Vessel|PLIST|1
-1 Three Visits|CLB|1
-1 Traverse the Outlands|PLIST|1
-1 Tribute to the World Tree|MOM|1
-1 Tyrant's Familiar|SCD|1
-1 Tyrranax Rex|ONE|1
-1 Tyvar's Stand|ONE|1
-1 Ulvenwald Tracker|MM3|1
-1 Unnatural Growth|MID|1
-1 Vaultborn Tyrant|BIG|4
-1 Venerated Rotpriest|ONE|2
-1 Vigor|LRW|1
-1 Vorinclex, Monstrous Raider|KHM|1
-1 Wooded Foothills|KTK|1
-1 Xenagos, God of Revels|BNG|1
+1 Arcane Signet|ELD|[331]
+1 Battle Mammoth|KHM|[160]
+1 Beast Within|DDL|[69]
+1 Blasphemous Act|2XM|[117]
+1 Bloated Contaminator|ONE|[159]
+1 Boseiju, Who Endures|NEO|[266]
+1 Chandra's Ignition|ORI|[137]
+1 Cinder Glade|BFZ|[235]
+1 Command Tower|ELD|[333]
+1 Commercial District|MKM|[259]
+1 Contaminant Grafter|ONC|[17]
+1 Defiler of Vigor|DMU|[412]
+1 Dormant Grove|VOW|[198]
+1 Elder Gargaroth|M21|[179]
+1 Emerald Medallion|CMA|[217]
+1 Enduring Courage|DSK|[378]
+1 Etali, Primal Conqueror|MOM|[137]
+1 Exotic Orchard|CFX|[142]
+1 Fanatic of Rhonas|MH3|[458]
+1 Farseek|C19|[165]
+17 Forest|THB|[254]
+1 Forgotten Ancient|DMR|[161]
+1 Game Trail|SOI|[276]
+1 Garruk's Uprising|M21|[186]
+1 Giant Adephage|GTC|[121]
+1 Glistening Sphere|ONC|[58]
+1 Goblin Anarchomancer|J21|[693]
+1 Goldvein Hydra|OTJ|[341]
+1 Goreclaw, Terror of Qal Sisma|M19|[186]
+1 Guardian Project|RNA|[130]
+1 Herald of Ilharg|CLU|[34]
+1 Infectious Bite|ONE|[172]
+1 Inkmoth Nexus|MBS|[145]
+1 Innkeeper's Talent|BLB|[180]
+1 Invigorate|2XM|[172]
+1 Kenrith's Transformation|ELD|[164]
+1 Managorger Hydra|ORI|[186]
+5 Mountain|THB|[253]
+1 Nature's Claim|IMA|[177]
+1 Nature's Lore|DMR|[170]
+1 Ojer Kaslem, Deepest Growth|LCI|[204]
+1 Prophetic Flamespeaker|JOU|[106]
+1 Quartzwood Crasher|IKO|[201]
+1 Quilled Greatwurm|FDN|[401]
+1 Railway Brawler|OTJ|[344]
+1 Rampant Growth|2X2|[155]
+1 Reliquary Tower|M19|[254]
+1 Rhythm of the Wild|LCC|[287]
+1 Rishkar's Expertise|AER|[123]
+1 Rockfall Vale|MID|[266]
+1 Rootbound Crag|XLN|[256]
+1 Samut, Vizier of Naktamun|MAT|[45]
+1 Selvala, Heart of the Wilds|JMP|[429]
+1 Shifting Woodland|MH3|[357]
+1 Smell Fear|J21|[638]
+1 Sol Ring|MIC|[162]
+1 Spire Garden|CLB|[361]
+1 Stomping Ground|RNA|[259]
+1 Stump Stomp|MH3|[259]
+1 Tail Swipe|DMU|[182]
+1 Tamiyo's Safekeeping|NEO|[211]
+1 The Great Henge|ELD|[161]
+1 The Ozolith|IKO|[362]
+1 Thornspire Verge|DSK|[270]
+1 Thought Vessel|PLIST|[274]
+1 Three Visits|CLB|[837]
+1 Traverse the Outlands|PLIST|[484]
+1 Tribute to the World Tree|MOM|[211]
+1 Tyrant's Familiar|SCD|[165]
+1 Tyrranax Rex|ONE|[189]
+1 Tyvar's Stand|ONE|[190]
+1 Ulvenwald Tracker|MM3|[144]
+1 Unnatural Growth|MID|[206]
+1 Vaultborn Tyrant|BIG|[85]
+1 Venerated Rotpriest|ONE|[192]
+1 Vigor|LRW|[240]
+1 Vorinclex, Monstrous Raider|KHM|[199]
+1 Wooded Foothills|KTK|[249]
+1 Xenagos, God of Revels|BNG|[156]
 [Commander]
-1 Minsc & Boo, Timeless Heroes|HBG|1
+1 Minsc & Boo, Timeless Heroes|HBG|[243]

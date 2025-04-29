@@ -1,89 +1,89 @@
 [metadata]
 Name=[MEME] Hot taters, precious
-[Commander]
-1 Zedruu the Greathearted|COM|1
 [Main]
-1 Akroan Horse|THS|1
-1 Arcane Signet|ELD|1
-1 Austere Command|IMA|1
-1 Azorius Signet|MM3|1
-1 Bronze Bombshell|DIS|1
-1 Bucknard's Everfull Purse|PLIST|1
-1 Castle Ardenvale|ELD|1
-1 Chaos Warp|2X2|1
-1 Cleansing Nova|M19|1
-1 Clifftop Retreat|DMR|1
-1 Clout of the Dominus|EVE|1
-1 Command Tower|ELD|1
-1 Confusion in the Ranks|MRD|1
-1 Conjured Currency|RTR|1
-1 Crown of Doom|C14|1
-1 Cultural Exchange|ODY|1
-1 Cyclonic Rift|2XM|1
-1 Djinn of Infinite Deceits|CMA|1
-1 Dockside Extortionist|2X2|1
-1 Domineering Will|CLB|1
-1 Dream Trawler|THB|1
-1 Duelist's Heritage|NCC|1
-1 Exotic Orchard|CFX|1
-1 Fabled Passage|M21|1
-1 Fellwar Stone|PLIST|1
-1 Field of the Dead|M20|1
-1 Fires of Invention|ELD|1
-1 Fog Bank|IMA|1
-1 Frostboil Snarl|STX|1
-1 Furycalm Snarl|STX|1
-1 Generous Gift|MOC|1
-1 Ghostly Prison|CHK|1
-1 Gift of Immortality|THS|1
-1 Gilded Drake|USG|1
-1 Glacial Fortress|XLN|1
-1 Goblin Cadets|USG|1
-1 Grasp of Fate|MB1|1
-1 Hallowed Fountain|RNA|1
-1 Humble Defector|A25|1
-1 Illusions of Grandeur|ICE|1
-1 Imperial Recruiter|A25|1
-1 Insurrection|ONS|1
-10 Island|THB|1
-1 Izzet Signet|GPT|1
-1 Jinxed Choker|MRD|1
-1 Kher Keep|TSR|1
-1 Legerdemain|TMP|1
-4 Mountain|THB|1
-1 Nine Lives|M21|1
-1 Path to Exile|2X2|1
-1 Pendant of Prosperity|C21|1
-1 Perplexing Chimera|BNG|1
-4 Plains|THB|1
-1 Pongify|TSR|1
-1 Promise of Loyalty|MOC|1
-1 Propaganda|TMP|1
-1 Psychosis Crawler|MBS|1
-1 Rainbow Vale|FEM|1
-1 Rapid Hybridization|GTC|1
-1 Reality Shift|PLIST|1
-1 Reins of Power|STH|1
-1 Reliquary Tower|M19|1
-1 Role Reversal|WAR|1
-1 Sacred Foundry|GRN|1
-1 Sea of Clouds|PLIST|1
-1 Shuriken|BOK|1
-1 Sol Ring|MIC|1
-1 Spectator Seating|CMR|1
-1 Star Compass|IMA|1
-1 Starke of Rath|PLIST|1
-1 Statecraft|MMQ|1
-1 Steam Vents|GRN|1
-1 Step Through|MH2|1
-1 Strionic Resonator|A25|1
-1 Sudden Substitution|C19|1
-1 Sulfur Falls|DMR|1
-1 Swords to Plowshares|DMR|1
-1 Thought Vessel|PLIST|1
-1 Training Center|CMR|1
-1 Vedalken Plotter|GPT|1
-1 Wall of Denial|PLIST|1
-1 Wayfarer's Bauble|PLIST|1
-1 Willbreaker|ORI|1
-1 Wrong Turn|CMR|1
+1 Akroan Horse|THS|[210]
+1 Arcane Signet|ELD|[331]
+1 Austere Command|IMA|[10]
+1 Azorius Signet|MM3|[215]
+1 Bronze Bombshell|DIS|[160]
+1 Bucknard's Everfull Purse|PLIST|[801]
+1 Castle Ardenvale|ELD|[238]
+1 Chaos Warp|2X2|[105]
+1 Cleansing Nova|M19|[9]
+1 Clifftop Retreat|DMR|[241]
+1 Clout of the Dominus|EVE|[99]
+1 Command Tower|ELD|[333]
+1 Confusion in the Ranks|MRD|[87]
+1 Conjured Currency|RTR|[33]
+1 Crown of Doom|C14|[55]
+1 Cultural Exchange|ODY|[79]
+1 Cyclonic Rift|2XM|[47]
+1 Djinn of Infinite Deceits|CMA|[38]
+1 Dockside Extortionist|2X2|[107]
+1 Domineering Will|CLB|[719]
+1 Dream Trawler|THB|[214]
+1 Duelist's Heritage|NCC|[197]
+1 Exotic Orchard|CFX|[142]
+1 Fabled Passage|M21|[246]
+1 Fellwar Stone|PLIST|[255]
+1 Field of the Dead|M20|[247]
+1 Fires of Invention|ELD|[125]
+1 Fog Bank|IMA|[56]
+1 Frostboil Snarl|STX|[265]
+1 Furycalm Snarl|STX|[266]
+1 Generous Gift|MOC|[187]
+1 Ghostly Prison|CHK|[10]
+1 Gift of Immortality|THS|[14]
+1 Gilded Drake|USG|[76]
+1 Glacial Fortress|XLN|[255]
+1 Goblin Cadets|COM|[125]
+1 Grasp of Fate|MB1|[126]
+1 Hallowed Fountain|RNA|[251]
+1 Humble Defector|A25|[135]
+1 Illusions of Grandeur|ICE|[79]
+1 Imperial Recruiter|A25|[136]
+1 Insurrection|ONS|[213]
+10 Island|THB|[251]
+1 Izzet Signet|GPT|[152]
+1 Jinxed Choker|MRD|[189]
+1 Kher Keep|TSR|[281]
+1 Legerdemain|TMP|[72]
+4 Mountain|THB|[253]
+1 Nine Lives|M21|[28]
+1 Path to Exile|2X2|[23]
+1 Pendant of Prosperity|C21|[256]
+1 Perplexing Chimera|BNG|[48]
+4 Plains|THB|[250]
+1 Pongify|TSR|[79]
+1 Promise of Loyalty|MOC|[200]
+1 Propaganda|TMP|[80]
+1 Psychosis Crawler|MBS|[126]
+1 Rainbow Vale|FEM|[99]
+1 Rapid Hybridization|GTC|[44]
+1 Reality Shift|PLIST|[75]
+1 Reins of Power|STH|[41]
+1 Reliquary Tower|M19|[254]
+1 Role Reversal|WAR|[214]
+1 Sacred Foundry|GRN|[254]
+1 Sea of Clouds|PLIST|[1087]
+1 Shuriken|BOK|[160]
+1 Sol Ring|MIC|[162]
+1 Spectator Seating|CMR|[356]
+1 Star Compass|IMA|[229]
+1 Starke of Rath|PLIST|[692]
+1 Statecraft|MMQ|[106]
+1 Steam Vents|GRN|[257]
+1 Step Through|MH2|[66]
+1 Strionic Resonator|A25|[232]
+1 Sudden Substitution|C19|[11]
+1 Sulfur Falls|DMR|[258]
+1 Swords to Plowshares|DMR|[31]
+1 Thought Vessel|PLIST|[274]
+1 Training Center|CMR|[358]
+1 Vedalken Plotter|GPT|[41]
+1 Wall of Denial|PLIST|[879]
+1 Wayfarer's Bauble|PLIST|[278]
+1 Willbreaker|ORI|[84]
+1 Wrong Turn|CMR|[107]
+[Commander]
+1 Zedruu the Greathearted|COM|[240]

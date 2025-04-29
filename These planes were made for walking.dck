@@ -1,100 +1,100 @@
 [metadata]
 Name=These planes were made for walking
 [Main]
-1 Ajani Unyielding|NCC|1
-1 An Offer You Can't Refuse|FDN|1
-1 Arcane Signet|MOC|1
-1 Archangel Elspeth|MOM|2
-1 Arena Rector|BBD|1
-1 Arid Mesa|MM3|1
-1 Ashiok, Nightmare Muse|THB|1
-1 Atraxa, Praetors' Voice|2XM|1
-1 Blasphemous Act|SCD|1
-1 Blasphemous Edict|FDN|3
-1 Blood Crypt|RTR|1
-1 Bloodstained Mire|KTK|1
-1 Bloom Tender|2X2|1
-1 Breeding Pool|RNA|1
-1 Brokers Ascendancy|SNC|1
-1 Carth the Lion|MH2|1
-1 Command Tower|CM2|1
-1 Commodore Guff|CMM|1
-1 Damn|MH2|1
-1 Damnation|2X2|1
-1 Day of Judgment|E02|1
-1 Deathrite Shaman|RVR|1
-1 Deepglow Skate|2XM|1
-1 Delighted Halfling|LTR|2
-1 Deploy the Gatewatch|EMN|1
-1 Doubling Season|2XM|1
-1 Dueling Grounds|INV|1
-1 Elspeth, Sun's Champion|MOC|1
-1 Evolution Sage|ONC|1
-1 Exotic Orchard|C19|1
-1 Farseek|LCC|1
-1 Flooded Strand|KTK|1
-1 Flux Channeler|WAR|1
-2 Forest|THB|1
-1 Garruk, Cursed Huntsman|ELD|2
-1 Garruk, Primal Hunter|C21|1
-1 Godless Shrine|RNA|1
-1 Hallowed Fountain|RNA|1
-1 Humility|TPR|1
-1 Ichormoon Gauntlet|ONE|1
-1 Indatha Triome|IKO|1
-1 Interplanar Beacon|WAR|1
-1 Island|THB|1
-1 Kaya the Inexorable|KHM|2
-1 Kaya, Intangible Slayer|ONE|1
-1 Ketria Triome|IKO|1
-1 Liliana, Dreadhorde General|WAR|1
-1 Lolth, Spider Queen|AFR|1
-1 Marsh Flats|MH2|1
-1 Misty Rainforest|MH2|1
-1 Nature's Lore|CLB|1
-1 Ob Nixilis, the Adversary|SNC|1
-1 Oko, Thief of Crowns|ELD|1
-1 Onakke Oathkeeper|CMM|2
-1 Overgrown Tomb|GRN|1
-4 Plains|THB|1
-1 Plaza of Heroes|DMU|1
-1 Polluted Delta|KTK|1
-1 Primevals' Glorious Rebirth|DMC|1
-1 Professor Onyx|STX|1
-1 Raugrin Triome|IKO|1
-1 Reflecting Pool|CLB|1
-1 Sacred Foundry|GTC|1
-1 Savai Triome|IKO|1
-1 Scalding Tarn|MH2|1
-1 Sol Ring|MOC|1
-1 Sorin, Grim Nemesis|SOI|1
-1 Steam Vents|GRN|1
-1 Stomping Ground|RNA|1
-1 Strix Serenade|MH3|1
-1 Supreme Verdict|2X2|1
-1 Swan Song|HA3|1
-1 Teferi's Protection|2X2|1
-1 Teferi, Master of Time|M21|1
-1 Teferi, Temporal Pilgrim|BRO|1
-1 Temple Garden|GRN|1
-1 Temple of the False God|MB1|1
-1 Teyo, Geometric Tactician|CMM|1
-1 Tezzeret, Artifice Master|J22|1
-1 The Wandering Emperor|NEO|1
-1 Three Visits|CLB|1
-1 Tomik, Wielder of Law|MKM|1
-1 Urborg, Tomb of Yawgmoth|TSR|1
-1 Vanquish the Horde|MID|1
-1 Verdant Catacombs|MH2|1
-1 Vorinclex, Monstrous Raider|KHM|1
-1 Vraska, Betrayal's Sting|ONE|1
-1 Vronos, Masked Inquisitor|CMM|1
-1 Watery Grave|GRN|1
-1 Windswept Heath|KTK|1
-1 Wooded Foothills|KTK|1
-1 Wrath of God|DMR|1
-1 Wrenn and Seven|MID|1
-1 Yavimaya, Cradle of Growth|MH2|1
-1 Zagoth Triome|IKO|1
+1 Ajani Unyielding|NCC|[324]
+1 An Offer You Can't Refuse|FDN|[160]
+1 Arcane Signet|MOC|[348]
+1 Archangel Elspeth|MOM|[320]
+1 Arena Rector|BBD|[23]
+1 Arid Mesa|MM3|[229]
+1 Ashiok, Nightmare Muse|THB|[208]
+1 Atraxa, Praetors' Voice|2XM|[190]
+1 Blasphemous Act|SCD|[124]
+1 Blasphemous Edict|FDN|[382]
+1 Blood Crypt|RTR|[238]
+1 Bloodstained Mire|KTK|[230]
+1 Bloom Tender|2X2|[138]
+1 Breeding Pool|RNA|[246]
+1 Brokers Ascendancy|SNC|[170]
+1 Carth the Lion|MH2|[189]
+1 Command Tower|CM2|[242]
+1 Commodore Guff|CMM|[706]
+1 Damn|MH2|[80]
+1 Damnation|2X2|[73]
+1 Day of Judgment|E02|[2]
+1 Deathrite Shaman|RVR|[175]
+1 Deepglow Skate|2XM|[48]
+1 Delighted Halfling|LTR|[363]
+1 Deploy the Gatewatch|EMN|[20]
+1 Doubling Season|2XM|[164]
+1 Dueling Grounds|INV|[245]
+1 Elspeth, Sun's Champion|MOC|[182]
+1 Evolution Sage|ONC|[108]
+1 Exotic Orchard|C19|[242]
+1 Farseek|LCC|[242]
+1 Flooded Strand|KTK|[233]
+1 Flux Channeler|WAR|[52]
+2 Forest|THB|[254]
+1 Garruk, Cursed Huntsman|ELD|[270]
+1 Garruk, Primal Hunter|C21|[190]
+1 Godless Shrine|RNA|[248]
+1 Hallowed Fountain|RNA|[251]
+1 Humility|TPR|[16]
+1 Ichormoon Gauntlet|ONE|[56]
+1 Indatha Triome|IKO|[248]
+1 Interplanar Beacon|WAR|[247]
+1 Island|THB|[251]
+1 Kaya the Inexorable|KHM|[288]
+1 Kaya, Intangible Slayer|ONE|[205]
+1 Ketria Triome|IKO|[250]
+1 Liliana, Dreadhorde General|WAR|[97]
+1 Lolth, Spider Queen|AFR|[112]
+1 Marsh Flats|MH2|[248]
+1 Misty Rainforest|MH2|[250]
+1 Nature's Lore|CLB|[244]
+1 Ob Nixilis, the Adversary|SNC|[206]
+1 Oko, Thief of Crowns|ELD|[197]
+1 Onakke Oathkeeper|CMM|[755]
+1 Overgrown Tomb|GRN|[253]
+4 Plains|THB|[250]
+1 Plaza of Heroes|DMU|[252]
+1 Polluted Delta|KTK|[239]
+1 Primevals' Glorious Rebirth|DMC|[165]
+1 Professor Onyx|STX|[83]
+1 Raugrin Triome|IKO|[251]
+1 Reflecting Pool|CLB|[358]
+1 Sacred Foundry|GTC|[245]
+1 Savai Triome|IKO|[253]
+1 Scalding Tarn|MH2|[254]
+1 Sol Ring|MOC|[381]
+1 Sorin, Grim Nemesis|SOI|[251]
+1 Steam Vents|GRN|[257]
+1 Stomping Ground|RNA|[259]
+1 Strix Serenade|MH3|[71]
+1 Supreme Verdict|2X2|[280]
+1 Swan Song|HA3|[9]
+1 Teferi's Protection|2X2|[32]
+1 Teferi, Master of Time|M21|[75]
+1 Teferi, Temporal Pilgrim|BRO|[66]
+1 Temple Garden|GRN|[258]
+1 Temple of the False God|MB1|[1691]
+1 Teyo, Geometric Tactician|CMM|[725]
+1 Tezzeret, Artifice Master|J22|[360]
+1 The Wandering Emperor|NEO|[42]
+1 Three Visits|CLB|[837]
+1 Tomik, Wielder of Law|MKM|[431]
+1 Urborg, Tomb of Yawgmoth|TSR|[287]
+1 Vanquish the Horde|MID|[41]
+1 Verdant Catacombs|MH2|[260]
+1 Vorinclex, Monstrous Raider|KHM|[199]
+1 Vraska, Betrayal's Sting|ONE|[115]
+1 Vronos, Masked Inquisitor|CMM|[729]
+1 Watery Grave|GRN|[259]
+1 Windswept Heath|KTK|[248]
+1 Wooded Foothills|KTK|[249]
+1 Wrath of God|DMR|[37]
+1 Wrenn and Seven|MID|[208]
+1 Yavimaya, Cradle of Growth|MH2|[261]
+1 Zagoth Triome|IKO|[259]
 [Commander]
-1 Esika, God of the Tree|KHM|1
+1 Esika, God of the Tree|KHM|[168]

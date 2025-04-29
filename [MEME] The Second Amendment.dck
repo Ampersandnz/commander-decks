@@ -1,93 +1,93 @@
 [metadata]
 Name=[MEME] The Second Amendment
-[Commander]
-1 Atraxa, Praetors' Voice|2XM|1
 [Main]
-1 Aether Hub|KLD|1
-1 Aqueous Form|THS|1
-1 Army of the Damned|ISD|1
-1 Astral Cornucopia|BNG|1
-1 Aven Eternal|WAR|1
-1 Blighted Agent|NPH|1
-1 Bountiful Promenade|CLB|1
-1 Breaker of Armies|BFZ|1
-1 Breeding Pool|RNA|1
-1 Callous Dismissal|WAR|1
-1 Chromatic Lantern|GRN|1
-1 Clone Shell|2XM|1
-1 Coalition Relic|A25|1
-1 Coffin Queen|TMP|1
-1 Command Tower|ELD|1
-1 Compelling Deterrence|SOI|1
-1 Consuming Aberration|C16|1
-1 Contagion Engine|PLIST|1
-1 Crush Dissent|WAR|1
-1 Dispatch|MM2|1
-1 Dreadhorde Invasion|WAR|1
-1 Eldrazi Displacer|PLIST|1
-1 Eldrazi Skyspawner|BFZ|1
-1 Empowered Autogenerator|C19|1
-1 Endless One|BFZ|1
-1 Entomber Exarch|MM3|1
-1 Eternal Skylord|WAR|1
-1 Everflowing Chalice|DDF|1
-1 Exotic Orchard|CFX|1
-1 Fellwar Stone|PLIST|1
-1 Field of the Dead|M20|1
-2 Forest|THB|1
-1 Fuel for the Cause|MBS|1
-1 Gavony Township|ISD|1
-1 Gemstone Mine|TSB|1
-1 Gleaming Overseer|WAR|1
-1 Godless Shrine|RNA|1
-1 Grim Poppet|SHM|1
-1 Hallowed Fountain|RNA|1
-1 Hand of the Praetors|SOM|1
-1 Hundred-Handed One|PLIST|1
-1 Inexorable Tide|MM2|1
-6 Island|THB|1
-1 Kagemaro, First to Suffer|SOK|1
-1 Karn's Bastion|WAR|1
-1 Lazotep Plating|WAR|1
-1 Lazotep Reaver|WAR|1
-1 Lightning Greaves|2XM|1
-1 Mirrodin's Core|DST|1
-1 Morphic Pool|CLB|1
-1 Myojin of Cleansing Fire|CHK|1
-1 Myojin of Life's Web|CHK|1
-1 Myojin of Seeing Winds|CHK|1
-1 Nethroi, Apex of Death|IKO|1
-1 Oblivion Strike|OGW|1
-1 Overgrown Tomb|GRN|1
-1 Pentad Prism|2XM|1
-1 Phyrexian Arena|ONE|1
-1 Phyrexian Digester|MBS|1
-1 Phyrexian Obliterator|A25|1
-1 Phyrexian Rebirth|MBS|1
-1 Phyrexian Swarmlord|NPH|1
-1 Plague Stinger|SOM|1
-2 Plains|THB|1
-1 Prowler's Helm|THS|1
-1 Pyramid of the Pantheon|AKH|1
-1 Rejuvenating Springs|CMR|1
-1 Replicating Ring|KHM|1
-1 Sea of Clouds|PLIST|1
-1 Sire of Stagnation|BFZ|1
-1 Slip Through Space|OGW|1
-1 Sol Ring|MIC|1
-1 Spell Shrivel|BFZ|1
-5 Swamp|THB|1
-1 Swiftfoot Boots|PLIST|1
-1 Tine Shrike|MBS|1
-1 Undergrowth Stadium|CMR|1
-1 Vault of Champions|CMR|1
-1 Veteran's Sidearm|ORI|1
-1 Vivid Creek|MMA|1
-1 Vivid Grove|MMA|1
-1 Vivid Marsh|MMA|1
-1 Vivid Meadow|MMA|1
-1 Vizier of the Scorpion|WAR|1
-1 Void Grafter|OGW|1
-1 Vorinclex, Monstrous Raider|KHM|1
-1 Watery Grave|GRN|1
-1 Whispersilk Cloak|M11|1
+1 Aether Hub|KLD|[242]
+1 Aqueous Form|THS|[39]
+1 Army of the Damned|ISD|[87]
+1 Astral Cornucopia|BNG|[157]
+1 Aven Eternal|WAR|[42]
+1 Blighted Agent|NPH|[29]
+1 Bountiful Promenade|CLB|[348]
+1 Breaker of Armies|BFZ|[3]
+1 Breeding Pool|RNA|[246]
+1 Callous Dismissal|WAR|[44]
+1 Chromatic Lantern|GRN|[233]
+1 Clone Shell|2XM|[241]
+1 Coalition Relic|A25|[223]
+1 Coffin Queen|TMP|[114]
+1 Command Tower|ELD|[333]
+1 Compelling Deterrence|SOI|[52]
+1 Consuming Aberration|C16|[189]
+1 Contagion Engine|PLIST|[249]
+1 Crush Dissent|WAR|[47]
+1 Dispatch|MM2|[15]
+1 Dreadhorde Invasion|WAR|[86]
+1 Eldrazi Displacer|PLIST|[14]
+1 Eldrazi Skyspawner|BFZ|[58]
+1 Empowered Autogenerator|C19|[54]
+1 Endless One|CMM|[804]
+1 Entomber Exarch|MM3|[68]
+1 Eternal Skylord|WAR|[49]
+1 Everflowing Chalice|DDF|[60]
+1 Exotic Orchard|CFX|[142]
+1 Fellwar Stone|PLIST|[255]
+1 Field of the Dead|M20|[247]
+2 Forest|THB|[254]
+1 Fuel for the Cause|MBS|[25]
+1 Gavony Township|ISD|[239]
+1 Gemstone Mine|TSB|[119]
+1 Gleaming Overseer|WAR|[198]
+1 Godless Shrine|RNA|[248]
+1 Grim Poppet|SHM|[252]
+1 Hallowed Fountain|RNA|[251]
+1 Hand of the Praetors|SOM|[66]
+1 Hundred-Handed One|PLIST|[21]
+1 Inexorable Tide|MM2|[49]
+6 Island|THB|[251]
+1 Kagemaro, First to Suffer|SOK|[73]
+1 Karn's Bastion|WAR|[248]
+1 Lazotep Plating|WAR|[59]
+1 Lazotep Reaver|WAR|[96]
+1 Lightning Greaves|2XM|[267]
+1 Mirrodin's Core|DST|[165]
+1 Morphic Pool|CLB|[357]
+1 Myojin of Cleansing Fire|CHK|[35]
+1 Myojin of Life's Web|CHK|[229]
+1 Myojin of Seeing Winds|CHK|[75]
+1 Nethroi, Apex of Death|IKO|[197]
+1 Oblivion Strike|OGW|[75]
+1 Overgrown Tomb|GRN|[253]
+1 Pentad Prism|2XM|[281]
+1 Phyrexian Arena|ONE|[104]
+1 Phyrexian Digester|MBS|[120]
+1 Phyrexian Obliterator|A25|[101]
+1 Phyrexian Rebirth|MBS|[15]
+1 Phyrexian Swarmlord|NPH|[119]
+1 Plague Stinger|SOM|[75]
+2 Plains|THB|[250]
+1 Prowler's Helm|THS|[219]
+1 Pyramid of the Pantheon|AKH|[235]
+1 Rejuvenating Springs|CMR|[354]
+1 Replicating Ring|KHM|[244]
+1 Sea of Clouds|PLIST|[1087]
+1 Sire of Stagnation|BFZ|[206]
+1 Slip Through Space|OGW|[47]
+1 Sol Ring|MIC|[162]
+1 Spell Shrivel|BFZ|[66]
+5 Swamp|THB|[252]
+1 Swiftfoot Boots|PLIST|[271]
+1 Tine Shrike|MBS|[17]
+1 Undergrowth Stadium|CMR|[359]
+1 Vault of Champions|CMR|[360]
+1 Veteran's Sidearm|ORI|[242]
+1 Vivid Creek|MMA|[226]
+1 Vivid Grove|MMA|[227]
+1 Vivid Marsh|MMA|[228]
+1 Vivid Meadow|MMA|[229]
+1 Vizier of the Scorpion|WAR|[111]
+1 Void Grafter|OGW|[150]
+1 Vorinclex, Monstrous Raider|KHM|[199]
+1 Watery Grave|GRN|[259]
+1 Whispersilk Cloak|M11|[221]
+[Commander]
+1 Atraxa, Praetors' Voice|2XM|[190]

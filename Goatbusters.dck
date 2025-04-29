@@ -1,89 +1,89 @@
 [metadata]
 Name=Goatbusters
-[Commander]
-1 Hinata, Dawn-Crowned|NEO|1
 [Main]
-1 Abrade|SCD|1
-1 Aether Gale|CLB|1
-1 Arcane Denial|VOC|1
-1 Arcane Signet|MOC|1
-1 Archmage Emeritus|STX|1
-1 Arid Mesa|MH2|1
-1 Azorius Signet|SCD|1
-1 Backdraft Hellkite|2X2|1
-1 Baral's Expertise|KLR|1
-1 Battlefield Thaumaturge|JOU|1
-1 Blatant Thievery|E02|1
-1 Boros Signet|ONC|1
-1 Collective Defiance|SIR|1
-1 Command Tower|MOC|1
-1 Curious Homunculus|SIR|1
-1 Curse of the Swine|CLB|1
-1 Decoy Gambit|C20|1
-1 Deep Analysis|DMR|1
-1 Delay|TSR|1
-1 Deserted Beach|MID|1
-1 Disorder in the Court|VOC|1
-1 Distorting Wake|C14|1
-1 Dragon's Rage Channeler|J21|1
-1 Exotic Orchard|MOC|1
-1 Expressive Iteration|STX|1
-1 Fact or Fiction|DMR|1
-1 Faithful Mending|MID|1
-1 Faithless Looting|SIS|1
-1 Fellwar Stone|MOC|1
-1 Flooded Strand|KTK|1
-1 Generous Gift|MOC|1
-1 Goblin Electromancer|NCC|1
-1 Guttersnipe|SCD|1
-1 Hallowed Fountain|RNA|1
-1 Heliod's Intervention|THB|1
-11 Island|THB|1
-1 Izzet Signet|MOC|1
-1 Keep Safe|IKO|1
-1 Kykar, Wind's Fury|MOC|1
-1 Lier, Disciple of the Drowned|MID|1
-1 Magma Opus|STX|1
-1 Mass Manipulation|RNA|1
-1 Memory Deluge|MID|2
-1 Mind Stone|MOC|1
-6 Mountain|THB|1
-1 Murmuring Mystic|GN3|1
-1 Mystic Confluence|NCC|1
-1 Niv-Mizzet, Parun|CLB|1
-1 Open into Wonder|ZNC|1
-1 Plains|THB|1
-1 Prairie Stream|MOC|1
-1 Prismari Command|STX|1
-1 Ral, Izzet Viceroy|MPS_GRN|1
-1 Raugrin Triome|IKO|1
-1 Reality Shift|MOC|1
-1 Reliquary Tower|CMM|1
-1 Return to Dust|MOC|1
-1 Roiling Waters|OGW|1
-1 Sacred Foundry|SLD|1
-1 Saw It Coming|KHM|1
-1 Scalding Tarn|MH2|1
-1 Sea of Clouds|CLB|1
-1 Smoke Spirits' Aid|NEC|1
-1 Sol Ring|MIC|1
-1 Soulfire Eruption|CMR|1
-1 Spectator Seating|CMR|1
-1 Steam Vents|GRN|1
-1 Storm-Kiln Artist|J21|1
-1 Stormcarved Coast|VOW|1
-1 Sublime Epiphany|M21|1
-1 Sulfur Falls|DMR|1
-1 Sundown Pass|VOW|1
-1 Swords to Plowshares|MOC|1
-1 Talisman of Conviction|ONC|1
-1 Talisman of Creativity|C21|1
-1 Talisman of Progress|SCD|1
-1 Talrand, Sky Summoner|2X2|1
-1 Thought Vessel|SCD|1
-1 Torrential Gearhulk|KLR|1
-1 Training Center|CMR|1
-1 Valorous Stance|J22|1
-1 Volcanic Offering|CM2|1
-1 Whirlwind of Thought|MOC|1
-1 Young Pyromancer|J22|1
+1 Abrade|SCD|[122]
+1 Aether Gale|CLB|[712]
+1 Arcane Denial|VOC|[102]
+1 Arcane Signet|MOC|[348]
+1 Archmage Emeritus|STX|[37]
+1 Arid Mesa|MH2|[244]
+1 Azorius Signet|SCD|[259]
+1 Backdraft Hellkite|2X2|[103]
+1 Baral's Expertise|KLR|[43]
+1 Battlefield Thaumaturge|JOU|[31]
+1 Blatant Thievery|E02|[8]
+1 Boros Signet|ONC|[126]
+1 Collective Defiance|SIR|[148]
+1 Command Tower|MOC|[396]
+1 Curious Homunculus|SIR|[58]
+1 Curse of the Swine|CLB|[716]
+1 Decoy Gambit|C20|[32]
+1 Deep Analysis|DMR|[46]
+1 Delay|TSR|[61]
+1 Deserted Beach|MID|[260]
+1 Disorder in the Court|VOC|[29]
+1 Distorting Wake|C14|[107]
+1 Dragon's Rage Channeler|J21|[438]
+1 Exotic Orchard|MOC|[398]
+1 Expressive Iteration|STX|[186]
+1 Fact or Fiction|DMR|[48]
+1 Faithful Mending|MID|[221]
+1 Faithless Looting|SIS|[40]
+1 Fellwar Stone|MOC|[356]
+1 Flooded Strand|KTK|[233]
+1 Generous Gift|MOC|[187]
+1 Goblin Electromancer|NCC|[341]
+1 Guttersnipe|SCD|[145]
+1 Hallowed Fountain|RNA|[251]
+1 Heliod's Intervention|THB|[19]
+11 Island|THB|[251]
+1 Izzet Signet|MOC|[362]
+1 Keep Safe|IKO|[56]
+1 Kykar, Wind's Fury|MOC|[334]
+1 Lier, Disciple of the Drowned|MID|[59]
+1 Magma Opus|STX|[203]
+1 Mass Manipulation|RNA|[42]
+1 Memory Deluge|MID|[337]
+1 Mind Stone|MOC|[364]
+6 Mountain|THB|[253]
+1 Murmuring Mystic|GN3|[32]
+1 Mystic Confluence|NCC|[227]
+1 Niv-Mizzet, Parun|CLB|[851]
+1 Open into Wonder|ZNC|[34]
+1 Plains|THB|[250]
+1 Prairie Stream|MOC|[420]
+1 Prismari Command|STX|[214]
+1 Ral, Izzet Viceroy|MPS_GRN|[GR5]
+1 Raugrin Triome|IKO|[251]
+1 Reality Shift|MOC|[231]
+1 Reliquary Tower|CMM|[425]
+1 Return to Dust|MOC|[202]
+1 Roiling Waters|OGW|[62]
+1 Sacred Foundry|SLD|[131]
+1 Saw It Coming|KHM|[76]
+1 Scalding Tarn|MH2|[254]
+1 Sea of Clouds|CLB|[360]
+1 Smoke Spirits' Aid|NEC|[22]
+1 Sol Ring|MIC|[162]
+1 Soulfire Eruption|CMR|[201]
+1 Spectator Seating|CMR|[356]
+1 Steam Vents|GRN|[257]
+1 Storm-Kiln Artist|J21|[520]
+1 Stormcarved Coast|VOW|[265]
+1 Sublime Epiphany|M21|[74]
+1 Sulfur Falls|DMR|[258]
+1 Sundown Pass|VOW|[266]
+1 Swords to Plowshares|MOC|[211]
+1 Talisman of Conviction|ONC|[143]
+1 Talisman of Creativity|C21|[269]
+1 Talisman of Progress|SCD|[283]
+1 Talrand, Sky Summoner|2X2|[64]
+1 Thought Vessel|SCD|[285]
+1 Torrential Gearhulk|KLR|[70]
+1 Training Center|CMR|[358]
+1 Valorous Stance|J22|[59]
+1 Volcanic Offering|CM2|[126]
+1 Whirlwind of Thought|MOC|[344]
+1 Young Pyromancer|J22|[626]
+[Commander]
+1 Hinata, Dawn-Crowned|NEO|[222]

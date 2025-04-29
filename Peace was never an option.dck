@@ -1,87 +1,87 @@
 [metadata]
 Name=Peace was never an option
 [Main]
-1 All That Glitters|ELD|1
-1 Amphibian Downpour|MH3|1
-1 An Offer You Can't Refuse|SNC|1
-1 Angelic Destiny|WOC|1
-1 Arcane Signet|ELD|1
-1 Arid Mesa|MM3|1
-1 Auramancer's Guise|PLC|1
-1 Blighted Agent|NPH|1
-1 Bonehoard Dracosaur|LCI|1
-1 Bruna, Light of Alabaster|AVR|1
-1 Combat Research|DMU|1
-1 Command Tower|ELD|1
-1 Curious Obsession|RIX|1
-1 Curse of the Swine|THS|1
-1 Danitha, Benalia's Hope|DMU|1
-1 Daybreak Coronet|UMA|1
-1 Divine Reckoning|ISD|1
-1 Duelist's Heritage|MKC|1
-1 Eaten by Piranhas|LCI|1
-1 Eel Umbra|2X2|1
-1 Eidolon of Countless Battles|WOC|1
-1 Eiganjo, Seat of the Empire|NEO|1
-1 Esper Sentinel|J21|1
-1 Ethereal Armor|RTR|1
-1 Exotic Orchard|CFX|1
-1 Fellwar Stone|PLIST|1
-1 Flooded Strand|KTK|1
-1 Frogify|2XM|1
-1 Giggling Skitterspike|DSC|2
-1 Glacial Fortress|XLN|1
-1 Grasp of Fate|MB1|1
-1 Hallowed Fountain|RNA|1
-1 Heliod's Intervention|OTC|1
-1 Helm of the Gods|ORI|1
-1 Holy Mantle|GTC|1
-1 Invasion of Theros|MOM|1
-1 Invisible Stalker|PLIST|1
-9 Island|THB|1
-1 Kasmina's Transmutation|RVR|1
-1 Kor Spiritdancer|ROE|1
-1 Madcap Skills|MB1|1
-1 Mammoth Umbra|UMA|1
-1 Mantle of the Ancients|AFC|1
-1 Mesa Enchantress|DMR|1
-1 Mountain|THB|1
-1 Octopus Umbra|C18|1
-1 Otawara, Soaring City|NEO|1
-1 Pearl-Ear, Imperial Advisor|MH3|1
-10 Plains|THB|1
-1 Prairie Stream|BFZ|1
-1 Reliquary Tower|M19|1
-1 Rhystic Study|WOT|1
-1 Sacred Foundry|GRN|1
-1 Sage's Reverie|FRF|1
-1 Scalding Tarn|MM3|1
-1 Sea of Clouds|PLIST|1
-1 Serra Ascendant|IMA|1
-1 Sheltered by Ghosts|DSK|1
-1 Shrike Force|BLB|1
-1 Slippery Scoundrel|RIX|1
-1 Sol Ring|MIC|1
-1 Spectator Seating|CMR|1
-1 Spectra Ward|M15|1
-1 Squee's Embrace|APC|1
-1 Stasis Field|MOM|1
-1 Steam Vents|GRN|1
-1 Stubborn Denial|KTK|1
-1 Swan Song|THS|1
-1 Swiftblade Vindicator|2XM|1
-1 Talisman of Conviction|ONC|1
-1 Talisman of Creativity|M3C|1
-1 Talisman of Progress|MRD|1
-1 Tiana, Ship's Caretaker|DMR|1
-1 Training Center|CMR|1
-1 Trouble in Pairs|MKC|2
-1 Unfinished Business|WOC|2
-1 Utter Insignificance|MH3|1
-1 Wear // Tear|PIO|1
-1 Whirlwind of Thought|IKO|1
-1 Winds of Rath|MKC|1
-1 Witness Protection|SNC|1
+1 All That Glitters|ELD|[2]
+1 Amphibian Downpour|MH3|[51]
+1 An Offer You Can't Refuse|SNC|[51]
+1 Angelic Destiny|WOC|[60]
+1 Arcane Signet|ELD|[331]
+1 Arid Mesa|MM3|[229]
+1 Auramancer's Guise|PLC|[34]
+1 Blighted Agent|NPH|[29]
+1 Bonehoard Dracosaur|LCI|[134]
+1 Bruna, Light of Alabaster|AVR|[208]
+1 Combat Research|DMU|[44]
+1 Command Tower|ELD|[333]
+1 Curious Obsession|RIX|[35]
+1 Curse of the Swine|THS|[46]
+1 Danitha, Benalia's Hope|DMU|[15]
+1 Daybreak Coronet|UMA|[14]
+1 Divine Reckoning|ISD|[10]
+1 Duelist's Heritage|MKC|[60]
+1 Eaten by Piranhas|LCI|[54]
+1 Eel Umbra|2X2|[48]
+1 Eidolon of Countless Battles|WOC|[66]
+1 Eiganjo, Seat of the Empire|NEO|[268]
+1 Esper Sentinel|J21|[75]
+1 Ethereal Armor|RTR|[9]
+1 Exotic Orchard|CFX|[142]
+1 Fellwar Stone|PLIST|[255]
+1 Flooded Strand|KTK|[233]
+1 Frogify|2XM|[52]
+1 Giggling Skitterspike|DSC|[66]
+1 Glacial Fortress|XLN|[255]
+1 Grasp of Fate|MB1|[126]
+1 Hallowed Fountain|RNA|[251]
+1 Heliod's Intervention|OTC|[81]
+1 Helm of the Gods|ORI|[230]
+1 Holy Mantle|GTC|[17]
+1 Invasion of Theros|MOM|[23]
+1 Invisible Stalker|PLIST|[461]
+9 Island|THB|[251]
+1 Kasmina's Transmutation|RVR|[46]
+1 Kor Spiritdancer|ROE|[31]
+1 Madcap Skills|MB1|[1005]
+1 Mammoth Umbra|UMA|[24]
+1 Mantle of the Ancients|AFC|[8]
+1 Mesa Enchantress|DMR|[14]
+1 Mountain|THB|[253]
+1 Octopus Umbra|C18|[11]
+1 Otawara, Soaring City|NEO|[271]
+1 Pearl-Ear, Imperial Advisor|MH3|[39]
+10 Plains|THB|[250]
+1 Prairie Stream|BFZ|[241]
+1 Reliquary Tower|M19|[254]
+1 Rhystic Study|WOT|[25]
+1 Sacred Foundry|GRN|[254]
+1 Sage's Reverie|FRF|[23]
+1 Scalding Tarn|MM3|[244]
+1 Sea of Clouds|PLIST|[1087]
+1 Serra Ascendant|IMA|[31]
+1 Sheltered by Ghosts|DSK|[30]
+1 Shrike Force|BLB|[31]
+1 Slippery Scoundrel|RIX|[55]
+1 Sol Ring|MIC|[162]
+1 Spectator Seating|CMR|[356]
+1 Spectra Ward|M15|[36]
+1 Squee's Embrace|APC|[122]
+1 Stasis Field|MOM|[79]
+1 Steam Vents|GRN|[257]
+1 Stubborn Denial|KTK|[56]
+1 Swan Song|THS|[65]
+1 Swiftblade Vindicator|2XM|[221]
+1 Talisman of Conviction|ONC|[143]
+1 Talisman of Creativity|M3C|[308]
+1 Talisman of Progress|MRD|[256]
+1 Tiana, Ship's Caretaker|DMR|[204]
+1 Training Center|CMR|[358]
+1 Trouble in Pairs|MKC|[326]
+1 Unfinished Business|WOC|[44]
+1 Utter Insignificance|MH3|[78]
+1 Wear // Tear|PIO|[398]
+1 Whirlwind of Thought|IKO|[215]
+1 Winds of Rath|MKC|[93]
+1 Witness Protection|SNC|[66]
 [Commander]
-1 Ishai, Ojutai Dragonspeaker|CMR|1
-1 Jeska, Thrice Reborn|CMR|1
+1 Ishai, Ojutai Dragonspeaker|CMR|[520]
+1 Jeska, Thrice Reborn|CMR|[186]

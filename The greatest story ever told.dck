@@ -1,86 +1,86 @@
 [metadata]
 Name=The greatest story ever told
-[Commander]
-1 The Scarab God|CMM|1
 [Main]
-1 An Offer You Can't Refuse|SNC|1
-1 Arcane Signet|SLD|4
-1 Black Market Connections|CLB|1
-1 Breach the Multiverse|MOM|1
-1 Carrion Feeder|MH1|1
-1 Cavern of Souls|LCI|1
-1 Champion of the Perished|SCD|1
-1 Cleaver Skaab|MIC|1
-1 Command Tower|WOC|1
-1 Corrupted Conviction|MOM|1
-1 Cyclonic Rift|CMM|1
-1 Damnation|2X2|1
-1 Death Tyrant|AFC|1
-1 Dictate of Erebos|JOU|1
-1 Diregraf Colossus|MIC|1
-1 Drowned Catacomb|XLN|1
-1 Endless Ranks of the Dead|J22|1
-1 Fact or Fiction|WOC|1
-1 Feed the Swarm|CMM|1
-1 Fellwar Stone|MKC|1
-1 Field of the Dead|M20|1
-1 Fleshbag Marauder|SLD|2
-1 Ghoulcaller Gisa|CMM|1
-1 Ghoulish Procession|MID|1
-1 Ghouls' Night Out|MIC|1
-1 Gisa and Geralf|EMN|1
-1 Grave Betrayal|RTR|1
-1 Grave Pact|CM2|1
-1 Grave Titan|MKC|1
-1 Gravecrawler|DKA|1
-1 Gray Merchant of Asphodel|THB|1
-1 Havengul Lich|SCD|1
-1 Headless Rider|VOW|1
-1 Invasion of Amonkhet|MOM|1
-5 Island|THB|1
-1 Jadar, Ghoulcaller of Nephalia|MID|1
-1 Jet Medallion|C14|1
-1 Liliana, Dreadhorde General|RVR|1
-1 Mesmeric Orb|2XM|1
-1 Midnight Reaper|GRN|1
-1 Morphic Pool|BBD|1
-1 Murderous Rider|ELD|1
-1 Necroduality|VOW|1
-1 Noxious Ghoul|HOP|1
-1 Otawara, Soaring City|NEO|1
-1 Phyrexian Altar|2X2|1
-1 Phyrexian Tower|UMA|1
-1 Pile On|MKC|1
-1 Polluted Delta|KTK|1
-1 Pongify|2XM|1
-1 Prowling Geistcatcher|MIC|2
-1 Rapid Hybridization|CLU|1
-1 Ravenous Rotbelly|MIC|1
-1 Reflections of Littjara|LCC|1
-1 Reliquary Tower|LCC|1
-1 Rhystic Study|J22|1
-1 Roaming Throne|LCI|1
-1 Saw in Half|UNF|1
-1 Sheoldred|MOM|1
-1 Shipwreck Marsh|MID|1
-1 Sol Ring|CMM|1
-1 Soul Shatter|ZNR|1
-1 Strip Mine|VMA|1
-1 Sunken Hollow|WOC|1
-15 Swamp|THB|1
-1 Swan Song|C16|1
-1 Tainted Isle|MKC|1
-1 Takenuma, Abandoned Mire|NEO|1
-1 Talisman of Dominance|WOC|1
-1 The Meathook Massacre|MID|1
-1 Thought Vessel|CMM|1
-1 Tomb Tyrant|MIC|1
-1 Undead Augur|MH1|1
-1 Undercity Sewers|MKM|1
-1 Underground River|BRO|1
-1 Victimize|CMR|1
-1 Village Rites|M21|1
-1 Virtue of Persistence|WOE|1
-1 Watery Grave|GRN|1
-1 Wilhelt, the Rotcleaver|MIC|1
-1 Windfall|C20|1
+1 An Offer You Can't Refuse|SNC|[51]
+1 Arcane Signet|SLD|[820★]
+1 Black Market Connections|CLB|[620]
+1 Breach the Multiverse|MOM|[94]
+1 Carrion Feeder|MH1|[81]
+1 Cavern of Souls|LCI|[269]
+1 Champion of the Perished|SCD|[71]
+1 Cleaver Skaab|MIC|[11]
+1 Command Tower|WOC|[156]
+1 Corrupted Conviction|MOM|[98]
+1 Cyclonic Rift|CMM|[84]
+1 Damnation|2X2|[73]
+1 Death Tyrant|AFC|[23]
+1 Dictate of Erebos|JOU|[65]
+1 Diregraf Colossus|MIC|[112]
+1 Drowned Catacomb|XLN|[253]
+1 Endless Ranks of the Dead|J22|[410]
+1 Fact or Fiction|WOC|[90]
+1 Feed the Swarm|CMM|[159]
+1 Fellwar Stone|MKC|[228]
+1 Field of the Dead|M20|[247]
+1 Fleshbag Marauder|SLD|[841]
+1 Ghoulcaller Gisa|CMM|[161]
+1 Ghoulish Procession|MID|[102]
+1 Ghouls' Night Out|MIC|[19]
+1 Gisa and Geralf|EMN|[183]
+1 Grave Betrayal|RTR|[67]
+1 Grave Pact|CM2|[65]
+1 Grave Titan|MKC|[129]
+1 Gravecrawler|DKA|[64]
+1 Gray Merchant of Asphodel|THB|[99]
+1 Havengul Lich|SCD|[231]
+1 Headless Rider|VOW|[118]
+1 Invasion of Amonkhet|MOM|[231]
+5 Island|THB|[251]
+1 Jadar, Ghoulcaller of Nephalia|MID|[108]
+1 Jet Medallion|C14|[243]
+1 Liliana, Dreadhorde General|FDN|[359]
+1 Mesmeric Orb|2XM|[272]
+1 Midnight Reaper|GRN|[77]
+1 Morphic Pool|BBD|[83]
+1 Murderous Rider|ELD|[97]
+1 Necroduality|VOW|[70]
+1 Noxious Ghoul|HOP|[35]
+1 Otawara, Soaring City|NEO|[271]
+1 Phyrexian Altar|2X2|[311]
+1 Phyrexian Tower|UMA|[248]
+1 Pile On|MKC|[134]
+1 Polluted Delta|KTK|[239]
+1 Pongify|2XM|[62]
+1 Prowling Geistcatcher|MIC|[59]
+1 Rapid Hybridization|CLU|[93]
+1 Ravenous Rotbelly|MIC|[22]
+1 Reflections of Littjara|LCC|[168]
+1 Reliquary Tower|LCC|[348]
+1 Rhystic Study|J22|[114]
+1 Roaming Throne|LCI|[258]
+1 Saw in Half|UNF|[88]
+1 Sheoldred|MOM|[125]
+1 Shipwreck Marsh|MID|[267]
+1 Sol Ring|CMM|[410]
+1 Soul Shatter|ZNR|[127]
+1 Strip Mine|VMA|[316]
+1 Sunken Hollow|WOC|[168]
+15 Swamp|THB|[252]
+1 Swan Song|C16|[98]
+1 Tainted Isle|MKC|[300]
+1 Takenuma, Abandoned Mire|NEO|[278]
+1 Talisman of Dominance|WOC|[150]
+1 The Meathook Massacre|MID|[112]
+1 Thought Vessel|CMM|[414]
+1 Tomb Tyrant|MIC|[23]
+1 Undead Augur|MH1|[112]
+1 Undercity Sewers|MKM|[270]
+1 Underground River|BRO|[267]
+1 Victimize|CMR|[157]
+1 Village Rites|M21|[126]
+1 Virtue of Persistence|WOE|[115]
+1 Watery Grave|GRN|[259]
+1 Wilhelt, the Rotcleaver|MIC|[2]
+1 Windfall|C20|[128]
+[Commander]
+1 The Scarab God|CMM|[353]

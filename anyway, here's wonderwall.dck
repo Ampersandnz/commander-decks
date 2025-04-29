@@ -1,90 +1,90 @@
 [metadata]
 Name=anyway, here's wonderwall
 [Main]
-1 An Offer You Can't Refuse|SNC|1
-1 Arcane Denial|DRC|1
-1 Arcane Signet|NCC|1
-1 Assault Formation|JMP|1
-1 Assemble the Players|MKM|1
-1 Axebane Guardian|RTR|1
-1 Baldin, Century Herdmaster|SLX|1
-1 Beast Within|DMC|1
-1 Bedrock Tortoise|LCI|1
-1 Boseiju, Who Endures|NEO|1
-1 Bountiful Promenade|BBD|1
-1 Breeding Pool|RNA|1
-1 Charix, the Raging Isle|ZNR|1
-1 Colfenor's Urn|LRW|1
-1 Command Tower|C18|1
-1 Corrupted Shapeshifter|MH3|1
-1 Counterspell|DSC|1
-1 Cyclonic Rift|MM3|1
-1 Delney, Streetwise Lookout|MKM|1
-1 Deserted Beach|MID|1
-1 Dreamroot Cascade|VOW|1
-1 Dusk // Dawn|C19|1
-1 Eiganjo, Seat of the Empire|NEO|1
-1 Exotic Orchard|CM2|1
-1 Expel the Interlopers|WOE|1
-1 Farseek|CMM|1
-1 Fecund Greenshell|BLB|2
-1 Fell the Mighty|VOC|1
-1 Flooded Strand|KTK|1
-6 Forest|THB|1
-1 Generous Gift|WOC|1
-1 Get Lost|LCI|1
-1 Grasp of Fate|CMM|1
-1 Guardian Project|RVR|1
-1 Hallowed Fountain|RNA|1
-1 High Alert|RNA|1
-1 Hover Barrier|RTR|1
-1 Hydroelectric Specimen|MH3|1
-4 Island|THB|1
-1 Meekstone|MPS_KLD|1
-1 Misty Rainforest|MH2|1
-1 Nature's Lore|CMM|1
-1 No More Lies|MKM|1
-1 Ohran Frostfang|CMM|1
-1 Otawara, Soaring City|NEO|1
-1 Overgrown Battlement|JMP|1
-1 Overgrown Farmland|MID|1
-1 Plagon, Lord of the Beach|J25|1
-7 Plains|THB|1
-1 Rammas Echor, Ancient Shield|LTC|1
-1 Rampant Growth|CMM|1
-1 Rejuvenating Springs|CMM|1
-1 Reliquary Tower|LCC|1
-1 Riptide Turtle|THB|1
-1 Sea of Clouds|BBD|1
-1 Shield Sphere|ALL|1
-1 Slagwurm Armor|MRD|1
-1 Slaughter the Strong|CMR|1
-1 Sol Ring|C14|1
-1 Spara's Headquarters|SNC|1
-1 Stalwart Shield-Bearers|ROE|1
-1 Stoneskin|CLB|1
-1 Strix Serenade|MH3|1
-1 Stroke of Midnight|WOE|1
-1 Sunscape Familiar|PLS|1
-1 Swan Song|C16|1
-1 Swords to Plowshares|LCC|1
-1 Sylvan Caryatid|THS|1
-1 Temple Garden|GRN|1
-1 Tetsuko Umezawa, Fugitive|DOM|1
-1 The Council of Four|CLB|1
-1 The Pride of Hull Clade|MKM|1
-1 Three Visits|CMM|1
-1 Tower Defense|RNA|1
-1 Traproot Kami|BOK|1
-1 Vine Trellis|GVL|1
-1 Walking Bulwark|DMU|1
-1 Wall of Blossoms|MH1|1
-1 Wall of Denial|MM3|1
-1 Wall of Junk|DMR|1
-1 Wall of Omens|2X2|1
-1 Wall of Stolen Identity|C19|1
-1 Weathered Sentinels|NCC|1
-1 Windswept Heath|KTK|1
-1 Yavimaya, Cradle of Growth|MH2|1
+1 An Offer You Can't Refuse|SNC|[51]
+1 Arcane Denial|DRC|[70]
+1 Arcane Signet|NCC|[360]
+1 Assault Formation|JMP|[378]
+1 Assemble the Players|MKM|[3]
+1 Axebane Guardian|RTR|[115]
+1 Baldin, Century Herdmaster|SLX|[10]
+1 Beast Within|DMC|[129]
+1 Bedrock Tortoise|LCI|[176]
+1 Boseiju, Who Endures|NEO|[266]
+1 Bountiful Promenade|BBD|[81]
+1 Breeding Pool|RNA|[246]
+1 Charix, the Raging Isle|ZNR|[49]
+1 Colfenor's Urn|LRW|[254]
+1 Command Tower|C18|[240]
+1 Corrupted Shapeshifter|MH3|[56]
+1 Counterspell|DSC|[114]
+1 Cyclonic Rift|MM3|[35]
+1 Delney, Streetwise Lookout|MKM|[12]
+1 Deserted Beach|MID|[260]
+1 Dreamroot Cascade|VOW|[262]
+1 Dusk // Dawn|C19|[63]
+1 Eiganjo, Seat of the Empire|NEO|[268]
+1 Exotic Orchard|CM2|[250]
+1 Expel the Interlopers|WOE|[13]
+1 Farseek|CMM|[894]
+1 Fecund Greenshell|BLB|[362]
+1 Fell the Mighty|VOC|[85]
+1 Flooded Strand|KTK|[233]
+6 Forest|THB|[254]
+1 Generous Gift|WOC|[68]
+1 Get Lost|LCI|[14]
+1 Grasp of Fate|CMM|[823]
+1 Guardian Project|RVR|[146]
+1 Hallowed Fountain|RNA|[251]
+1 High Alert|RNA|[182]
+1 Hover Barrier|RTR|[40]
+1 Hydroelectric Specimen|MH3|[240]
+4 Island|THB|[251]
+1 Meekstone|MPS_KLD|[40]
+1 Misty Rainforest|MH2|[250]
+1 Nature's Lore|CMM|[904]
+1 No More Lies|MKM|[221]
+1 Ohran Frostfang|CMM|[309]
+1 Otawara, Soaring City|NEO|[271]
+1 Overgrown Battlement|JMP|[417]
+1 Overgrown Farmland|MID|[265]
+1 Plagon, Lord of the Beach|J25|[37]
+7 Plains|THB|[250]
+1 Rammas Echor, Ancient Shield|LTC|[505]
+1 Rampant Growth|CMM|[908]
+1 Rejuvenating Springs|CMM|[424]
+1 Reliquary Tower|LCC|[348]
+1 Riptide Turtle|THB|[61]
+1 Sea of Clouds|BBD|[84]
+1 Shield Sphere|MED|[166]
+1 Slagwurm Armor|MRD|[243]
+1 Slaughter the Strong|CMR|[48]
+1 Sol Ring|C14|[270]
+1 Spara's Headquarters|SNC|[257]
+1 Stalwart Shield-Bearers|ROE|[46]
+1 Stoneskin|CLB|[45]
+1 Strix Serenade|MH3|[71]
+1 Stroke of Midnight|WOE|[33]
+1 Sunscape Familiar|PLS|[17]
+1 Swan Song|C16|[98]
+1 Swords to Plowshares|LCC|[137]
+1 Sylvan Caryatid|THS|[180]
+1 Temple Garden|GRN|[258]
+1 Tetsuko Umezawa, Fugitive|DOM|[69]
+1 The Council of Four|CLB|[271]
+1 The Pride of Hull Clade|MKM|[172]
+1 Three Visits|CMM|[913]
+1 Tower Defense|RNA|[147]
+1 Traproot Kami|BOK|[147]
+1 Vine Trellis|GVL|[4]
+1 Walking Bulwark|DMU|[241]
+1 Wall of Blossoms|MH1|[190]
+1 Wall of Denial|MM3|[201]
+1 Wall of Junk|DMR|[240]
+1 Wall of Omens|2X2|[33]
+1 Wall of Stolen Identity|C19|[13]
+1 Weathered Sentinels|NCC|[85]
+1 Windswept Heath|KTK|[248]
+1 Yavimaya, Cradle of Growth|MH2|[261]
 [Commander]
-1 Arcades, the Strategist|M19|1
+1 Arcades, the Strategist|M19|[212]
